@@ -2009,13 +2009,16 @@ http://190.83.119.67:8000/play/a0q7/index.m3u8
 http://190.83.119.67:8000/play/a0us/index.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TelemundoCentralAmerica.us" tvg-logo="https://i.ibb.co/3rLq5Cw/large-Telemundo-Intl2018-png-cabcb63374fc3ce2e8e59fd38fd6d72d.png" group-title="HD",Telemundo Internacional HD
-http://190.83.119.67:8000/play/a0q9/index.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNTSeriesSouth.us" tvg-logo="https://i.ibb.co/8D9zJ0f/31009457980-baaa6ac9db-o.png" group-title="HD",TNT Series HD
-http://190.83.119.67:8000/play/a0ta/index.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL71/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="TruTVAmericaLatina.us" tvg-name="TruTVAmericaLatina.us" tvg-logo="https://i.ibb.co/YDDN74T/Tru-TV-logo-2014.png" group-title="HD",TruTV HD
-http://181.176.148.142:8000/play/a030
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL79/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CH5vkS0/hola-tv-350x183.png" group-title="Entretenimiento",¡Hola! TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UnivisionPanregional.mx" tvg-logo="https://i.ibb.co/bLJKJMm/ncgtw3q423765978oliopucvbhxdcfsaw2we36457utfgdujdser548u.png" group-title="HD",Univision HD
 http://190.83.119.67:8000/play/a0v0/index.m3u8
