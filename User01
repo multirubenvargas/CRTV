@@ -107,7 +107,7 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r52qCgC/bvnrtwsertpo895aqw3y1gj7n475rujtfydert5w356.png" group-title="México",TVCuatro 4.3
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Premiun",AmØrica Televisiðn
+#EXTINF:-1 group-title="TV Premiun",America Televisiðn
 http://190.95.220.212:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",ATV
 http://190.95.220.212:8000/play/a00k/index.m3u8
@@ -119,303 +119,396 @@ http://190.95.220.212:8000/play/a00s/index.m3u8
 http://190.95.220.212:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Kanal D Drama
 http://190.95.220.212:8000/play/a03n/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="TV Premiun",Nick Jr
 http://190.95.220.212:8000/play/a00n/index.m3u8
-#EXTINF:-1,STAR CHANNEL
+#EXTINF:-1 group-title="TV Premiun",STAR CHANNEL
 http://190.95.220.212:8000/play/a03u/index.m3u8
-#EXTINF:-1,Teen Nick
+#EXTINF:-1 group-title="TV Premiun",Teen Nick
 http://190.95.220.212:8000/play/a00l/index.m3u8
-#EXTINF:-1,Warner Channel
+#EXTINF:-1 group-title="TV Premiun",Warner Channel
 http://190.95.220.212:8000/play/a03t/index.m3u8
-#EXTINF:-1,CDO BÆsico
+#EXTINF:-1 group-title="TV Premiun",CDO BÆsico
 http://190.95.220.212:8000/play/a013/index.m3u8
-#EXTINF:-1,CDO Premium
+#EXTINF:-1 group-title="TV Premiun",CDO Premium
 http://190.95.220.212:8000/play/a014/index.m3u8
-#EXTINF:-1,Discovery H&H
+#EXTINF:-1 group-title="TV Premiun",Discovery H&H
 http://190.95.220.212:8000/play/a00y/index.m3u8
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 group-title="TV Premiun",Disney Junior
 http://190.95.220.212:8000/play/a00w/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="TV Premiun",ESPN 3
 http://190.95.220.212:8000/play/a015/index.m3u8
-#EXTINF:-1,EWTN
+#EXTINF:-1 group-title="TV Premiun",EWTN
 http://190.95.220.212:8000/play/a012/index.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="TV Premiun",FX
 http://190.95.220.212:8000/play/a017/index.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1 group-title="TV Premiun",History Channel
 http://190.95.220.212:8000/play/a00x/index.m3u8
-#EXTINF:-1,ID - Investigation Discovery
+#EXTINF:-1 group-title="TV Premiun",ID - Investigation Discovery
 http://190.95.220.212:8000/play/a00z/index.m3u8
-#EXTINF:-1,Telenovelas
+#EXTINF:-1 group-title="TV Premiun",Telenovelas
 http://190.95.220.212:8000/play/a010/index.m3u8
-#EXTINF:-1,TVE
+#EXTINF:-1 group-title="TV Premiun",TVE
 http://190.95.220.212:8000/play/a011/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 group-title="TV Premiun",Universal
 http://190.95.220.212:8000/play/a016/index.m3u8
-#EXTINF:-1,Canal 13
+#EXTINF:-1 group-title="TV Premiun",Canal 13
 http://190.95.220.212:8000/play/a01b/index.m3u8
-#EXTINF:-1,CHV
+#EXTINF:-1 group-title="TV Premiun",CHV
 http://190.95.220.212:8000/play/a01a/index.m3u8
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 group-title="TV Premiun",Cinecanal
 http://190.95.220.212:8000/play/a01l/index.m3u8
-#EXTINF:-1,Glitz*
+#EXTINF:-1 group-title="TV Premiun",Glitz*
 http://190.95.220.212:8000/play/a01f/index.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:-1 group-title="TV Premiun",Golden Edge
 http://190.95.220.212:8000/play/a01k/index.m3u8
-#EXTINF:-1,MEGA
+#EXTINF:-1 group-title="TV Premiun",MEGA
 http://190.95.220.212:8000/play/a019/index.m3u8
-#EXTINF:-1,Via X
+#EXTINF:-1 group-title="TV Premiun",Via X
 http://190.95.220.212:8000/play/a01d/index.m3u8
-#EXTINF:-1,Win Sports+
+#EXTINF:-1 group-title="TV Premiun",Win Sports+
 http://190.95.220.212:8000/play/a01j/index.m3u8
-#EXTINF:-1,Zona Latina
+#EXTINF:-1 group-title="TV Premiun",Zona Latina
 http://190.95.220.212:8000/play/a01c/index.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 group-title="TV Premiun",Cartoonito
 http://190.95.220.212:8000/play/a01q/index.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="TV Premiun",Cinemax
 http://190.95.220.212:8000/play/a01w/index.m3u8
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="TV Premiun",Discovery Science
 http://190.95.220.212:8000/play/a01x/index.m3u8
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 group-title="TV Premiun",Fox Sports 2
 http://190.95.220.212:8000/play/a01r/index.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 group-title="TV Premiun",Nickelodeon
 http://190.95.220.212:8000/play/a01p/index.m3u8
-#EXTINF:-1,Paramount Channel
+#EXTINF:-1 group-title="TV Premiun",Paramount Channel
 http://190.95.220.212:8000/play/a01v/index.m3u8
 
-#EXTINF:-1,REC TV
+#EXTINF:-1 group-title="TV Premiun",REC TV
 http://190.95.220.212:8000/play/a01m/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="TV Premiun",TCM
 http://190.95.220.212:8000/play/a01u/index.m3u8
-#EXTINF:-1,Teleislas
+#EXTINF:-1 group-title="TV Premiun",Teleislas
 http://190.95.220.212:8000/play/a01o/index.m3u8
-#EXTINF:-1,Venevisiðn
+#EXTINF:-1 group-title="TV Premiun",Venevisiðn
 http://190.95.220.212:8000/play/a01n/index.m3u8
-#EXTINF:-1,Antena 3
+#EXTINF:-1 group-title="TV Premiun",Antena 3
 http://190.95.220.212:8000/play/a027/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="TV Premiun",Cartoon Network
 http://190.95.220.212:8000/play/a021/index.m3u8
-#EXTINF:-1,Clover
+#EXTINF:-1 group-title="TV Premiun",Clover
 http://190.95.220.212:8000/play/a020/index.m3u8
-#EXTINF:-1,CNN Chile
+#EXTINF:-1 group-title="TV Premiun",CNN Chile
 http://190.95.220.212:8000/play/a026/index.m3u8
-#EXTINF:-1,E! Entertainment TV
+#EXTINF:-1 group-title="TV Premiun",E! Entertainment TV
 http://190.95.220.212:8000/play/a024/index.m3u8
-#EXTINF:-1,ESPN2
+#EXTINF:-1 group-title="TV Premiun",ESPN2
 http://190.95.220.212:8000/play/a03f/index.m3u8
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1 group-title="TV Premiun",Fox Sports 1
 http://190.95.220.212:8000/play/a028/index.m3u8
-#EXTINF:-1,History 2
+#EXTINF:-1 group-title="TV Premiun",History 2
 http://190.95.220.212:8000/play/a023/index.m3u8
-#EXTINF:-1,IVC
+#EXTINF:-1 group-title="TV Premiun",IVC
 http://190.95.220.212:8000/play/a01z/index.m3u8
-#EXTINF:-1,Sony
+#EXTINF:-1 group-title="TV Premiun",Sony
 http://190.95.220.212:8000/play/a029/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="TV Premiun",Animal Planet
 http://190.95.220.212:8000/play/a02f/index.m3u8
-#EXTINF:-1,Caracol
+#EXTINF:-1 group-title="TV Premiun",Caracol
 http://190.95.220.212:8000/play/a02d/index.m3u8
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 group-title="TV Premiun",Comedy Central
 http://190.95.220.212:8000/play/a02k/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 group-title="TV Premiun",Discovery Kids
 http://190.95.220.212:8000/play/a02e/index.m3u8
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 group-title="TV Premiun",ESPN 4
 http://190.95.220.212:8000/play/a02i/index.m3u8
-#EXTINF:-1,Movistar TV
+#EXTINF:-1 group-title="TV Premiun",Movistar TV
 http://190.95.220.212:8000/play/a02c/index.m3u8
-#EXTINF:-1,TNT SPORTS 3
+#EXTINF:-1 group-title="TV Premiun",TNT SPORTS 3
 http://190.95.220.212:8000/play/a02j/index.m3u8
-#EXTINF:-1,De PelŦcula
+#EXTINF:-1 group-title="TV Premiun",De Pelicula
 http://190.95.220.212:8000/play/a02z/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 group-title="TV Premiun",Discovery Turbo
 http://190.95.220.212:8000/play/a02t/index.m3u8
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 group-title="TV Premiun",Disney Channel
 http://190.95.220.212:8000/play/a02r/index.m3u8
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="TV Premiun",HGTV
 http://190.95.220.212:8000/play/a02s/index.m3u8
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="TV Premiun",Lifetime
 http://190.95.220.212:8000/play/a02w/index.m3u8
-#EXTINF:-1,RCN
+#EXTINF:-1 group-title="TV Premiun",RCN
 http://190.95.220.212:8000/play/a02q/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 group-title="TV Premiun",Studio Universal
 http://190.95.220.212:8000/play/a02x/index.m3u8
-#EXTINF:-1,TelefØ
+#EXTINF:-1 group-title="TV Premiun",Telefe
 http://190.95.220.212:8000/play/a02v/index.m3u8
-#EXTINF:-1,Panamericana
+#EXTINF:-1 group-title="TV Premiun",Panamericana
 http://190.95.220.212:8000/play/a03j/index.m3u8
-#EXTINF:-1,Canal 1
+#EXTINF:-1 group-title="TV Premiun",Canal 1
 http://190.95.220.212:8000/play/a043/index.m3u8
-#EXTINF:-1,MULTICANAL CATAMAYO
+#EXTINF:-1 group-title="TV Premiun",MULTICANAL CATAMAYO
 http://190.95.220.212:8000/play/a04w/index.m3u8
-#EXTINF:-1,Pasiones
+#EXTINF:-1 group-title="TV Premiun",Pasiones
 http://190.95.220.212:8000/play/a02m/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="TV Premiun",TNT
 http://190.95.220.212:8000/play/a02n/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 group-title="TV Premiun",Telemundo
 http://190.95.220.212:8000/play/a00o/index.m3u8
-#EXTINF:-1,Space
+#EXTINF:-1 group-title="TV Premiun",Space
 http://190.95.220.212:8000/play/a02y/index.m3u8
-#EXTINF:-1,SyFy
+#EXTINF:-1 group-title="TV Premiun",SyFy
 http://190.95.220.212:8000/play/a02a/index.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="TV Premiun",Discovery Channel
 http://190.95.220.212:8000/play/a02g/index.m3u8
-#EXTINF:-1,TV+
+#EXTINF:-1 group-title="TV Premiun",TV+
 http://190.95.220.212:8000/play/a018/index.m3u8
-#EXTINF:-1,El Gourmet
+#EXTINF:-1 group-title="TV Premiun",El Gourmet
 http://190.95.220.212:8000/play/a02u/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="TV Premiun",ESPN
 http://190.95.220.212:8000/play/a01s/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="TV Premiun",AMC
 http://190.95.220.212:8000/play/a02o/index.m3u8
-#EXTINF:-1,AZ Cinema
+#EXTINF:-1 group-title="TV Premiun",AZ Cinema
 http://190.95.220.212:8000/play/a051/index.m3u8
-#EXTINF:-1,ByM Sport
+#EXTINF:-1 group-title="TV Premiun",ByM Sport
 http://190.95.220.212:8000/play/a050/index.m3u8
-#EXTINF:-1,Canal N
+#EXTINF:-1 group-title="TV Premiun",Canal N
 http://190.95.220.212:8000/play/a042/index.m3u8
-#EXTINF:-1,Distrito Comedia
+#EXTINF:-1 group-title="TV Premiun",Distrito Comedia
 http://190.95.220.212:8000/play/a04d/index.m3u8
-#EXTINF:-1,Ecuador TV
+#EXTINF:-1 group-title="TV Premiun",Ecuador TV
 http://190.95.220.212:8000/play/a04m/index.m3u8
-#EXTINF:-1,Ecuavisa
+#EXTINF:-1 group-title="TV Premiun",Ecuavisa
 http://190.95.220.212:8000/play/a04l/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol SD
+#EXTINF:-1 group-title="TV Premiun",ElCanaldelFutbol SD
 http://190.95.220.212:8000/play/a04n/index.m3u8
-#EXTINF:-1,Fox News
+#EXTINF:-1 group-title="TV Premiun",Fox News
 http://190.95.220.212:8000/play/a02b/index.m3u8
-#EXTINF:-1,Gamavisiðn
+#EXTINF:-1 group-title="TV Premiun",Gamavisiðn
 http://190.95.220.212:8000/play/a04k/index.m3u8
-#EXTINF:-1,HBO POP
+#EXTINF:-1 group-title="TV Premiun",HBO POP
 http://190.95.220.212:8000/play/a04h/index.m3u8
-#EXTINF:-1,Hola TV
+#EXTINF:-1 group-title="TV Premiun",Hola TV
 http://190.95.220.212:8000/play/a052/index.m3u8
-#EXTINF:-1,Las Estrellas
+#EXTINF:-1 group-title="TV Premiun",Las Estrellas
 http://190.95.220.212:8000/play/a047/index.m3u8
-#EXTINF:-1,Love Nature
+#EXTINF:-1 group-title="TV Premiun",Love Nature
 http://190.95.220.212:8000/play/a01e/index.m3u8
-#EXTINF:-1,MUSICA
+#EXTINF:-1 group-title="TV Premiun",MUSICA
 http://190.95.220.212:8000/play/a04q/index.m3u8
-#EXTINF:-1,MUSICA 2
+#EXTINF:-1 group-title="TV Premiun",MUSICA 2
 http://190.95.220.212:8000/play/a04r/index.m3u8
-#EXTINF:-1,Movistar Deportes
+#EXTINF:-1 group-title="TV Premiun",Movistar Deportes
 http://190.95.220.212:8000/play/a053/index.m3u8
-#EXTINF:-1,MÆsChic
+#EXTINF:-1 group-title="TV Premiun",MasChic
 http://190.95.220.212:8000/play/a048/index.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="TV Premiun",National Geographic
 http://190.95.220.212:8000/play/a022/index.m3u8
-#EXTINF:-1,OROMAR TV
+#EXTINF:-1 group-title="TV Premiun",OROMAR TV
 http://190.95.220.212:8000/play/a04j/index.m3u8
-#EXTINF:-1,RTS
+#EXTINF:-1 group-title="TV Premiun",RTS
 http://190.95.220.212:8000/play/a04e/index.m3u8
-#EXTINF:-1,RTU
+#EXTINF:-1 group-title="TV Premiun",RTU
 http://190.95.220.212:8000/play/a04f/index.m3u8
-#EXTINF:-1,TC Televisiðn
+#EXTINF:-1 group-title="TV Premiun",TC Televisiðn
 http://190.95.220.212:8000/play/a04g/index.m3u8
-#EXTINF:-1,Teleamazonas
+#EXTINF:-1 group-title="TV Premiun",Teleamazonas
 http://190.95.220.212:8000/play/a04i/index.m3u8
-#EXTINF:-1,Teletrak
+#EXTINF:-1 group-title="TV Premiun",Teletrak
 http://190.95.220.212:8000/play/a01h/index.m3u8
-#EXTINF:-1,Televicentro
+#EXTINF:-1 group-title="TV Premiun",Televicentro
 http://190.95.220.212:8000/play/a04o/index.m3u8
-#EXTINF:-1,Via X Esports
+#EXTINF:-1 group-title="TV Premiun",Via X Esports
 http://190.95.220.212:8000/play/a04c/index.m3u8
-#EXTINF:-1,WUAN+
+#EXTINF:-1 group-title="TV Premiun",WUAN+
 http://190.95.220.212:8000/play/a04p/index.m3u8
 
 
-#EXTINF:-1,AMC HD
+#EXTINF:-1 group-title="TV Premiun",AMC HD
 http://190.90.18.161:15082/play/a040/index.m3u8
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 group-title="TV Premiun",Animal Planet HD
 http://190.90.18.161:15082/play/a044/index.m3u8
-#EXTINF:-1,Baby TV
+#EXTINF:-1 group-title="TV Premiun",Baby TV
 http://190.90.18.161:15082/play/a04y/index.m3u8
-#EXTINF:-1,CINE PRIMIUM
+#EXTINF:-1 group-title="TV Premiun",CINE PRIMIUM
 http://190.90.18.161:15082/play/a03v/index.m3u8
-#EXTINF:-1,CNN Espaæol
+#EXTINF:-1 group-title="TV Premiun",CNN Espaæol
 http://190.90.18.161:15082/play/a03i/index.m3u8
-#EXTINF:-1,CableNoticias
+#EXTINF:-1 group-title="TV Premiun",CableNoticias
 http://190.90.18.161:15082/play/a04k/index.m3u8
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 group-title="TV Premiun",Cartoon Network HD
 http://190.90.18.161:15082/play/a02h/index.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 group-title="TV Premiun",Cartoonito
 http://190.90.18.161:15082/play/a04w/index.m3u8
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 group-title="TV Premiun",Cinecanal HD
 http://190.90.18.161:15082/play/a03z/index.m3u8
-#EXTINF:-1,City TV
+#EXTINF:-1 group-title="TV Premiun",City TV
 http://190.90.18.161:15082/play/a04m/index.m3u8
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 group-title="TV Premiun",Discovery H&H HD
 http://190.90.18.161:15082/play/a02l/index.m3u8
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1 group-title="TV Premiun",Discovery Kids HD
 http://190.90.18.161:15082/play/a049/index.m3u8
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="TV Premiun",Discovery Science
 http://190.90.18.161:15082/play/a04x/index.m3u8
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="TV Premiun",Discovery Science
 http://190.90.18.161:15082/play/a02c/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 group-title="TV Premiun",Discovery Theater HD
 http://190.90.18.161:15082/play/a02e/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 group-title="TV Premiun",Discovery Turbo
 http://190.90.18.161:15082/play/a04i/index.m3u8
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 group-title="TV Premiun",Discovery World HD
 http://190.90.18.161:15082/play/a02u/index.m3u8
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 group-title="TV Premiun",Disney Junior
 http://190.90.18.161:15082/play/a04r/index.m3u8
-#EXTINF:-1,E! HD
+#EXTINF:-1 group-title="TV Premiun",E! HD
 http://190.90.18.161:15082/play/a01y/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="TV Premiun",ESPN 4 HD
 http://190.90.18.161:15082/play/a04c/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 group-title="TV Premiun",ESPN EXTRA HD
 http://190.90.18.161:15082/play/a025/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="TV Premiun",ESPN HD
 http://190.90.18.161:15082/play/a047/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
+#EXTINF:-1 group-title="TV Premiun",FOX Sports 2 HD
 http://190.90.18.161:15082/play/a04d/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="TV Premiun",FX HD
 http://190.90.18.161:15082/play/a03r/index.m3u8
-#EXTINF:-1,France 24
+#EXTINF:-1 group-title="TV Premiun",France 24
 http://190.90.18.161:15082/play/a03s/index.m3u8
-#EXTINF:-1,Golden HD
+#EXTINF:-1 group-title="TV Premiun",Golden HD
 http://190.90.18.161:15082/play/a045/index.m3u8
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="TV Premiun",HGTV
 http://190.90.18.161:15082/play/a04h/index.m3u8
-#EXTINF:-1,NTN 24 Horas
+#EXTINF:-1 group-title="TV Premiun",NTN 24 Horas
 http://190.90.18.161:15082/play/a04j/index.m3u8
-#EXTINF:-1,NTN24
+#EXTINF:-1 group-title="TV Premiun",NTN24
 http://190.90.18.161:15082/play/a03o/index.m3u8
-#EXTINF:-1,NUESTRA TELE RCN
+#EXTINF:-1 group-title="TV Premiun",NUESTRA TELE RCN
 http://190.90.18.161:15082/play/a03p/index.m3u8
-#EXTINF:-1,Nat Geo HD
+#EXTINF:-1 group-title="TV Premiun",Nat Geo HD
 http://190.90.18.161:15082/play/a03x/index.m3u8
-#EXTINF:-1,Nuestra Tele
+#EXTINF:-1 group-title="TV Premiun",Nuestra Tele
 http://190.90.18.161:15082/play/a03n/index.m3u8
-#EXTINF:-1,PLIM PLIM
+#EXTINF:-1 group-title="TV Premiun",PLIM PLIM
 http://190.90.18.161:15082/play/a03w/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 group-title="TV Premiun",Paramount HD
 http://190.90.18.161:15082/play/a050/index.m3u8
-#EXTINF:-1,RCN
+#EXTINF:-1 group-title="TV Premiun",RCN
 http://190.90.18.161:15082/play/a04g/index.m3u8
-#EXTINF:-1,RCN RESPALDO
+#EXTINF:-1 group-title="TV Premiun",RCN RESPALDO
 http://190.90.18.161:15082/play/a03q/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 group-title="TV Premiun",STAR CHANNEL HD
 http://190.90.18.161:15082/play/a02n/index.m3u8
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 group-title="TV Premiun",Studio Universal HD
 http://190.90.18.161:15082/play/a043/index.m3u8
-#EXTINF:-1,Sun Channel HD
+#EXTINF:-1 group-title="TV Premiun",Sun Channel HD
 http://190.90.18.161:15082/play/a048/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="TV Premiun",TCM
 http://190.90.18.161:15082/play/a032/index.m3u8
-#EXTINF:-1,TELEMUNDO
+#EXTINF:-1 group-title="TV Premiun",TELEMUNDO
 http://190.90.18.161:15082/play/a03m/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="TV Premiun",TLC
 http://190.90.18.161:15082/play/a04p/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 group-title="TV Premiun",TNT Series HD
 http://190.90.18.161:15082/play/a04e/index.m3u8
-#EXTINF:-1,Telehit HD
+#EXTINF:-1 group-title="TV Premiun",Telehit HD
 http://190.90.18.161:15082/play/a046/index.m3u8
-#EXTINF:-1,Tooncast
+#EXTINF:-1 group-title="TV Premiun",Tooncast
 http://190.90.18.161:15082/play/a04o/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="TV Premiun",UNIVERSAL CHANNEL HD
 http://190.90.18.161:15082/play/a04b/index.m3u8
-#EXTINF:-1,WARNER
+#EXTINF:-1 group-title="TV Premiun",WARNER
 http://190.90.18.161:15082/play/a04u/index.m3u8
+
+#EXTINF:-1 group-title="TV Premiun",RANCHENATO
+http://190.90.71.68:15082/play/a050/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",3ABN
+http://190.90.71.68:15082/play/a059/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",ALIENTO VISION
+http://190.90.71.68:15082/play/a05a/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",BABY TV
+http://190.90.71.68:15082/play/a04b/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",BETHEL
+http://190.90.71.68:15082/play/a04n/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CANAL SUR
+http://190.90.71.68:15082/play/a05b/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CANAL TRECE
+http://190.90.71.68:15082/play/a04g/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CANAL UNO
+http://190.90.71.68:15082/play/a046/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CARACOL
+http://190.90.71.68:15082/play/a047/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CARACOL 2
+http://190.90.71.68:15082/play/a05h/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CGTN
+http://190.90.71.68:15082/play/a05c/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CINE FAMILIAR
+http://190.90.71.68:15082/play/a021/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CINE HISPANO
+http://190.90.71.68:15082/play/a022/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CINE PREMIUM
+http://190.90.71.68:15082/play/a023/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CITYTV
+http://190.90.71.68:15082/play/a048/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CONGRESO
+http://190.90.71.68:15082/play/a056/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CRISTOVISION
+http://190.90.71.68:15082/play/a052/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",EJNV
+http://190.90.71.68:15082/play/a05d/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",ENLACE
+http://190.90.71.68:15082/play/a04m/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",EURONEWS
+http://190.90.71.68:15082/play/a05e/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",FRECUENCIA F
+http://190.90.71.68:15082/play/a02d/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",HISPANTV
+http://190.90.71.68:15082/play/a05g/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",HOGARTV
+http://190.90.71.68:15082/play/a02b/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",INSTITUCIONAL
+http://190.90.71.68:15082/play/a04q/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",LA KALLE
+http://190.90.71.68:15082/play/a04i/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",LA KALLE RESPALDO
+http://190.90.71.68:15082/play/a05i/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",MEGAVISION
+http://190.90.71.68:15082/play/a04z/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",MUSICA HITS
+http://190.90.71.68:15082/play/a028/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",MUSICA KPOP
+http://190.90.71.68:15082/play/a026/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",MUSICA POPULAR
+http://190.90.71.68:15082/play/a027/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",RCN 2
+http://190.90.71.68:15082/play/a05j/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",RUMBATV
+http://190.90.71.68:15082/play/a029/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",SEÑAL COLOMBIA
+http://190.90.71.68:15082/play/a045/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEAMIGA
+http://190.90.71.68:15082/play/a053/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEANTIOQUIA
+http://190.90.71.68:15082/play/a044/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELECAFE
+http://190.90.71.68:15082/play/a055/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELECARIBE
+http://190.90.71.68:15082/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEISLAS
+http://190.90.71.68:15082/play/a054/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEMUNDO
+http://190.90.71.68:15082/play/a049/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEPACIFICO
+http://190.90.71.68:15082/play/a043/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEUNION
+http://190.90.71.68:15082/play/a05f/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TRO
+http://190.90.71.68:15082/play/a04e/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TVAGRO
+http://190.90.71.68:15082/play/a02a/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",UMC
+http://190.90.71.68:15082/play/a02c/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",ZOOM
+http://190.90.71.68:15082/play/a04f/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",ZOOMOO
+http://190.90.71.68:15082/play/a04c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vd7jDsz/bgdghye4w6t458i70o8r5u347q2rt5u7youpjkiktfrujgfhaeuylpiyoiryhsrd.png" group-title="Latinoamérica",Activa TV
