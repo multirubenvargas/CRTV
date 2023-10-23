@@ -407,6 +407,51 @@ http://45.5.117.172:8100/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05w.png" group-title="TV Premiun",Red 25 Totonicapan
 http://45.5.117.172:8100/play/a05w/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05s.png" group-title="TV Premiun",SKY SPORT
+http://45.5.117.172:8100/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a04g.png" group-title="TV Premiun",Sony Movies HD
+http://45.5.117.172:8100/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a066.png" group-title="TV Premiun",Sun Channel
+http://45.5.117.172:8100/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05t.png" group-title="TV Premiun",TELEMUNDO MIAMI
+http://45.5.117.172:8100/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05m.png" group-title="TV Premiun",TL NOVELAS
+http://45.5.117.172:8100/play/a05m/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a04b.png" group-title="TV Premiun",TN23 GT
+http://45.5.117.172:8100/play/a04b/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05v.png" group-title="TV Premiun",TNT Novelas
+http://45.5.117.172:8100/play/a05v/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a042.png" group-title="TV Premiun",TOTOVISION RESPALDO
+http://45.5.117.172:8100/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05p.png" group-title="TV Premiun",TUDN MX
+http://45.5.117.172:8100/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a06c.png" group-title="TV Premiun",TVE
+http://45.5.117.172:8100/play/a06c/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05f.png" group-title="TV Premiun",Tele Antillas - RD
+http://45.5.117.172:8100/play/a05f/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05j.png" group-title="TV Premiun",TeleMicro - RD
+http://45.5.117.172:8100/play/a05j/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05g.png" group-title="TV Premiun",Telesistema RD
+http://45.5.117.172:8100/play/a05g/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05y.png" group-title="TV Premiun",Teleunion - RD
+http://45.5.117.172:8100/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05x.png" group-title="TV Premiun",Teleuniverso - RD
+http://45.5.117.172:8100/play/a05x/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02v.png" group-title="TV Premiun",Tigo Sports HD
+http://45.5.117.172:8100/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a06e.png" group-title="TV Premiun",Tru TV
+http://45.5.117.172:8100/play/a06e/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a069.png" group-title="TV Premiun",UNIVERSAL CINEMA ESTE HD
+http://45.5.117.172:8100/play/a069/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a065.png" group-title="TV Premiun",VTV Canal 35 ESA
+http://45.5.117.172:8100/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a03o.png" group-title="TV Premiun",canal 22 san marcos
+http://45.5.117.172:8100/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a04m.png" group-title="TV Premiun",canal 27 guatemala
+http://45.5.117.172:8100/play/a04m/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a047.png" group-title="TV Premiun",directv
+http://45.5.117.172:8100/play/a047/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",America Televisiðn
 http://190.95.220.212:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",ATV
@@ -1395,6 +1440,63 @@ https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02t.png" group-title="Adultos",Playboy
 http://45.5.117.172:8100/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02u.png" group-title="Adultos",VENUS
+http://45.5.117.172:8100/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adultos",AdultIPTV.net Asian
+http://live.adultiptv.net/asian.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTNSpanish.cn" tvg-logo="https://i.ibb.co/BCgLr0B/te45yrhfxgrywa35a2rtfcaqctd1068gstbyaovwi7s5fiv7sa.png" group-title="Internacional",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
