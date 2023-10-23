@@ -107,6 +107,306 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r52qCgC/bvnrtwsertpo895aqw3y1gj7n475rujtfydert5w356.png" group-title="México",TVCuatro 4.3
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
+#EXTINF:-1 group-title="TV Premiun",RANCHENATO
+http://190.90.71.68:15082/play/a050/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",BABY TV
+http://190.90.71.68:15082/play/a04b/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CANAL TRECE
+http://190.90.71.68:15082/play/a04g/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CANAL UNO
+http://190.90.71.68:15082/play/a046/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CINE FAMILIAR
+http://190.90.71.68:15082/play/a021/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CINE HISPANO
+http://190.90.71.68:15082/play/a022/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CINE PREMIUM
+http://190.90.71.68:15082/play/a023/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CITYTV
+http://190.90.71.68:15082/play/a048/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",CONGRESO
+http://190.90.71.68:15082/play/a056/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",FRECUENCIA F
+http://190.90.71.68:15082/play/a02d/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",HOGARTV
+http://190.90.71.68:15082/play/a02b/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",INSTITUCIONAL
+http://190.90.71.68:15082/play/a04q/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",LA KALLE
+http://190.90.71.68:15082/play/a04i/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",MAS TV
+http://190.90.71.68:15082/play/a04z/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",MUSICA HITS
+http://190.90.71.68:15082/play/a028/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",MUSICA KPOP
+http://190.90.71.68:15082/play/a026/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",MUSICA POPULAR
+http://190.90.71.68:15082/play/a027/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",RUMBATV
+http://190.90.71.68:15082/play/a029/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",SEÑAL COLOMBIA
+http://190.90.71.68:15082/play/a045/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEANTIOQUIA
+http://190.90.71.68:15082/play/a044/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELECAFE
+http://190.90.71.68:15082/play/a055/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELECARIBE
+http://190.90.71.68:15082/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEISLAS
+http://190.90.71.68:15082/play/a054/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEMUNDO
+http://190.90.71.68:15082/play/a049/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TELEPACIFICO
+http://190.90.71.68:15082/play/a043/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TRO
+http://190.90.71.68:15082/play/a04e/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",TVAGRO
+http://190.90.71.68:15082/play/a02a/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",UMC
+http://190.90.71.68:15082/play/a02c/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",ZOOM
+http://190.90.71.68:15082/play/a04f/index.m3u8
+#EXTINF:-1 group-title="TV Premiun",ZOOMOO
+http://190.90.71.68:15082/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0g0.png" group-title="TV Premiun",Boomerang cartonito
+http://45.5.117.172:8100/play/a0g0/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0g1.png" group-title="TV Premiun",Disney JR
+http://45.5.117.172:8100/play/a0g1/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0fz.png" group-title="TV Premiun",Nick Jr
+http://45.5.117.172:8100/play/a0fz/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0g3.png" group-title="TV Premiun",SEMILLITAS
+http://45.5.117.172:8100/play/a0g3/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0jl.png" group-title="TV Premiun",Nat Geo Kids
+http://45.5.117.172:8100/play/a0jl/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hs.png" group-title="TV Premiun",Nickelodeon HD
+http://45.5.117.172:8100/play/a0hs/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0i8.png" group-title="TV Premiun",Disney
+http://45.5.117.172:8100/play/a0i8/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0jk.png" group-title="TV Premiun",Canal 11 - GUA
+http://45.5.117.172:8100/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0jj.png" group-title="TV Premiun",Canal 13-GUA
+http://45.5.117.172:8100/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0h5.png" group-title="TV Premiun",Canal 3 - GUA
+http://45.5.117.172:8100/play/a0h5/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0h4.png" group-title="TV Premiun",Canal 7 - GUA
+http://45.5.117.172:8100/play/a0h4/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0h2.png" group-title="TV Premiun",Canal Antigua - GUA
+http://45.5.117.172:8100/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0h3.png" group-title="TV Premiun",Canal Azteca - GUA
+http://45.5.117.172:8100/play/a0h3/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0fw.png" group-title="TV Premiun",Canal Guatevision - GUA
+http://45.5.117.172:8100/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hk.png" group-title="TV Premiun",Exa TV
+http://45.5.117.172:8100/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0if.png" group-title="TV Premiun",MTV
+http://45.5.117.172:8100/play/a0if/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0i0.png" group-title="TV Premiun",MTV 00s HD
+http://45.5.117.172:8100/play/a0i0/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ge.png" group-title="TV Premiun",MTV 80s
+http://45.5.117.172:8100/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gm.png" group-title="TV Premiun",MTV HD
+http://45.5.117.172:8100/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gd.png" group-title="TV Premiun",MTV Hits
+http://45.5.117.172:8100/play/a0gd/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hz.png" group-title="TV Premiun",MTV SIM HD
+http://45.5.117.172:8100/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0id.png" group-title="TV Premiun",La voz de Maria
+http://45.5.117.172:8100/play/a0id/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0iw.png",RHEMA TV
+http://45.5.117.172:8100/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0k0.png" group-title="TV Premiun",Sembrador
+http://45.5.117.172:8100/play/a0k0/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gj.png" group-title="TV Premiun",TBN Enlace
+http://45.5.117.172:8100/play/a0gj/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kz.png" group-title="TV Premiun",Claro Sports HD
+http://45.5.117.172:8100/play/a0kz/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kg.png" group-title="TV Premiun",ESPN HD
+http://45.5.117.172:8100/play/a0kg/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ki.png" group-title="TV Premiun",ESPN 2 HD
+http://45.5.117.172:8100/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kh.png" group-title="TV Premiun",ESPN 3 HD
+http://45.5.117.172:8100/play/a0kh/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ix.png" group-title="TV Premiun",ESPN 4 HD
+http://45.5.117.172:8100/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gl.png" group-title="TV Premiun",ESPN +
+http://45.5.117.172:8100/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kj.png" group-title="TV Premiun",FOX SPORTS 3 HD
+http://45.5.117.172:8100/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0h1.png" group-title="TV Premiun",Golf Channel HD
+http://45.5.117.172:8100/play/a0h1/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gu.png" group-title="TV Premiun",AMC HD
+http://45.5.117.172:8100/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gq.png" group-title="TV Premiun",Animal Planet HD
+http://45.5.117.172:8100/play/a0gq/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0iy.png" group-title="TV Premiun",AXN HD
+http://45.5.117.172:8100/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gz.png" group-title="TV Premiun",AZ click HD
+http://45.5.117.172:8100/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0g6.png" group-title="TV Premiun",Azcorazon
+http://45.5.117.172:8100/play/a0g6/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0h8.png" group-title="TV Premiun",Azmundo
+http://45.5.117.172:8100/play/a0h8/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ik.png" group-title="TV Premiun",Cine Latino
+http://45.5.117.172:8100/play/a0ik/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hq.png" group-title="TV Premiun",CINECANAL HD
+http://45.5.117.172:8100/play/a0hq/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0il.png" group-title="TV Premiun",CineMax
+http://45.5.117.172:8100/play/a0il/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hl.png" group-title="TV Premiun",Claro Cinema
+http://45.5.117.172:8100/play/a0hl/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0jt.png" group-title="TV Premiun",Claro Musica
+http://45.5.117.172:8100/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gi.png" group-title="TV Premiun",CNN Español
+http://45.5.117.172:8100/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hy.png" group-title="TV Premiun",Comedy Central HD
+http://45.5.117.172:8100/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gy.png" group-title="TV Premiun",DHE HD
+http://45.5.117.172:8100/play/a0gy/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kn.png" group-title="TV Premiun",Discovery Channel HD
+http://45.5.117.172:8100/play/a0kn/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ks.png" group-title="TV Premiun",Discovery ID HD
+http://45.5.117.172:8100/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hv.png" group-title="TV Premiun",DISCOVERY THEATHER HD
+http://45.5.117.172:8100/play/a0hv/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ia.png" group-title="TV Premiun",Discovery Turbo
+http://45.5.117.172:8100/play/a0ia/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kp.png" group-title="TV Premiun",Discovery World HD
+http://45.5.117.172:8100/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gr.png" group-title="TV Premiun",E! Entertairment HD
+http://45.5.117.172:8100/play/a0gr/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a00x.png" group-title="TV Premiun",EURO Channel
+http://45.5.117.172:8100/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a00u.png" group-title="TV Premiun",Europa HD
+http://45.5.117.172:8100/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gs.png" group-title="TV Premiun",Film & arts HD
+http://45.5.117.172:8100/play/a0gs/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gw.png" group-title="TV Premiun",FX HD
+http://45.5.117.172:8100/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gx.png" group-title="TV Premiun",FX Movies HD
+http://45.5.117.172:8100/play/a0gx/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0jv.png" group-title="TV Premiun",Golden
+http://45.5.117.172:8100/play/a0jv/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0l5.png" group-title="TV Premiun",HBO Family HD
+http://45.5.117.172:8100/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0l2.png" group-title="TV Premiun",HBO HD
+http://45.5.117.172:8100/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0l4.png" group-title="TV Premiun",HBO Plus HD
+http://45.5.117.172:8100/play/a0l4/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0l6.png" group-title="TV Premiun",HBO XTREME HD
+http://45.5.117.172:8100/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a00c.png" group-title="TV Premiun",HBO2 HD
+http://45.5.117.172:8100/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0jp.png" group-title="TV Premiun",History 2
+http://45.5.117.172:8100/play/a0jp/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gk.png" group-title="TV Premiun",History Channel HD
+http://45.5.117.172:8100/play/a0gk/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hx.png" group-title="TV Premiun",HOLA! TV HD
+http://45.5.117.172:8100/play/a0hx/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hw.png" group-title="TV Premiun",Home & Health HD
+http://45.5.117.172:8100/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gb.png" group-title="TV Premiun",LIFE TIME
+http://45.5.117.172:8100/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ij.png" group-title="TV Premiun",Multipremier
+http://45.5.117.172:8100/play/a0ij/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kk.png" group-title="TV Premiun",Nat Geo HD
+http://45.5.117.172:8100/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kl.png" group-title="TV Premiun",Paramount HD
+http://45.5.117.172:8100/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kq.png" group-title="TV Premiun",Pasiones HD
+http://45.5.117.172:8100/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0jn.png" group-title="TV Premiun",RCN Novelas
+http://45.5.117.172:8100/play/a0jn/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hp.png" group-title="TV Premiun",SONY HD
+http://45.5.117.172:8100/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0iz.png" group-title="TV Premiun",SPACE HD
+http://45.5.117.172:8100/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0i3.png" group-title="TV Premiun",UNIVERSAL REALITY HD
+http://45.5.117.172:8100/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hn.png" group-title="TV Premiun",STAR CHANNEL HD
+http://45.5.117.172:8100/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0i5.png" group-title="TV Premiun",UNIVERSAL COMEDY HD
+http://45.5.117.172:8100/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kt.png" group-title="TV Premiun",UNIVERSAL CINEMA HD
+http://45.5.117.172:8100/play/a0kt/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0i4.png" group-title="TV Premiun",UNIVERSAL CRIME HD
+http://45.5.117.172:8100/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0i2.png" group-title="TV Premiun",UNIVERSAL PREMIERE O HD
+http://45.5.117.172:8100/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0g4.png" group-title="TV Premiun",STAR LIFE
+http://45.5.117.172:8100/play/a0g4/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0i1.png" group-title="TV Premiun",UNIVERSAL PREMIERE HD
+http://45.5.117.172:8100/play/a0i1/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0h0.png" group-title="TV Premiun",Star TVE HD
+http://45.5.117.172:8100/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0go.png" group-title="TV Premiun",Studio Universal HD
+http://45.5.117.172:8100/play/a0go/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0g9.png" group-title="TV Premiun",TBS
+http://45.5.117.172:8100/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0jw.png" group-title="TV Premiun",TCM
+http://45.5.117.172:8100/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gv.png" group-title="TV Premiun",Telemundo HD
+http://45.5.117.172:8100/play/a0gv/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hh.png" group-title="TV Premiun",TLC
+http://45.5.117.172:8100/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0hu.png" group-title="TV Premiun",TNT HD
+http://45.5.117.172:8100/play/a0hu/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0km.png" group-title="TV Premiun",TNT Series HD
+http://45.5.117.172:8100/play/a0km/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ih.png" group-title="TV Premiun",Universal
+http://45.5.117.172:8100/play/a0ih/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0kr.png" group-title="TV Premiun",Univision HD
+http://45.5.117.172:8100/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0ho.png" group-title="TV Premiun",WARNER HD
+http://45.5.117.172:8100/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a04q.png" group-title="TV Premiun",3ABN
+http://45.5.117.172:8100/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0gt.png" group-title="TV Premiun",A&E HD
+http://45.5.117.172:8100/play/a0gt/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05q.png" group-title="TV Premiun",AZTECA 7
+http://45.5.117.172:8100/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05r.png" group-title="TV Premiun",BANDAMX
+http://45.5.117.172:8100/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a043.png" group-title="TV Premiun",BUZZER TV
+http://45.5.117.172:8100/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a03h.png" group-title="TV Premiun",CANAL ORION TV
+http://45.5.117.172:8100/play/a03h/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0l0.png" group-title="TV Premiun",CARTOON NT HD
+http://45.5.117.172:8100/play/a0l0/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a062.png" group-title="TV Premiun",CDN2- RD
+http://45.5.117.172:8100/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a063.png" group-title="TV Premiun",Canal 6 - NI
+http://45.5.117.172:8100/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0fv.png" group-title="TV Premiun",Canal Claro
+http://45.5.117.172:8100/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a06a.png" group-title="TV Premiun",Canal del Congreso
+http://45.5.117.172:8100/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02r.png" group-title="TV Premiun",Concert Channel
+http://45.5.117.172:8100/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05o.png" group-title="TV Premiun",DISTRITO COMEDIA
+http://45.5.117.172:8100/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05k.png" group-title="TV Premiun",ESPN
+http://45.5.117.172:8100/play/a05k/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05l.png" group-title="TV Premiun",ESPN 2
+http://45.5.117.172:8100/play/a05l/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05h.png" group-title="TV Premiun",EWTN
+http://45.5.117.172:8100/play/a05h/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a068.png" group-title="TV Premiun",FUTV HD CR
+http://45.5.117.172:8100/play/a068/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05n.png" group-title="TV Premiun",LAS ESTRELLAS
+http://45.5.117.172:8100/play/a05n/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05z.png" group-title="TV Premiun",Latin America Sport
+http://45.5.117.172:8100/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a064.png" group-title="TV Premiun",MASTV - PAN
+http://45.5.117.172:8100/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a067.png" group-title="TV Premiun",Multicinema
+http://45.5.117.172:8100/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a06f.png" group-title="TV Premiun",Multimedios
+http://45.5.117.172:8100/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a03f.png" group-title="TV Premiun",Nick 2 HD
+http://45.5.117.172:8100/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05w.png" group-title="TV Premiun",Red 25 Totonicapan
+http://45.5.117.172:8100/play/a05w/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",America Televisiðn
 http://190.95.220.212:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",ATV
@@ -320,195 +620,6 @@ http://190.95.220.212:8000/play/a04o/index.m3u8
 http://190.95.220.212:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",WUAN+
 http://190.95.220.212:8000/play/a04p/index.m3u8
-
-
-#EXTINF:-1 group-title="TV Premiun",AMC HD
-http://190.90.18.161:15082/play/a040/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Animal Planet HD
-http://190.90.18.161:15082/play/a044/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Baby TV
-http://190.90.18.161:15082/play/a04y/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CINE PRIMIUM
-http://190.90.18.161:15082/play/a03v/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CNN Espaæol
-http://190.90.18.161:15082/play/a03i/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CableNoticias
-http://190.90.18.161:15082/play/a04k/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Cartoon Network HD
-http://190.90.18.161:15082/play/a02h/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Cartoonito
-http://190.90.18.161:15082/play/a04w/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Cinecanal HD
-http://190.90.18.161:15082/play/a03z/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",City TV
-http://190.90.18.161:15082/play/a04m/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Discovery H&H HD
-http://190.90.18.161:15082/play/a02l/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Discovery Kids HD
-http://190.90.18.161:15082/play/a049/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Discovery Science
-http://190.90.18.161:15082/play/a04x/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Discovery Science
-http://190.90.18.161:15082/play/a02c/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Discovery Theater HD
-http://190.90.18.161:15082/play/a02e/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Discovery Turbo
-http://190.90.18.161:15082/play/a04i/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Discovery World HD
-http://190.90.18.161:15082/play/a02u/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Disney Junior
-http://190.90.18.161:15082/play/a04r/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",E! HD
-http://190.90.18.161:15082/play/a01y/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",ESPN 4 HD
-http://190.90.18.161:15082/play/a04c/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",ESPN EXTRA HD
-http://190.90.18.161:15082/play/a025/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",ESPN HD
-http://190.90.18.161:15082/play/a047/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",FOX Sports 2 HD
-http://190.90.18.161:15082/play/a04d/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",FX HD
-http://190.90.18.161:15082/play/a03r/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",France 24
-http://190.90.18.161:15082/play/a03s/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Golden HD
-http://190.90.18.161:15082/play/a045/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",HGTV
-http://190.90.18.161:15082/play/a04h/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",NTN 24 Horas
-http://190.90.18.161:15082/play/a04j/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",NTN24
-http://190.90.18.161:15082/play/a03o/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",NUESTRA TELE RCN
-http://190.90.18.161:15082/play/a03p/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Nat Geo HD
-http://190.90.18.161:15082/play/a03x/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Nuestra Tele
-http://190.90.18.161:15082/play/a03n/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",PLIM PLIM
-http://190.90.18.161:15082/play/a03w/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Paramount HD
-http://190.90.18.161:15082/play/a050/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",RCN
-http://190.90.18.161:15082/play/a04g/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",RCN RESPALDO
-http://190.90.18.161:15082/play/a03q/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",STAR CHANNEL HD
-http://190.90.18.161:15082/play/a02n/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Studio Universal HD
-http://190.90.18.161:15082/play/a043/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Sun Channel HD
-http://190.90.18.161:15082/play/a048/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TCM
-http://190.90.18.161:15082/play/a032/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELEMUNDO
-http://190.90.18.161:15082/play/a03m/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TLC
-http://190.90.18.161:15082/play/a04p/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TNT Series HD
-http://190.90.18.161:15082/play/a04e/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Telehit HD
-http://190.90.18.161:15082/play/a046/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Tooncast
-http://190.90.18.161:15082/play/a04o/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",UNIVERSAL CHANNEL HD
-http://190.90.18.161:15082/play/a04b/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",WARNER
-http://190.90.18.161:15082/play/a04u/index.m3u8
-
-#EXTINF:-1 group-title="TV Premiun",RANCHENATO
-http://190.90.71.68:15082/play/a050/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",3ABN
-http://190.90.71.68:15082/play/a059/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",ALIENTO VISION
-http://190.90.71.68:15082/play/a05a/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",BABY TV
-http://190.90.71.68:15082/play/a04b/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",BETHEL
-http://190.90.71.68:15082/play/a04n/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CANAL SUR
-http://190.90.71.68:15082/play/a05b/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CANAL TRECE
-http://190.90.71.68:15082/play/a04g/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CANAL UNO
-http://190.90.71.68:15082/play/a046/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CARACOL
-http://190.90.71.68:15082/play/a047/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CARACOL 2
-http://190.90.71.68:15082/play/a05h/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CGTN
-http://190.90.71.68:15082/play/a05c/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CINE FAMILIAR
-http://190.90.71.68:15082/play/a021/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CINE HISPANO
-http://190.90.71.68:15082/play/a022/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CINE PREMIUM
-http://190.90.71.68:15082/play/a023/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CITYTV
-http://190.90.71.68:15082/play/a048/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CONGRESO
-http://190.90.71.68:15082/play/a056/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",CRISTOVISION
-http://190.90.71.68:15082/play/a052/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",EJNV
-http://190.90.71.68:15082/play/a05d/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",ENLACE
-http://190.90.71.68:15082/play/a04m/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",EURONEWS
-http://190.90.71.68:15082/play/a05e/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",FRECUENCIA F
-http://190.90.71.68:15082/play/a02d/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",HISPANTV
-http://190.90.71.68:15082/play/a05g/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",HOGARTV
-http://190.90.71.68:15082/play/a02b/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",INSTITUCIONAL
-http://190.90.71.68:15082/play/a04q/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",LA KALLE
-http://190.90.71.68:15082/play/a04i/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",LA KALLE RESPALDO
-http://190.90.71.68:15082/play/a05i/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",MEGAVISION
-http://190.90.71.68:15082/play/a04z/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",MUSICA HITS
-http://190.90.71.68:15082/play/a028/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",MUSICA KPOP
-http://190.90.71.68:15082/play/a026/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",MUSICA POPULAR
-http://190.90.71.68:15082/play/a027/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",RCN 2
-http://190.90.71.68:15082/play/a05j/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",RUMBATV
-http://190.90.71.68:15082/play/a029/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",SEÑAL COLOMBIA
-http://190.90.71.68:15082/play/a045/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELEAMIGA
-http://190.90.71.68:15082/play/a053/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELEANTIOQUIA
-http://190.90.71.68:15082/play/a044/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELECAFE
-http://190.90.71.68:15082/play/a055/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELECARIBE
-http://190.90.71.68:15082/play/a04p/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELEISLAS
-http://190.90.71.68:15082/play/a054/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELEMUNDO
-http://190.90.71.68:15082/play/a049/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELEPACIFICO
-http://190.90.71.68:15082/play/a043/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TELEUNION
-http://190.90.71.68:15082/play/a05f/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TRO
-http://190.90.71.68:15082/play/a04e/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TVAGRO
-http://190.90.71.68:15082/play/a02a/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",UMC
-http://190.90.71.68:15082/play/a02c/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",ZOOM
-http://190.90.71.68:15082/play/a04f/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",ZOOMOO
-http://190.90.71.68:15082/play/a04c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vd7jDsz/bgdghye4w6t458i70o8r5u347q2rt5u7youpjkiktfrujgfhaeuylpiyoiryhsrd.png" group-title="Latinoamérica",Activa TV
@@ -1281,6 +1392,9 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhShHWF/odjdbrj3u2616wtwiwpdpfifbcnsmaoosueueyhrehqy5q4w6e7d8db2jrjdfrgry546747457e.png" group-title="Adultos",Miami TV Jenny for you
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a02t.png" group-title="Adultos",Playboy
+http://45.5.117.172:8100/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTNSpanish.cn" tvg-logo="https://i.ibb.co/BCgLr0B/te45yrhfxgrywa35a2rtfcaqctd1068gstbyaovwi7s5fiv7sa.png" group-title="Internacional",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
