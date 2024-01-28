@@ -988,7 +988,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.
 
 #EXTINF:-1 tvg-logo="https://pbsedia/Fp3p0zZXoAY_loW?format=png&name=small" group-title="CANALES 24/7", 173 | Survivor Mexico
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=vA5VszjkQ2Bg7bNcK-Xv
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbsedia/Fp3p0zZXoAY_loW?format=png&name=small" group-title="CANALES 24/7", 173 | C4 en Alerta
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064.m3u8
 
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 174 | Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
