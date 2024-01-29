@@ -198,7 +198,7 @@ https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", N+ GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
-#EXTINF:-1 group-title="Bics", N+ MTY
+#EXTINF:-1 group-title="Bics", N+ MTY 
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN Mexico
