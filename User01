@@ -1272,14 +1272,6 @@ https://panel.miplay.cl:8081/zoomback/index.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="DO | Tu Música TV" tvg-name="DO | Tu Música TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="MUSICA Y REALITIES", 302 | Tu Música TV
 https://vdo2.streamgato.us:3886/stream/play.m3u8
-#EXTINF:-1 tvg-id="USA | Mimusica K-Pop" tvg-name="USA | Mimusica K-Pop" tvg-logo="https://pbs.twimg.com/media/GBfFnzsWIAANRaR?format=png&name=900x900" group-title="MUSICA Y REALITIES", 304 | Mimusica K-Pop
-http://191.97.60.193:10000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="USA | Mimusica Salsa" tvg-name="USA | Mimusica Salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="MUSICA Y REALITIES", 305 | Mimusica Salsa
-http://177.234.230.226:8010/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="USA | Mimusica Reggaeton" tvg-name="USA | Mimusica Reggaeton" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="MUSICA Y REALITIES", 306 | Mimusica Reggaeton
-http://177.234.230.226:8010/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="USA | Mimusica Perú" tvg-name="USA | Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="MUSICA Y REALITIES", 307 | Mimusica Perú
-http://191.97.60.193:10000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="VE | Cadena Cover's Clásicos" tvg-name="VE | Cadena Cover's Clásicos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/11ac6717a72cf448fc022db8baef5427.webp" group-title="MUSICA Y REALITIES", 308 | Cadena Cover's Clásicos
 https://stmv1.cnarlatam.com/ccovers/ccovers/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | VM Latino" tvg-name="CR | VM Latino" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="MUSICA Y REALITIES", 309 | VM Latino
@@ -3727,16 +3719,17 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjXg4MG/bcbxfdygh57587707843q2wfsikopkhgfnbmbvcvxfst75687u6ue46w34yhtue75u.png" group-title="Musica",LFM TV
 https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="USA | Mimusica Hits" tvg-name="USA | Hits" tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Musica",MiMusica Hits
+#EXTINF:-1 tvg-id="USA | Mimusica Hits" tvg-name="USA | Hits" tvg-logo="https://i.ibb.co/HtPLrNG/fgbdyye46w35325q27t69t7ikftgikjdfruryuhru7e47ueu8r5iue8u84r58.png" group-title="Musica",MiMusica Hits
 http://191.97.60.193:10000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Musica",MTV Hits Europe
-http://85.11.144.9:4222/MTVHits?token=test
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Musica",MusicTop
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPP9xy/cbesgtw3es654687608pyiktyuied65ru8er5t654yplokghdrftyeawrqw4tgy5ruhtrcxnbv.png" group-title="Musica",Q Music
-https://tkx.mp.lura.live/rest/v2/mcp/video/qmusic?anvack=AX8mDk8Gher8BzuW91NBHObM08UgOkW3&eud=x05NZXiMokjWIwe1dtWxPfJR0jAAe1J0W9kexYigaLUeJKHIAGi7PzwFf%2BEvtSnvOXy7lSii8sfugqSS6gRTcg%3D%3D
+#EXTINF:-1 tvg-id="USA | Mimusica K-Pop" tvg-name="USA | Mimusica K-Pop" tvg-logo="https://i.ibb.co/WPL3g4C/vbgdrytr464745r8lpy09t8ryswetasywe4u7e45ueujdrujdnvcncdr65478u5ruery.png" group-title="Musica",MiMusica K-Pop
+http://191.97.60.193:10000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="USA | Mimusica Salsa" tvg-name="USA | Mimusica Salsa" tvg-logo="https://i.ibb.co/T14G405/bgfxdgtyet3w558u7606otrdyhsegtwesyhdsrhdrsjurdeujerdujdyhe4y7eyhue4duje.png" group-title="Musica",MiMusica Salsa
+http://177.234.230.226:8010/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="USA | Mimusica Reggaeton" tvg-name="USA | Mimusica Reggaeton" tvg-logo="https://i.ibb.co/2vZB0y1/fnhtfure5uryw34532543587606oploklykfjrdfyheswtgyw436t34wtygw3egyh34wh7435uj45.png" group-title="Musica",MiMusica Reggaeton
+http://177.234.230.226:8010/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="USA | Mimusica Perú" tvg-name="USA | Mimusica Perú" tvg-logo="https://i.ibb.co/kQshjMH/bfcbncvcgsw3567590760puyitfyhdrgte46y346y5ryhe46y3w6yrtuedhyuerdujrujrt56isdfda.png" group-title="Musica",MiMusica Perú
+http://191.97.60.193:10000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K078QQ1/cvfxdaxdssdiksose6esw5ser357rsefdstfsdrsestrsf.png" group-title="Musica",TRACE Urban
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
