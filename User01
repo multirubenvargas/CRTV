@@ -1194,24 +1194,14 @@ http://177.234.230.226:8010/play/a01t/index.m3u8
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Lolly Kids" tvg-name="ES | Lolly Kids" tvg-logo="https://media.licdn.com/dms/image/C560BAQFdAU1qHO5HLw/company-logo_200_200/0/1572863101739?e=2147483647&v=beta&t=rCVG3SLF7zMjcfOfIScjaFkE1mHM4onFuIhlUhxB2Mk" group-title="MUSICA Y REALITIES", 263 | Lolly Kids
 http://38.41.8.1:8000/play/a02n
-#EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 264 | MTV
-http://138.59.177.34:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV 80s" tvg-name="USA | MTV 80s" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="MUSICA Y REALITIES", 265 | MTV 80s
-http://138.59.177.34:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV 00s" tvg-name="USA | MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="MUSICA Y REALITIES", 266 | MTV 00s
-http://138.59.177.34:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV Hits" tvg-name="USA | MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png" group-title="MUSICA Y REALITIES", 267 | MTV Hits
-http://138.59.177.34:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV Live" tvg-name="USA | MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" group-title="MUSICA Y REALITIES", 268 | MTV Live
-http://138.59.177.34:8000/play/a05q/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | HTV" tvg-name="USA | HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA Y REALITIES", 269 | HTV
 http://138.59.177.34:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA Y REALITIES", 270 | Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", 271 | Concert Channel
 http://138.59.177.34:8000/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
-http://138.59.177.34:8000/play/a05a/index.m3u8
+
 #EXTINF:-1 tvg-id="CO | Telemúsica" tvg-name="CO | Telemúsica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title="MUSICA Y REALITIES", 273 | Telemúsica
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 274 | Old Music Televisión
@@ -1258,12 +1248,7 @@ https://marine2.miplay.cl/karavanatv/playlist.m3u8
 https://marine2.miplay.cl/kpop/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Megabox" tvg-name="NI | Megabox" tvg-logo="https://pbs.twimg.com/profile_images/1108879740893622273/naY8KsoE_400x400.jpg" group-title="MUSICA Y REALITIES", 295 | Megabox
 https://hdbox.chunklistv.com/live?stream=megabox
-#EXTINF:-1 tvg-id="MX | Bandamax" tvg-name="MX | Bandamax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/245px-Bandamax_logo.svg.png" group-title="MUSICA Y REALITIES", 296 | Bandamax
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Telehit" tvg-name="MX | Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="MUSICA Y REALITIES", 297 | Telehit
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Telehit Música" tvg-name="MX | Telehit Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Telehit_M%C3%BAsica_logo.png/145px-Telehit_M%C3%BAsica_logo.png" group-title="MUSICA Y REALITIES", 298 | Telehit Música
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MX | Sin limites TV" tvg-name="MX | Sin limites TV" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1543589165298-Imagen.png" group-title="MUSICA Y REALITIES", 299 | Sin limites TV
 http://45.228.232.219:16000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="CL | Zoom Back TV" tvg-name="CL | Zoom Back TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ZOOM-BACK-FONDO-2-300x169.jpg" group-title="MUSICA Y REALITIES", 300 | Zoom Back TV
@@ -3668,6 +3653,25 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgZJ2n/fgtet4646578u5t8uyedredretr4yru6tui6tutujtgujuyhtree357.png" group-title="Latinoamérica",Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLatino.us" tvg-name="MTVLatino.us" tvg-logo="https://i.ibb.co/QXL93mf/587965476y7tgureughrugrgthruetgert.png" group-title="Musica",MTV
+http://138.59.177.34:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ry6tTY/yu5yu8548y58uyutg8y47tgrhgfrdugu89e.png" group-title="Musica",MTV Live
+http://138.59.177.34:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3NWVJG3/u7896t4379y643trehregyderyg8rty4ytg.png" group-title="Musica",MTV Hits
+http://138.59.177.34:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x5MyWXX/76547957tyguergte8rt435347tgyergrhtg.png" group-title="Musica",MTV 80s
+http://138.59.177.34:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1MMg756/657784543gfdgfgfudhfuudhfiuegf.png" group-title="Musica",MTV 00s
+http://138.59.177.34:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="MX | Telehit" tvg-name="MX | Telehit" tvg-logo="https://i.ibb.co/1bKkRTq/gvhngfjhfertw45rq265897y0uyloygfkmfjmdfjmgktfjudryhsewyhwsehyuehu.png" group-title="Musica",Telehit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit.mx" tvg-logo="https://i.ibb.co/Qv9pGcd/785478t645ytreugrhugrugurerg.png" group-title="Musica",Telehit Musica
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax.mx" tvg-logo="https://i.ibb.co/JjbVd9z/8589675iytrujrthetr5634yjkiu9o08iuof.png" group-title="Musica",Bandamax
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KN7qmQS/6576shbqtvsps6tawi7csawrdcswe8sa3w65wasdrsasudc7srrsdsescf.png" group-title="Musica",Exa TV
+http://138.59.177.34:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHmwM1R/fg4654759p435trewa324r5ewgteryas46yurt7ys4yujtrs.png" group-title="Musica",Venus Media
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
