@@ -6,6 +6,10 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="México", IMAGEN TV
+#EXTVLCOPT--http-reconnect=true
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
+
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
@@ -144,8 +148,6 @@ https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX -2HR
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics", IMAGEN TV
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 http://th4.online:2095/jositosder/bDeGYPqwA8JR/21484
 #EXTINF:-1 group-title="Bics", CANAL 5
