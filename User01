@@ -3709,7 +3709,7 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tZZRGds/bvcncfhktupr6870e7w35q36uyhtrysawerhuseseusuht.png" group-title="Musica",Molahits TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
+https://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R35Fm2D/vcbghrey646524q2346598700ouyjkhgjncfgxdgtawsrfewt64e3675478u45ry5yuhr5yu4ey7rtuj.png" group-title="Musica",Radio Taormina
 https://stream2.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
