@@ -6,12 +6,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="México", IMAGEN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="México",Imagen TV
 #EXTVLCOPT--http-reconnect=true
 http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
-
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas Latinoamerica
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K70pNkD/bvcnbxhdtsew5q2786579plukfhse536yrtujtryhuredy457u45ujtryhuredy4367363t5u.png" group-title="México",Canal 4 Guadalajara
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
@@ -49,6 +46,9 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQHwXJ8/unnamed-1.png" group-title="México",TV Más
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas Latinoamerica
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jz32JL1/95r83257regvhvbxcvkfqawpqo348uehfedbgjnswiodwesurhf3grg3y4t867539y5.png" group-title="México",Canal 22.2
