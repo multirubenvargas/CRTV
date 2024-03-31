@@ -238,8 +238,6 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", BEiN SPORT
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TUDN
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", AFIZZIONADOS
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TUDN
@@ -1096,6 +1094,19 @@ http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=1734688915&_cdn_timestamp=1705179457&_cdn_token=eff14cc580493d845d29a4d1a35a074e51dc28b7
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA", 218 | Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/26817 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TsNyyQ/d938752431dsvfcdhvbobhpyht459ih.png" group-title="Deportes",TUDN
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vk1qzRN/t7563267054123hnhkuop.png" group-title="Deportes",Fox Sports 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 219 | Liga 1 Max
 http://187.102.208.108:50001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 220 | Golf Channel
@@ -1104,19 +1115,19 @@ http://go.iptvhn.net:25461/7680/7680/115
 http://38.41.8.1:8000/play/a02z
 
 #EXTINF:-1 tvg-id="USA | Fox Sports" tvg-name="USA | Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_spx-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 222 | Fox Sports
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 222 | Fox Sports 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 223 | Fox Sports 3
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="USA | Fox Spos " tvg-name="USA | Fox Sports " tvg-logo="https:ikipts_3_logo.svg/18ox_sports_3_logo.svg.png" group-title="DEPORTES", 223 | Fox Sports Premium
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 224 | ESPN
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/26817 
+
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 225 | ESPN 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193 
+
 #EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 226 | ESPN 3
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194 
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 227 | ESPN 4
