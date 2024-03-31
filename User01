@@ -4092,3 +4092,37 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="StarChannelCentralAmerica.us" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="HD",Star Channel HD
 http://181.78.8.90:16123/play/ch07
 
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/j69Yz1S/6af3093605ba682f40d818ba70786acc.png" group-title="HD",FX HD
+http://181.78.8.90:16123/play/ch08
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="HD",El Gourmet HD
+http://181.78.8.90:16123/play/ch27
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="HD",Pasiones
+http://181.78.8.90:16123/play/ch35
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQkMFTK/large-1734697758-Atreseries-2020-alterno-png-9b8f2e0072b168dafb16e06c458ae843.png" group-title="HD",A3Series HD
+http://181.78.8.90:16123/play/ch11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZZgYRm/Discovery-Kids-2021.png" group-title="HD",Discovery Kids HD
+http://181.78.8.90:16123/play/ch02
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="CartoonNetworkPacific.us" tvg-logo="https://i.ibb.co/RSvtS9m/1200px-Cartoon-Network-HD-logo-svg.png" group-title="HD",Cartoon Network HD
+http://181.78.8.90:16123/play/ch09
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXzvCNr/Disney-Channel-2014-HD.png" group-title="HD",Disney Channel HD
+http://181.78.8.90:16123/play/ch03
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="HD",Disney Jr HD
+http://181.78.8.90:16123/play/ch05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="HD",Discovery ID HD
+http://181.78.8.90:16123/play/ch23
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gqQhBp/Discovery-HD.png" group-title="HD",Discovery Channel HD
+http://181.78.8.90:16123/play/ch22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YhHv66/1200px-Animal-Planet-HD-Primary-Lockup2-RGB-Wiki-2-svg.png" group-title="HD",Animal Planet HD
+http://181.78.8.90:16123/play/ch29
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg0dx3K/Nat-Geo-HD.png" group-title="HD",National Geographic HD
+http://181.78.8.90:16123/play/ch30
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mb9MQyL/discoveryhhhd.png" group-title="HD",H&H HD
+http://181.78.8.90:16123/play/ch25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmGZxcB/kisspng-food-network-high-definition-television-logo-claro-diet-5b508052cf0ec6-661240641532002386848.png" group-title="HD",Food Network HD
+http://181.78.8.90:16123/play/ch28
+#EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="CinecanalWest.us" tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="HD",Cinecanal HD
+http://181.78.8.90:16123/play/ch10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXR9p18/8796y89689yyhurthurug48589y5ry.png" group-title="HD",AMC HD
+http://181.78.8.90:16123/play/ch13
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="HD",DHE HD
+http://181.78.8.90:16123/play/ch14
