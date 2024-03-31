@@ -238,12 +238,6 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", BEiN SPORT
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", AFIZZIONADOS
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TUDN
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TUDN
-https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", CÑÑ
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", BANDAMAX
@@ -1103,6 +1097,8 @@ http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TsNyyQ/d938752431dsvfcdhvbobhpyht459ih.png" group-title="Deportes",TUDN
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="https://i.ibb.co/6thHdgW/afizzionados-white-logo-new-1.png" group-title="Deportes",Afizzionados
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk1qzRN/t7563267054123hnhkuop.png" group-title="Deportes",Fox Sports 3
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4yxMHn/nbchdcfrye5467578u0poyujgkgcyesr2q4trdfhuydfrcyuhrur5tu7ryudrgcvbcxgsr53w56e4yryhdryhd.png" group-title="Deportes",Fox Sports Premium
@@ -1115,6 +1111,10 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 http://38.41.8.1:8000/play/a02z
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fv2X2xy/87r763t3gtggo0pei9wyfdbvfyhty.png" group-title="Deportes",Adrenalina Sports
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxPnGDd/aedwqrtery987pootyujredyhuerdhyuedrhueujdujtntfrjtfrjmtfjmtyfjkmtfhuu6tuytr5u.png" group-title="Deportes",Zona TUDN Vix
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxPnGDd/aedwqrtery987pootyujredyhuerdhyuedrhueujdujtntfrjtfrjmtfjmtyfjkmtfhuu6tuytr5u.png" group-title="Deportes",Zona TUDN
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0GMsKp/416685-8c.png" group-title="Deportes",LAS
 http://138.59.177.34:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="Deportes",Claro Sports
