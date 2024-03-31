@@ -246,8 +246,6 @@ https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", CÑÑ
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", ADRENALINA
-https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", BANDAMAX
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
@@ -1107,50 +1105,38 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk1qzRN/t7563267054123hnhkuop.png" group-title="Deportes",Fox Sports 3
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4yxMHn/nbchdcfrye5467578u0poyujgkgcyesr2q4trdfhuydfrcyuhrur5tu7ryudrgcvbcxgsr53w56e4yryhdryhd.png" group-title="Deportes",Fox Sports Premium
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z4B0yC/9e75242efdgcjgoiu235d.png" group-title="Deportes",Golf Channel
+http://go.iptvhn.net:25461/7680/7680/115
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
+http://38.41.8.1:8000/play/a02z
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fv2X2xy/87r763t3gtggo0pei9wyfdbvfyhty.png" group-title="Deportes",Adrenalina Sports
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0GMsKp/416685-8c.png" group-title="Deportes",LAS
+http://138.59.177.34:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="Deportes",Claro Sports
+http://138.59.177.34:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVG3gmW/csrfd46e7q27y86sgdtbdstfvdstfsad8r7swa76e4d6rsarfsa.png" group-title="Deportes",Claro Sports 2
+http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggHGGYW/vcjnhrd6329670lokhsdarq24q6thfyuyhsrbvhfhydty687695435rydhhhfdh.png" group-title="Deportes",TNT Sports
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 219 | Liga 1 Max
 http://187.102.208.108:50001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 220 | Golf Channel
-http://go.iptvhn.net:25461/7680/7680/115
-#EXTINF:-1 tvg-id="USA | Fox Sports 1" tvg-name="USA | Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9o.svg/175px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", 221 | ESPN Premium
-http://38.41.8.1:8000/play/a02z
 
-#EXTINF:-1 tvg-id="USA | Fox Sports" tvg-name="USA | Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_spx-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 222 | Fox Sports
-
-#EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 222 | Fox Sports 2
-
-#EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 223 | Fox Sports 3
-
-
-#EXTINF:-1 tvg-id="USA | Fox Spos " tvg-name="USA | Fox Sports " tvg-logo="https:ikipts_3_logo.svg/18ox_sports_3_logo.svg.png" group-title="DEPORTES", 223 | Fox Sports Premium
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
-
-#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 224 | ESPN
-
-#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 225 | ESPN 2
-
-#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 226 | ESPN 3
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194 
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 227 | ESPN 4
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1729055045&_cdn_timestamp=1705179518&_cdn_token=bd40a97e9ceb29ec14ac3bbdd2451a455c64cb18
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", 228 | ESPN Extra
 http://go.iptvhn.net:25461/7680/7680/88
-#EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 229 | Claro Sports
-http://138.59.177.34:8000/play/a01i/index.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", Claro Sports HD 
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-
-
-#EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 230 | Claro Sports 2
-http://138.59.177.34:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 231 | TNT Sports
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES", 232 | TyC Sports
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 233 | El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="USA | Latin América Sport" tvg-name="USA | Latin América Sport" tvg-logo="https://pbs.twimg.com/media/F7kw9GuWsAAmPrJ?format=png&name=small" group-title="DEPORTES", 234 | Latin América Sport
-http://138.59.177.34:8000/play/a049/index.m3u8
+
 #EXTINF:-1 tvg-id="GT | Tigo Sports Guatemala" tvg-name="GT | Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES", 235 | Tigo Sports Guatemala
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 236 | Tigo Sports Costa Rica
@@ -4131,6 +4117,8 @@ http://181.78.8.90:16123/play/ch30
 http://181.78.8.90:16123/play/ch25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NmGZxcB/kisspng-food-network-high-definition-television-logo-claro-diet-5b508052cf0ec6-661240641532002386848.png" group-title="HD",Food Network HD
 http://181.78.8.90:16123/play/ch28
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="HD",Claro Sports HD
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="CinecanalWest.us" tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="HD",Cinecanal HD
 http://181.78.8.90:16123/play/ch10
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXR9p18/8796y89689yyhurthurug48589y5ry.png" group-title="HD",AMC HD
