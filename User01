@@ -1129,7 +1129,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://i.ibb.co/V9kN297/bgxcbgxdgtw356758597600oyitujryuhedyhue4yuhreujdjuduyrdurujrtujtrfjutfrjutu.png" group-title="Deportes",Tigo Sports Costa Rica
 http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 237 | Fitmaxx TV
+#EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://i.ibb.co/4SPLhCy/dxgse5w235645yejgkygloyp070978ertgyruhfjufjuftujrturftujrtfujrtfujr.png" group-title="Deportes",Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 238 | Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
