@@ -1041,6 +1041,8 @@ http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 5
+http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
 http://38.41.8.1:8000/play/a02z
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fv2X2xy/87r763t3gtggo0pei9wyfdbvfyhty.png" group-title="Deportes",Adrenalina Sports
@@ -1085,20 +1087,21 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manife
 https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Creo Sport" tvg-name="PE | Creo Sport" tvg-logo="https://i.ibb.co/GdTgKKQ/hfyhr6346745u8i6ut8kijt5ruye4yuje546y7u5r7uey457747y34.png" group-title="Deportes",Creo Sport
 https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 2 Sudamerica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN Colombia
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 2 Colombia
 http://181.78.8.90:16123/play/ch17
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 3 Sudamerica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 3 Colombia
 http://181.78.8.90:16123/play/ch18
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 5 Sudamerica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 5 Colombia
 http://181.78.8.90:16123/play/ch19
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 6 Sudamerica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 6 Colombia
 http://181.78.8.90:16123/play/ch21
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 7 Sudamerica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 7 Colombia
 http://181.78.8.90:16123/play/ch20
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBmBvps/hfdhhrtnvcngfjkiyloup0679684w5qw3tgfhsdxhyrtfujru74ewujtfjikrtujfgtuey4e5yhutjutfjty.png" group-title="Deportes",FUTBOL 1
@@ -4078,6 +4081,8 @@ http://181.78.8.90:16123/play/ch02
 http://181.78.8.90:16123/play/ch09
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fXzvCNr/Disney-Channel-2014-HD.png" group-title="HD",Disney Channel HD
 http://181.78.8.90:16123/play/ch03
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x3KKwPX/Tooncast-logo-svg.png" group-title="HD",Tooncast HD
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="HD",Disney Jr HD
 http://181.78.8.90:16123/play/ch05
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="HD",Discovery ID HD
