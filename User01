@@ -1023,9 +1023,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 
-http://181.78.8.90:16123/play/ch16
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193 
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2
@@ -1063,6 +1063,9 @@ http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="ElGarageTV.ar" tvg-logo="https://i.ibb.co/L6SRbXQ/Large-logo-garage-TV-HD-png-9288a09ab4d6cbef56c691cd4890aa24.png" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2 Argentina
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193 
 
 #EXTINF:-1 tvg-id="Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://i.ibb.co/V9kN297/bgxcbgxdgtw356758597600oyitujryuhedyhue4yuhreujdjuduyrdurujrtujtrfjutfrjutu.png" group-title="Deportes",Tigo Sports Costa Rica
 http://138.59.177.34:8000/play/a05i/index.m3u8
@@ -3681,6 +3684,9 @@ https://stream10.xdevel.com/video0s975885-1536/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mH2f16q/754787ur65tufgfgsdgsfdsw4r5yutouljoghykftusetyrutuj.png" group-title="Musica",Radio Capital
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5Mb98f/hytfutr6uj657485679i7rorpfhgjcfryhreuyrtrt57e464e67e7e4576586578rdftgydrfyh.png" group-title="Musica",NickMusic
+http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C80w1hF/ncjtryop567a345236453au8trjsw4t56erus4urtus5uyes5u7546us5us54us4ytrs.png" group-title="Musica",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
