@@ -2436,7 +2436,7 @@ https://live.canal27.tv:3633/live/canal27live.m3u8
 #EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", 876 | Nuevo Mundo Televisión || GUATEMALA
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 877 | TV Azteca Guate || GUATEMALA
-http://138.59.177.34:8000/play/a04k/index.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="GUATEMALA", 878 | Canal Antigua || GUATEMALA
 http://138.59.177.34:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="GT | La Red TV" tvg-name="GT | La Red TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png" group-title="GUATEMALA", 879 | La Red TV || GUATEMALA
