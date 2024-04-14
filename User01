@@ -1041,7 +1041,7 @@ http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zQrtNN7/nghfxdt5sw3e56789076poitujye4w6we3q2yhjggflkhfjfhjrdyhdeyhetesgcgxdte4we6547.png" group-title="Deportes",ESPN 5
 http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
 http://38.41.8.1:8000/play/a02z
@@ -1106,6 +1106,9 @@ http://181.78.8.90:16123/play/ch21
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 7 Colombia
 http://181.78.8.90:16123/play/ch20
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YLD1ZqK/vcgvdtesw35436786967oitujyhusedgtsewtdhdftsw4q2567589iytoijnfhdfcrhgydyghsdyhrdyhru.png" group-title="Deportes",FOX Deportes
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBmBvps/hfdhhrtnvcngfjkiyloup0679684w5qw3tgfhsdxhyrtfujru74ewujtfjikrtujfgtuey4e5yhutjutfjty.png" group-title="Deportes",FUTBOL 1
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
