@@ -1039,8 +1039,8 @@ http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4yxMHn/nbchdcfrye5467578u0poyujgkgcyesr2q4trdfhuydfrcyuhrur5tu7ryudrgcvbcxgsr53w56e4yryhdryhd.png" group-title="Deportes",Fox Sports Premium
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
+http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zQrtNN7/nghfxdt5sw3e56789076poitujye4w6we3q2yhjggflkhfjfhjrdyhdeyhetesgcgxdte4we6547.png" group-title="Deportes",ESPN 5
 http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
@@ -1066,6 +1066,9 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c60rZzK/hcbt5w36786970iyujfrtudbvnkghklgyirudyste5w6478950ufhfhyryeyte4ye6swra425otry.png" group-title="Deportes",ESPN 2 Argentina
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gP1K8yx/bcfgher6t5437568905ujryuhreuyhehfhsr42356ye747u8e58u7e78uetgwstgse.png" group-title="Deportes",ESPN 3 Argentina
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194 
 
 #EXTINF:-1 tvg-id="Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://i.ibb.co/V9kN297/bgxcbgxdgtw356758597600oyitujryuhedyhue4yuhreujdjuduyrdurujrtujtrfjutfrjutu.png" group-title="Deportes",Tigo Sports Costa Rica
 http://138.59.177.34:8000/play/a05i/index.m3u8
