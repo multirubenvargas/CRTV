@@ -53,10 +53,6 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQHwXJ8/unnamed-1.png" group-title="México",TV Más
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas Latinoamerica
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jz32JL1/95r83257regvhvbxcvkfqawpqo348uehfedbgjnswiodwesurhf3grg3y4t867539y5.png" group-title="México",Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
@@ -190,6 +186,11 @@ http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="AtreseriesInternacional.es" tvg-logo="https://i.ibb.co/PQkMFTK/large-1734697758-Atreseries-2020-alterno-png-9b8f2e0072b168dafb16e06c458ae843.png" group-title="Entretenimiento",A3Series
 http://138.59.177.34:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="Entretenimiento",Las Estrellas Sudamerica
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6w7FSJ8/vnfcy435658679rtuhxdreyhurtujrtu7546743757u8e64ydu756756u.png" group-title="Entretenimiento",Universo
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZZgYRm/Discovery-Kids-2021.png" group-title="Infantil",Discovery Kids
