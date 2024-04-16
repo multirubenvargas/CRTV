@@ -184,13 +184,16 @@ http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 http://138.59.177.34:8000/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable.mx" tvg-logo="https://i.ibb.co/Cn9hL87/Unicable2018-2.png" group-title="Entretenimiento",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7NQcKD/unnamedmaschic.png" group-title="Entretenimiento",Mas Chic
+http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UnivisionPanregional.mx" tvg-logo="https://i.ibb.co/bLJKJMm/ncgtw3q423765978oliopucvbhxdcfsaw2we36457utfgdujdser548u.png" group-title="Entretenimiento",Univision Latinoamerica
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="AtreseriesInternacional.es" tvg-logo="https://i.ibb.co/PQkMFTK/large-1734697758-Atreseries-2020-alterno-png-9b8f2e0072b168dafb16e06c458ae843.png" group-title="Entretenimiento",A3Series
 http://138.59.177.34:8000/play/a00y/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZZgYRm/Discovery-Kids-2021.png" group-title="Infantil",Discovery Kids
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
 #EXTINF:-1 tvg-id="NickelodeonPanregional.us" tvg-name="NickelodeonPanregional.us" tvg-logo="https://i.ibb.co/njj31y9/Nick-Logo.png" group-title="Infantil",Nick
 http://138.59.177.34:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="CartoonNetworkPacific.us" tvg-logo="https://i.ibb.co/rk5HVjb/1200px-Cartoon-Network-2010-logo-svg.png" group-title="Infantil",Cartoon Network
@@ -205,6 +208,8 @@ http://138.59.177.34:8000/play/a04x/index.m3u8
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="NickJrPanregional.us" tvg-logo="https://i.ibb.co/VJWb6mQ/2560px-Nick-Jr-logo-2009-svg.png" group-title="Infantil",Nick Jr
 http://138.59.177.34:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="Infantil",Disney Jr
+http://168.227.22.18:1935/live/mobile-081/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNNB6nd/Baby-First-Logo-Horizontal.png" group-title="Infantil",Babyfirst
 http://138.59.177.34:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcqpnhT/Teen-Nick-Logo-2017.png" group-title="Infantil",TeenNick
@@ -4105,7 +4110,7 @@ http://181.78.8.90:16123/play/ch07
 http://181.78.8.90:16123/play/ch08
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="HD",El Gourmet HD
 http://181.78.8.90:16123/play/ch27
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="HD",Pasiones
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="HD",Pasiones HD
 http://181.78.8.90:16123/play/ch35
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQkMFTK/large-1734697758-Atreseries-2020-alterno-png-9b8f2e0072b168dafb16e06c458ae843.png" group-title="HD",A3Series HD
 http://181.78.8.90:16123/play/ch11
