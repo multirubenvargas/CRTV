@@ -182,11 +182,11 @@ http://138.59.177.34:8000/play/a079/index.m3u8
 http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7NQcKD/unnamedmaschic.png" group-title="Entretenimiento",Mas Chic
 http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
-#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UnivisionPanregional.mx" tvg-logo="https://i.ibb.co/bLJKJMm/ncgtw3q423765978oliopucvbhxdcfsaw2we36457utfgdujdser548u.png" group-title="Entretenimiento",Univision Latinoamerica
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UnivisionPanregional.mx" tvg-logo="https://i.ibb.co/bLJKJMm/ncgtw3q423765978oliopucvbhxdcfsaw2we36457utfgdujdser548u.png" group-title="Entretenimiento",Univision
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="AtreseriesInternacional.es" tvg-logo="https://i.ibb.co/PQkMFTK/large-1734697758-Atreseries-2020-alterno-png-9b8f2e0072b168dafb16e06c458ae843.png" group-title="Entretenimiento",A3Series
 http://138.59.177.34:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="Entretenimiento",Las Estrellas Sudamerica
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="Entretenimiento",Las Estrellas Argentina
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6w7FSJ8/vnfcy435658679rtuhxdreyhurtujrtu7546743757u8e64ydu756756u.png" group-title="Entretenimiento",Universo
 http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
@@ -219,6 +219,40 @@ http://138.59.177.34:8000/play/a02x/index.m3u8
 http://138.59.177.34:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="USA | DreamWorks" tvg-name="USA | DreamWorks" tvg-logo="https://i.ibb.co/prBWSwX/bvcbgcgyre676897067itrurhueryhue5rujr5jr65uj5r67436545ye4.png" group-title="Infantil",DreamWorks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qk7nr37/6042128c.png" group-title="Cine",De Pelicula Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXHbH69/ggyr575685ru6kirtjiri68ur65i56u847u46yhtrujr6ui76tik76tu8457y.png" group-title="Cine",Golden
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwQxrXf/hgfyue456urtujru574u568urtiytgkijgfkmjgyikytkitiko7yoi879o7ioky7iokuy3292.png" group-title="Cine",Golden Latinoamerica
+http://138.59.177.34:8000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSmMyvk/hgu6u87657u845u856tujruj6567uty68u678tyujtuj6yt7867.png" group-title="Cine",Golden Multiplex
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G0Vpc9n/nvyry7658u56ru8547y43re5ue54y7r5uj6u878iftuir5u8658u.png" group-title="Cine",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9c8hWs/93287326356rffgeghyfewgyfytyt7.png" group-title="Cine",Paramount Channel
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
+http://190.95.220.212:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
+http://190.95.220.212:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7g4bpd/783786342ytg32gfsjhsgiuruywt4t.png" group-title="Cine",AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="Cine",Studio Universal
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gP6V83X/98tgd8974y78342ghufjvfdjivbjireu8944y87g.png" group-title="Cine",Europa Europa
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6bdjyXF/8948794376gbhfjnguiy87y78y87y78ty.png" group-title="Cine",Film & Arts
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 
 
 
@@ -286,8 +320,7 @@ https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", N+ MTY 
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN Mexico
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics", GOLDEN Latinoamerica
 https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN MPX
@@ -480,8 +513,6 @@ http://190.95.220.212:8000/play/a01j/index.m3u8
 http://190.95.220.212:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Cartoonito
 http://190.95.220.212:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Cinemax
-http://190.95.220.212:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Discovery Science
 http://190.95.220.212:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Fox Sports 2
@@ -561,8 +592,6 @@ http://190.95.220.212:8000/play/a02m/index.m3u8
 http://190.95.220.212:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Telemundo
 http://190.95.220.212:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Space
-http://190.95.220.212:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",SyFy
 http://190.95.220.212:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Discovery Channel
@@ -769,8 +798,7 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 62 | Investigation Discovery
 http://138.59.177.34:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 64 | AMC
-http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 65 | Space
 http://45.5.117.182:8000/play/a0jj/index.m3u8
 
@@ -778,10 +806,7 @@ http://45.5.117.182:8000/play/a0jj/index.m3u8
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 68 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", 69 | Cinecanal
-http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 70 | Paramount Network
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="PELICULAS Y SERIES", 72 | Sony Movies
 http://45.5.117.182:8000/play/a0fr/index.m3u8
@@ -797,14 +822,9 @@ https://marine2.miplay.cl/old/playlist.m3u8
 http://45.173.201.50:4000/play/a01t
 #EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", 78 | Claro Cinema
 http://138.59.177.34:8000/play/a05b/index.m3u8
-#EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="PELICULAS Y SERIES", En prueba | De Película
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | De Película Plus" tvg-name="MX | De Película Plus" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest/scale-to-width-down/149?cb=20220130181115&path-prefix=es" group-title="PELICULAS Y SERIES", En prueba | De Película Plus
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", 79 | TCM
 http://190.149.66.90:4000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 80 | Studio Universal
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESP | A3cine" tvg-name="ESP | A3cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/245px-Atrescine_logo.svg.png" group-title="PELICULAS Y SERIES", 83 | Atrescine
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
@@ -812,8 +832,6 @@ http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Real" tvg-name="USA | Cine Real" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png" group-title="PELICULAS Y SERIES", 86 | Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
-#EXTINF:-1 tvg-id="USA | Europa Europa" tvg-name="USA | Europa Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EUROPAEUROPALOGO2016.png/120px-EUROPAEUROPALOGO2016.png" group-title="PELICULAS Y SERIES", 87 | Europa Europa
-http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AR | I.Sat" tvg-name="AR | I.Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES", 89 | I.Sat
 http://45.5.117.182:8000/play/a0j3/index.m3u8
@@ -847,21 +865,16 @@ http://138.59.177.34:8000/play/a01p/index.m3u8
 http://138.59.177.34:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 105 | HBO Pop
 http://38.41.8.1:8000/play/a00d
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 106 | TNT
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 108 | Cine Latino
 http://138.59.177.34:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 109 | Golden
-http://138.59.177.34:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", 110 | Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 111 | Golden Premier
 http://138.59.177.34:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 112 | Golden Premier 2
 http://138.59.177.34:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Golden Edge
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 113 | Multipremier
 http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 114 | Canal MC
@@ -1021,8 +1034,6 @@ https://marine2.miplay.cl/24horas/playlist.m3u8
 http://181.78.8.90:16123/play/ch36
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 201 | Canal Claro
 http://45.228.232.219:16000/play/a0le/index.m3u8
-#EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="MISCELANEO", 202 | Film & Arts
-http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal DOS" tvg-name="CL | Canal DOS" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="MISCELANEO", 203 | Canal DOS
 https://marine2.miplay.cl/dos/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Clic!" tvg-name="MX | Clic!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="ESTILOS DE VIDA", 204 | Clic!
@@ -1067,7 +1078,7 @@ https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk1qzRN/t7563267054123hnhkuop.png" group-title="Deportes",Fox Sports 3
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4yxMHn/nbchdcfrye5467578u0poyujgkgcyesr2q4trdfhuydfrcyuhrur5tu7ryudrgcvbcxgsr53w56e4yryhdryhd.png" group-title="Deportes",Fox Sports Premium
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
 http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
