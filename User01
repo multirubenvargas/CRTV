@@ -248,7 +248,7 @@ http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
-http://190.95.220.212:8000/play/a01w/index.m3u8
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7g4bpd/783786342ytg32gfsjhsgiuruywt4t.png" group-title="Cine",AMC
@@ -273,6 +273,20 @@ http://138.59.177.34:8000/play/a06p/index.m3u8
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MPS6NSp/9808793256t2gdfhbdghjreutg4y78tyr.png" group-title="Cine",A3Cine
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R023xXK/bvnvhfdytry7iuytoopfudfawretreyyutrrr6t875r487r5it6791234267807.png" group-title="Cine",HBO
+http://138.59.177.34:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXYLpRn/kiuopiwqkfdcqwmdfckiqw3h7rwuqjsidmxcweirdfwmfriw3jfierwn-fgte4wigt.png" group-title="Cine",HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tHJh6dN/uioy7i979o6796796796ihko6jkhgkhgkghh7hchdrfy.png" group-title="Cine",HBO +
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tkdj5mJ/nhgfh46789670oyujrtuhre54uyhrtujruyhrtfujrur5tur56ur567u76u56u65.png" group-title="Cine",HBO Family
+http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/phjSdht/nhyut8i97o0r6tu7r45u47uwsert5s3e5rtw4e57yr5u7r65.png" group-title="Cine",HBO Xtreme
+http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cNjqt5t/ngc-ghrde75986tutufturu57u62b60hkyghikyikygikic18a.png" group-title="Cine",HBO POP
+http://38.41.8.1:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzDhzDJ/vbxcfdry5r7659i59oyujryher5uj6tru8u5r86u6trykjigytjkiyfgt6i8t6ikt03.png" group-title="Cine",MC
+http://138.59.177.34:8000/play/a04f/index.m3u8
 
 
 #EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
@@ -868,26 +882,12 @@ http://190.149.66.90:4000/play/a03t/index.m3u8
 http://138.59.177.34:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 99 | Cinemax
 http://go.iptvhn.net:25461/7680/7680/60
-#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 100 | HBO
-http://138.59.177.34:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 101 | HBO 2
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 102 | HBO +
-http://138.59.177.34:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 103 | HBO Family
-http://138.59.177.34:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 104 | HBO Xtreme
-http://138.59.177.34:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 105 | HBO Pop
-http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 111 | Golden Premier
 http://138.59.177.34:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 112 | Golden Premier 2
 http://138.59.177.34:8000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 114 | Canal MC
-http://138.59.177.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", 115 | Cine Mexicano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 117 | Cine Premium
