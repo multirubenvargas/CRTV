@@ -217,10 +217,14 @@ http://168.227.22.18:1935/live/mobile-081/playlist.m3u8
 http://138.59.177.34:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcqpnhT/Teen-Nick-Logo-2017.png" group-title="Infantil",TeenNick
 http://138.59.177.34:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFdtqMf/ddt8etp-2446086d-08d4-46e5-91f0-9c5c6908fba4.png" group-title="Infantil",Bit Me
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/618
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="ZooMoo.sg" tvg-logo="https://i.ibb.co/r6b2sx9/vcbhgwe452856hsoywrg36826t5eyw8fgtws86o346t5yhtyhhnfgafsdg.png" group-title="Infantil",ZooMoo
 http://138.59.177.34:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="USA | DreamWorks" tvg-name="USA | DreamWorks" tvg-logo="https://i.ibb.co/prBWSwX/bvcbgcgyre676897067itrurhueryhue5rujr5jr65uj5r67436545ye4.png" group-title="Infantil",DreamWorks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
+http://181.78.8.90:16123/play/ch75
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
