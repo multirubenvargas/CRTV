@@ -139,19 +139,19 @@ https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Entretenimiento",Star Channel
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+http://190.95.220.212:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SonyChannelAndes.us" tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="Entretenimiento",Sony
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+http://190.95.220.212:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="WarnerChannelPanregional.us" tvg-logo="https://i.ibb.co/xf2Z5TW/pngwing-com.png" group-title="Entretenimiento",Warner
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+http://190.95.220.212:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="EAndes.us" tvg-name="EAndes.us" tvg-logo="https://i.ibb.co/gFtzgJd/eonline.png" group-title="Entretenimiento",E!
-http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+http://190.95.220.212:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="UniversalTVPanregional.us" tvg-logo="https://i.ibb.co/3yzGYMf/1200px-Universal-TV-logo-svg.png" group-title="Entretenimiento",Universal
-http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+http://190.95.220.212:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="Entretenimiento",USA Network
 http://138.59.177.34:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/p3G448F/channe-png-1.png" group-title="Entretenimiento",FX
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+http://190.95.220.212:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="AEPanregional.us" tvg-logo="https://i.ibb.co/QnNh10x/imgayechannel.png" group-title="Entretenimiento",A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="AXNPacific.us" tvg-logo="https://i.ibb.co/vsj67Wf/1200px-AXN-logo-2015-svg.png" group-title="Entretenimiento",AXN
@@ -242,25 +242,20 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0Vpc9n/nvyry7658u56ru8547y43re5ue54y7r5uj6u878iftuir5u8658u.png" group-title="Cine",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9c8hWs/93287326356rffgeghyfewgyfytyt7.png" group-title="Cine",Paramount Channel
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+http://190.95.220.212:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+http://190.95.220.212:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
-http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+http://190.95.220.212:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
+http://190.95.220.212:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
-http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+http://190.95.220.212:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7g4bpd/783786342ytg32gfsjhsgiuruywt4t.png" group-title="Cine",AMC
-http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+http://190.95.220.212:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="Cine",Studio Universal
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gP6V83X/98tgd8974y78342ghufjvfdjivbjireu8944y87g.png" group-title="Cine",Europa Europa
-http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6bdjyXF/8948794376gbhfjnguiy87y78y87y78ty.png" group-title="Cine",Film & Arts
-http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="SonyMoviesLatinAmerica.us" tvg-logo="https://i.ibb.co/S5Dp4Lm/5r38769695r6w4r3wtfhbfrdyhfdhftr6ye453w5657yutrujujret5w35yhrt.png" group-title="Cine",Sony Movies
-http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+http://190.95.220.212:8000/play/a02x/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5yBRSP/674e3xxmxbigsiraw4s3xderxfsafdrfsad7asdsa6fsatrsaf4rsxex.png" group-title="Cine",Multipremier
 http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tBXtdwR/5e6653260977ft657865t7urt5ufgjtr7e46458978tfutr6345erhfgyedrtetfgujrt.png" group-title="Cine",Claro Cinema
@@ -270,13 +265,12 @@ http://138.59.177.34:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://i.ibb.co/4tHzdrW/csdcksepesw073t52qrfdcsfacsfe0s5er3fscfgds9tsdufvds5rds3.png" group-title="Cine",Cine Latino
 http://138.59.177.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZ9V3ky/gfbgdrty65786790ijrtjur547u6tur54ythfryhedryt632w451yujyhjnftgrfjuu6r56tuj.png" group-title="Cine",Az Cinema
-http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MPS6NSp/9808793256t2gdfhbdghjreutg4y78tyr.png" group-title="Cine",A3Cine
-http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+http://190.95.220.212:8000/play/a051/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R023xXK/bvnvhfdytry7iuytoopfudfawretreyyutrrr6t875r487r5it6791234267807.png" group-title="Cine",HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXYLpRn/kiuopiwqkfdcqwmdfckiqw3h7rwuqjsidmxcweirdfwmfriw3jfierwn-fgte4wigt.png" group-title="Cine",HBO 2
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+http://190.95.220.212:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHJh6dN/uioy7i979o6796796796ihko6jkhgkhgkghh7hchdrfy.png" group-title="Cine",HBO +
 http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tkdj5mJ/nhgfh46789670oyujrtuhre54uyhrtujruyhrtfujrur5tur56ur567u76u56u65.png" group-title="Cine",HBO Family
@@ -490,18 +484,15 @@ http://190.95.220.212:8000/play/a00k/index.m3u8
 http://190.95.220.212:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",HBO
 http://190.95.220.212:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",HBO2
-http://190.95.220.212:8000/play/a00t/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",Kanal D Drama
 http://190.95.220.212:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Nick Jr
 http://190.95.220.212:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",STAR CHANNEL
-http://190.95.220.212:8000/play/a03u/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",Teen Nick
 http://190.95.220.212:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Warner Channel
-http://190.95.220.212:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",CDO BÆsico
 http://190.95.220.212:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",CDO Premium
@@ -514,8 +505,7 @@ http://190.95.220.212:8000/play/a00w/index.m3u8
 http://190.95.220.212:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",EWTN
 http://190.95.220.212:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",FX
-http://190.95.220.212:8000/play/a017/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",History Channel
 http://190.95.220.212:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",ID - Investigation Discovery
@@ -524,14 +514,11 @@ http://190.95.220.212:8000/play/a00z/index.m3u8
 http://190.95.220.212:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",TVE
 http://190.95.220.212:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Universal
-http://190.95.220.212:8000/play/a016/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",Canal 13
 http://190.95.220.212:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",CHV
 http://190.95.220.212:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Cinecanal
-http://190.95.220.212:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Glitz*
 http://190.95.220.212:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Golden Edge
@@ -552,8 +539,6 @@ http://190.95.220.212:8000/play/a01x/index.m3u8
 http://190.95.220.212:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Nickelodeon
 http://190.95.220.212:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Paramount Channel
-http://190.95.220.212:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 group-title="TV Premiun",REC TV
 http://190.95.220.212:8000/play/a01m/index.m3u8
@@ -571,8 +556,7 @@ http://190.95.220.212:8000/play/a021/index.m3u8
 http://190.95.220.212:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",CNN Chile
 http://190.95.220.212:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",E! Entertainment TV
-http://190.95.220.212:8000/play/a024/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",ESPN2
 http://190.95.220.212:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Fox Sports 1
@@ -581,8 +565,7 @@ http://190.95.220.212:8000/play/a028/index.m3u8
 http://190.95.220.212:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",IVC
 http://190.95.220.212:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Sony
-http://190.95.220.212:8000/play/a029/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",Animal Planet
 http://190.95.220.212:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Caracol
@@ -609,8 +592,7 @@ http://190.95.220.212:8000/play/a02s/index.m3u8
 http://190.95.220.212:8000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",RCN
 http://190.95.220.212:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Studio Universal
-http://190.95.220.212:8000/play/a02x/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",Telefe
 http://190.95.220.212:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Panamericana
@@ -621,8 +603,7 @@ http://190.95.220.212:8000/play/a043/index.m3u8
 http://190.95.220.212:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Pasiones
 http://190.95.220.212:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TNT
-http://190.95.220.212:8000/play/a02n/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",Telemundo
 http://190.95.220.212:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",SyFy
@@ -635,10 +616,8 @@ http://190.95.220.212:8000/play/a018/index.m3u8
 http://190.95.220.212:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",ESPN
 http://190.95.220.212:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",AMC
-http://190.95.220.212:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",AZ Cinema
-http://190.95.220.212:8000/play/a051/index.m3u8
+
+
 #EXTINF:-1 group-title="TV Premiun",ByM Sport
 http://190.95.220.212:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Canal N
@@ -663,8 +642,7 @@ http://190.95.220.212:8000/play/a052/index.m3u8
 http://190.95.220.212:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Love Nature
 http://190.95.220.212:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Space
-http://190.95.220.212:8000/play/a02y/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",MUSICA
 http://190.95.220.212:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",MUSICA 2
