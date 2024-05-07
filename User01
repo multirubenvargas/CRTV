@@ -114,6 +114,8 @@ http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYBy8MV/bhdcgtwse5367689760otyjkitruye45r7u54r6truj56rtu756tu8j6t5u.png" group-title="Entretenimiento",EURO Channel
 http://138.59.177.34:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1XCngV4/yr57346568t7yjvnvjdfstwqrwut7yifhsftgw3e564uyhfdghndfygtweastygrtufdhe.png" group-title="Entretenimiento",Canal Claro
+http://138.59.177.34:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNTSeriesSouth.us" tvg-logo="https://i.ibb.co/8D9zJ0f/31009457980-baaa6ac9db-o.png" group-title="Entretenimiento",TNT Series
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="ElGourmetSouth.ar" tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="Entretenimiento",El Gourmet
@@ -209,7 +211,8 @@ http://190.95.220.212:8000/play/a02y/index.m3u8
 http://190.95.220.212:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="Cine",Studio Universal
 http://190.95.220.212:8000/play/a02x/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6bdjyXF/8948794376gbhfjnguiy87y78y87y78ty.png" group-title="Cine",Film & Arts
+http://138.59.177.34:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5yBRSP/674e3xxmxbigsiraw4s3xderxfsafdrfsad7asdsa6fsatrsaf4rsxex.png" group-title="Cine",Multipremier
 http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tBXtdwR/5e6653260977ft657865t7urt5ufgjtr7e46458978tfutr6345erhfgyedrtetfgujrt.png" group-title="Cine",Claro Cinema
