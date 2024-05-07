@@ -2,139 +2,93 @@
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="México",Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="México",Imagen TV
 #EXTVLCOPT--http-reconnect=true
 http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K70pNkD/bvcnbxhdtsew5q2786579plukfhse536yrtujtryhuredy457u45ujtryhuredy4367363t5u.png" group-title="México",Canal 4 Guadalajara
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="México",Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MultimediosPlus.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="México",Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca7MexicoCity.mx" tvg-logo="https://i.ibb.co/VJ038Fr/418.png" group-title="México",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
 #EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="XEFBTDT.mx" tvg-logo="https://i.ibb.co/QFHRjtR/7-CF25422-7712-4-B9-A-9-BCA-F0-EA9-AEF7729.png" group-title="México",Canal 8
 https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Nueve.mx" tvg-name="Nueve.mx" tvg-logo="https://i.ibb.co/BwxtWJW/278369393029211.png" group-title="México",NU9VE
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="N+" tvg-name="N+" tvg-logo="https://i.ibb.co/JQLmKGT/bvhcyhsrwq124680pukgltjudruywe4yeu7r587e46ydrhudrjurt7w43dgssedyhdrhutr.png" group-title="México",N+
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2018/04/Banner-logo-canal-once-e1523045891245.png" group-title="México",ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="México",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="México",Multimedios Bajío
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZV7V38/re6347trujfhfgkptwerfvbnnft79yre3r5e75487erfhdfyer.png" group-title="México",Azteca Noreste
 https://live.info7.mx/info7/stream.m3u8 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Ufrvvk.png" group-title="México",A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7J7yDGN/bcvbxdgser2q4879y7900yolyoktfjfjgmnvcmvbmjfkiylkotyiuruerdyurdeyhedy4et6weyte4uyhrtujr.png" group-title="México",MVStv
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/25QRrz4/f565u78uifdighjk7ode5erthxfvhnmcfjxd4yareuytu857rstujtujdx4e6s767858trftghrejdrujtsdutrujsruid6.png" group-title="México",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=AuXzb2rF1zkk4eaVO87WfplZR7GvS4cF&sid=8lJHipITwC0MJo2z6ZnVuRD7of2Rt7p1&pid=kRwErx3UzvyEPTKxMwMMePZh185cPDbx&an=screen&at=web-app&av=v5.2.111&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=938x469&without_cookies=false&dnt=true
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrxMybb/9w8w8w8euehqhqhsbxbxnzkzosoww72626etegevwjqir7fyejq.png" group-title="México",Canal 28
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQHwXJ8/unnamed-1.png" group-title="México",TV Más
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jz32JL1/95r83257regvhvbxcvkfqawpqo348uehfedbgjnswiodwesurhf3grg3y4t867539y5.png" group-title="México",Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online-100x70.png" group-title="México",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Monclova-en-vivo-Online-100x70.png" group-title="México",NRT México
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/RCG-Television-en-vivo-Online-100x70.png" group-title="México",RCG
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/RCG-Television-en-vivo-Online-100x70.png" group-title="México",RCG 3
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwXV0FV/ftre65e757vbjo9p0u8w42w52342yryse5y4uhw4erytsets3w5.png" group-title="México",8 NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLwQPyT/453476uyesdgshgfjfhkuo536yretuas5t4gjfxyhrfdyhes4ya3w4ye5u5u754.png" group-title="México",Telemax
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PNBjP8/dfty4567yujhkpleraq2h4535qh6375nyythnse43hdxghsewrw3.png" group-title="México",TVP Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PNBjP8/dfty4567yujhkpleraq2h4535qh6375nyythnse43hdxghsewrw3.png" group-title="México",TVP Los Mochis 
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PNBjP8/dfty4567yujhkpleraq2h4535qh6375nyythnse43hdxghsewrw3.png" group-title="México",TV Pacífico Obregón
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PNBjP8/dfty4567yujhkpleraq2h4535qh6375nyythnse43hdxghsewrw3.png" group-title="México",TV Pacífico Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TT0qhbN/IMG-2236.png" group-title="México",SIPSE TV Merida
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Radio-y-Television-Queretaro-en-vivo-Online-100x70.png" group-title="México",RTQ
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z8jTdF6/8957yrefbsdvksfnwiqru239r27423rehf55686.png" group-title="México",TV Mar Puerto Vallarta
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9sFJKfg/7y6ujdu45rw6367y5ud6uyheruhyseyhes5y7w5u7tujsrdy45uy6u46u46u.png" group-title="México",Canal Diez Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://umtv.mx/wp-content/uploads/2019/03/log3.png" group-title="México",UMtv
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-100x70.png" group-title="México",Jalisco TV 17.1
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Puebla-TV-en-vivo-Online-100x70.png" group-title="México",Puebla TV
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dbd9VfS/e536uyioyp75vnnvcxgkrtsw52234uyksrtkkse4y345uy4ui.png" group-title="México",15 TV 
 https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6W3dgz5/fcghyti7youpiuor56yw3412hu5wrryuhrt6345ujfryse34r5w34u68.png" group-title="México", AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v3NfdjN/bfchtui6t9i7t0tupsew4q3jnjn6yjn345jn35w45rytrdydry643.png" group-title="México",Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h1B4Cdh/5t6457y6eujydhghjylyipghasw3r537ujkhnbxdfhg5u68i6t8u54utrfhcjyj.png" group-title="México",Teleplay
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4JX8nMN/yryry7567bxdfwa4q2680pity6w35yt53yh535nj7534jn46.png" group-title="México",Hipódromo de las Américas
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SR7FY4Y/6r57676utyhfgcbcnjgvjghkgfdtersvjmuopuycxsraq335h64jnwnj432nw35.png" group-title="México",Turistik TV México
-https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qjybjg/ghrdte7u6otup634w56yred53w56yrsw4r53q26ye46yw356t43w6e7.png" group-title="México",TVCuatro 4.1
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rv3wRx0/gfgdry6e5769potrd5q23bhqq4n5j3w53wyrdfmj34wj6n46.png" group-title="México",TVCuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="México",Azteca Uno -1H
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/256px-Las_Estrellas.svg.png" group-title="México",Las Estrellas -1 Horas
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/256px-Las_Estrellas.svg.png" group-title="México",Las Estrellas -2 Horas
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r52qCgC/bvnrtwsertpo895aqw3y1gj7n475rujtfydert5w356.png" group-title="México",TVCuatro 4.3
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+
 
 
 
@@ -283,16 +237,11 @@ http://38.41.8.1:8000/play/a00d
 http://138.59.177.34:8000/play/a04f/index.m3u8
 
 
-#EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
+
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX -1HR
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX -2HR
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 http://th4.online:2095/jositosder/bDeGYPqwA8JR/21484
@@ -312,12 +261,9 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", ONCE
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1  group-title="Bics", A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="Bics", MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="Bics", UNICABLE
