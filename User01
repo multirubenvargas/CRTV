@@ -114,8 +114,9 @@ http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYBy8MV/bhdcgtwse5367689760otyjkitruye45r7u54r6truj56rtu756tu8j6t5u.png" group-title="Entretenimiento",EURO Channel
 http://138.59.177.34:8000/play/a041/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1XCngV4/yr57346568t7yjvnvjdfstwqrwut7yifhsftgw3e564uyhfdghndfygtweastygrtufdhe.png" group-title="Entretenimiento",Canal Claro
-http://138.59.177.34:8000/play/a01k/index.m3u8
+http://138.59.177.34:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNTSeriesSouth.us" tvg-logo="https://i.ibb.co/8D9zJ0f/31009457980-baaa6ac9db-o.png" group-title="Entretenimiento",TNT Series
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="ElGourmetSouth.ar" tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="Entretenimiento",El Gourmet
@@ -156,7 +157,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
 #EXTINF:-1 tvg-id="NickelodeonPanregional.us" tvg-name="NickelodeonPanregional.us" tvg-logo="https://i.ibb.co/njj31y9/Nick-Logo.png" group-title="Infantil",Nick
 http://138.59.177.34:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="CartoonNetworkPacific.us" tvg-logo="https://i.ibb.co/rk5HVjb/1200px-Cartoon-Network-2010-logo-svg.png" group-title="Infantil",Cartoon Network
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+http://138.59.177.34:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="DisneyChannelCenter.us" tvg-logo="https://i.ibb.co/mBX4ty3/2560px-2014-Disney-Channel-logo-svg.png" group-title="Infantil",Disney Channel
 http://177.234.230.226:8010/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="BoomerangLatinAmerica.us" tvg-logo="https://i.ibb.co/10jTQz8/dbfvrut4y578378653yusdfw342345rdfgijty7i09834.png" group-title="Infantil",Cartoonito
@@ -2332,8 +2333,6 @@ http://170.82.37.21:8000/play/a005/index.m3u8
 https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 837 | TEN Canal 10 || HONDURAS
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://pbs.twimg.com/profile_images/1615373732830142467/m_-jM18o_400x400.jpg" group-title="HONDURAS", 838 | Canal 11 || HONDURAS
-http://138.59.177.34:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="HN | TV Azteca Honduras" tvg-name="HN | TV Azteca Honduras" tvg-logo="https://yt3.googleusercontent.com/cyq9irLdDgryTt4fKAH3_df_Fs9sqsBReXVpK3kxpBS_I5Rv0zvSNoii0tJ3B06t7cueB1kzzw=s176-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 839 | TV Azteca Honduras || HONDURAS
 http://170.82.37.21:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="HN | Girasol TV" tvg-name="HN | Girasol TV" tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" group-title="HONDURAS", 840 | Girasol TV || HONDURAS
@@ -3208,7 +3207,8 @@ https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X3VKmM/4364769o8oyujtsghsgh546y456y344tgfeghrshbrt5yh45.png" group-title="Latinoamérica",Ten Canal 10
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://i.ibb.co/yV4trkQ/bfcgews46547325t6rutyoujntfgruh5r47ruh56j56r7u45u.png" group-title="Latinoamérica",Canal 11 Honduras
+http://138.59.177.34:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48JQZZs/tr7u65eujyhgcdxre5t3w456tw67yuhju68it2347a.png" group-title="Latinoamérica",UTV
 https://live-utv.unah.edu.hn/web/salida.m3u8
@@ -4010,6 +4010,9 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbFDGmj/vfnmngykiti7y4e6w45dw21697otyfuyptwqghglnvcxt4575yy57463tsyutujdy4q3tyoipp7hd.png" group-title="Religión",TV Gracia
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmerica.us" tvg-name="PlayboyTVLatinAmerica.us" tvg-logo="https://i.ibb.co/WpN0Ghq/w4537869870hxcvgbcxbgjgyui7teu84w635yrtrhsrty4353.png" group-title="Adultos",Playboy
+http://138.59.177.34:8000/play/a01r/index.m3u8
+
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTNSpanish.cn" tvg-logo="https://i.ibb.co/BCgLr0B/te45yrhfxgrywa35a2rtfcaqctd1068gstbyaovwi7s5fiv7sa.png" group-title="Internacional",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -4054,6 +4057,8 @@ http://181.78.8.90:16123/play/ch07
 
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/j69Yz1S/6af3093605ba682f40d818ba70786acc.png" group-title="HD",FX HD
 http://181.78.8.90:16123/play/ch08
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1XCngV4/yr57346568t7yjvnvjdfstwqrwut7yifhsftgw3e564uyhfdghndfygtweastygrtufdhe.png" group-title="HD",Canal Claro HD
+http://138.59.177.34:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="HD",El Gourmet HD
 http://181.78.8.90:16123/play/ch27
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="HD",Pasiones HD
@@ -4090,3 +4095,6 @@ http://181.78.8.90:16123/play/ch10
 http://181.78.8.90:16123/play/ch13
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="HD",DHE HD
 http://181.78.8.90:16123/play/ch14
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXYLpRn/kiuopiwqkfdcqwmdfckiqw3h7rwuqjsidmxcweirdfwmfriw3jfierwn-fgte4wigt.png" group-title="HD",HBO 2 HD
+http://138.59.177.34:8000/play/a01n/index.m3u8
+
