@@ -30,14 +30,16 @@ http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ATV
 http://190.95.220.212:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 5
-http://45.228.234.167:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 5 HD
+http://45.228.234.167:8000/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Televicentro
 http://190.95.220.212:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",CHV
 http://190.95.220.212:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Caracol
 http://190.95.220.212:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024", 509 | TVES || VENEZUELA
+http://38.41.8.1:8000/play/a03k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Antena 7- RD
 http://45.228.234.167:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Repretel Canal 6
@@ -46,8 +48,12 @@ http://45.228.234.167:8000/play/a01u/index.m3u8
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024", Canal 11 - GUA
 http://45.228.234.167:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 10 Nicaragua
+https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-ni-c10-c10.stream.mediatiquestream.com%2Findex.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ČT Sport
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 5
+http://45.228.234.167:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Repretel Canal 6
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10337
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Eurosport 2
