@@ -14,19 +14,16 @@ https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports Pluto
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN MX HD
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155675
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",cos fc (panama)
 https://dashtvcloud.online:8443/josealbrook/panama121/213622
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RTS
 http://190.95.220.212:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RCN
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RCN
-http://bgtv.xyz/play/play-777.php?tlat=193&token=asdfasdf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024", SV: CANAL 12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ATV
 http://190.95.220.212:8000/play/a00k/index.m3u8
@@ -38,8 +35,26 @@ http://190.95.220.212:8000/play/a04o/index.m3u8
 http://190.95.220.212:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Caracol
 http://190.95.220.212:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Antena 7- RD
+http://45.228.234.167:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Repretel Canal 6
+http://45.228.234.167:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",HN: VTV
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Repretel Canal 6
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Eurosport 2
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/158481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TV MAX
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN MX HD
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155675
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 5
 http://181.78.105.146:2000/play/a038/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RCN
+http://bgtv.xyz/play/play-777.php?tlat=193&token=asdfasdf
 
 #EXTINF:-1 group-title="Bics DEPORTES", fox sport premiun (mexico)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
