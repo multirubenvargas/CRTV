@@ -56,6 +56,163 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RCN
 http://bgtv.xyz/play/play-777.php?tlat=193&token=asdfasdf
 
+#EXTINF:-1 group-title="prueba", VTV - HON
+http://45.228.234.167:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="prueba", GUATE VISION - GUA
+http://45.228.234.167:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="prueba", CANAL 13 - GUA
+http://45.228.234.167:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="prueba", CANAL 3 - GUA
+http://45.228.234.167:8000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="prueba", GUATE VISION - GUA
+http://45.228.234.167:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="prueba", GUATE VISION - GUA
+http://45.228.234.167:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="prueba", CANAL 11 - GUA
+http://45.228.234.167:8000/play/a09i/index.m3u8
+#EXTINF:-1 group-title="prueba", GUATE VISION - GUA
+http://45.228.234.167:8000/play/a09g/index.m3u8
+#EXTINF:-1 group-title="prueba", CANAL 13 - GUA
+http://45.228.234.167:8000/play/a09h/index.m3u8
+#EXTINF:-1 group-title="prueba", CDN2- RD
+http://45.228.234.167:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="prueba", CDN37 - RD
+http://45.228.234.167:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="prueba", CINECANAL HD
+http://45.228.234.167:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="prueba", CNN Internacional
+http://45.228.234.167:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="prueba", CNNE
+http://45.228.234.167:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal  21 - ESA
+http://45.228.234.167:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 11 - GUA
+http://45.228.234.167:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 11 - HON
+http://45.228.234.167:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 11 - HON CARD 5
+http://45.228.234.167:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 11 fslb
+http://45.228.234.167:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 12 - ESA
+http://45.228.234.167:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 13-GUA
+http://45.228.234.167:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 19  ESA
+http://45.228.234.167:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 2 - ESA
+http://45.228.234.167:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 3 - GUA
+http://45.228.234.167:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 3 PISPI
+http://45.228.234.167:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 3 Telesistemas HND
+http://45.228.234.167:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 3 fslb
+http://45.228.234.167:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 4 - ESA
+http://45.228.234.167:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 5 - HON
+http://45.228.234.167:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 5 -fslb
+http://45.228.234.167:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 6 - ESA
+http://45.228.234.167:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 6 - ESA
+http://45.228.234.167:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 7 - GUA
+http://45.228.234.167:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 7 PISPI
+http://45.228.234.167:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal 8 fslb
+http://45.228.234.167:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal Antigua - GUA
+http://45.228.234.167:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal Antigua PISPI
+http://45.228.234.167:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="prueba", Azteca Guate - GUA
+http://45.228.234.167:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal VTV HND
+http://45.228.234.167:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal VTV fslb
+http://45.228.234.167:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="prueba", Canal del Congreso canal 9
+http://45.228.234.167:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="prueba", Cartoon Network
+http://45.228.234.167:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="prueba", Cartoonito
+http://45.228.234.167:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="prueba", Cine Latino
+http://45.228.234.167:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="prueba", CineCanal
+http://45.228.234.167:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="prueba", CineMax
+http://45.228.234.167:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="prueba", Claro Sports 1 HD
+http://45.228.234.167:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="prueba", Claro Sports 2 HD
+http://45.228.234.167:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="prueba", Color Vision 9 - RD
+http://45.228.234.167:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="prueba", Comedy Central HD
+http://45.228.234.167:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="prueba", Concert Channel
+http://45.228.234.167:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="prueba", DHE
+http://45.228.234.167:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="prueba", DHE HD
+http://45.228.234.167:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="prueba", DISC THEATHER HD
+http://45.228.234.167:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="prueba", Deportes TVC fslb
+http://45.228.234.167:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery Channel
+http://45.228.234.167:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery Channel HD
+http://45.228.234.167:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery Home & Health
+http://45.228.234.167:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery ID HD
+http://45.228.234.167:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery Kids
+http://45.228.234.167:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery Kids HD
+http://45.228.234.167:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery Science
+http://45.228.234.167:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery Turbo
+http://45.228.234.167:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="prueba", Discovery World HD
+http://45.228.234.167:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="prueba", Disney
+http://45.228.234.167:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="prueba", Disney JR
+http://45.228.234.167:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="prueba", E!
+http://45.228.234.167:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="prueba", E! Entertairment HD
+http://45.228.234.167:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="prueba", ELIM TV - ESA
+http://45.228.234.167:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN CENTROA
+http://45.228.234.167:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN 4 CENTROA HD
+http://45.228.234.167:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN 2 CENTROA
+http://45.228.234.167:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN 3 CENTROA
+http://45.228.234.167:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN 3 CENTROA HD
+http://45.228.234.167:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN 4 CENTROA
+http://45.228.234.167:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN 5 CENTROA
+http://45.228.234.167:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN 5 CENTROA HD
+http://45.228.234.167:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="prueba", ESPN 6 ANDINA
+http://45.228.234.167:8000/play/a07p/index.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES", fox sport premiun (mexico)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
 #EXTINF:-1 group-title="Bics DEPORTES",  TUDN
