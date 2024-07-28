@@ -14,8 +14,8 @@ https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports Pluto
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1285
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ES | EuroSport 1 HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/6895
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ES | EuroSport 2 HD
@@ -42,6 +42,8 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 http://190.95.220.212:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 5 HD
 http://45.228.234.167:8000/play/a0ll/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (TELEMUNDO)
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148939
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Televicentro
 http://190.95.220.212:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",CHV
@@ -60,10 +62,12 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 http://45.228.234.167:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 10 Nicaragua
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-ni-c10-c10.stream.mediatiquestream.com%2Findex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",USA | NBC Los Angeles HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/761
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",USA | NBC Miami HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (NBC)
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (CNBC)
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148973
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ČT Sport
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",BRASIL | SPORTV HD
@@ -76,8 +80,8 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/76720
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/114682
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ITALY | Rai Sports HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/81411
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (USA NETWORK)
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ARG | TyC Sports HD (2)
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/15899
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 5
@@ -86,6 +90,8 @@ http://45.228.234.167:8000/play/a0fl/index.m3u8
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Paraguay | SNT
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN VIX
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1285
 
 #EXTINF:-1 group-title="prueba", VTV - HON
 http://45.228.234.167:8000/play/a06v/index.m3u8
