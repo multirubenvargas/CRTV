@@ -15,6 +15,8 @@ https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports Pluto
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TVP
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Bolivision
@@ -56,14 +58,6 @@ http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8?checkedby:iptvcat.com
 http://45.228.234.167:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TVP
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Repretel Canal 6
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10337
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Eurosport 2
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/158481
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TV MAX
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN MX HD
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155675
 
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
