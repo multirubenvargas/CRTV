@@ -31,8 +31,8 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8?CMC
 https://dashtvcloud.online:8443/josealbrook/panama121/213622
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RTS
 http://190.95.220.212:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RCN
-http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",CO | RCN HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/459
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
@@ -92,6 +92,8 @@ https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3319
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN VIX
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1285
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RCN
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 
 #EXTINF:-1 group-title="prueba", VTV - HON
 http://45.228.234.167:8000/play/a06v/index.m3u8
