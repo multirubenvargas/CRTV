@@ -49,6 +49,8 @@ http://190.95.220.212:8000/play/a02d/index.m3u8
 http://38.41.8.1:8000/play/a03k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Antena 7- RD
 http://45.228.234.167:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",PANAMA | TV MAX 9
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/445
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Repretel Canal 6
 http://45.228.234.167:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",HN: VTV
@@ -191,8 +193,6 @@ http://45.228.234.167:8000/play/a07f/index.m3u8
 http://45.228.234.167:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="prueba", Color Vision 9 - RD
 http://45.228.234.167:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="prueba", Comedy Central HD
-http://45.228.234.167:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="prueba", Concert Channel
 http://45.228.234.167:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="prueba", DHE
