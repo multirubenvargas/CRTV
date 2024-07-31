@@ -260,10 +260,9 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="México",Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+http://181.78.105.146:2000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="México",Imagen TV
-#EXTVLCOPT--http-reconnect=true
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
+http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K70pNkD/bvcnbxhdtsew5q2786579plukfhse536yrtujtryhuredy457u45ujtryhuredy4367363t5u.png" group-title="México",Canal 4 Guadalajara
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="México",Canal 5
@@ -413,7 +412,8 @@ http://190.95.220.212:8000/play/a00w/index.m3u8
 http://190.95.220.212:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
 http://45.228.234.167:8000/play/a04t/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fddwDkq/fcdtw36y58irujedyhwtgdfjndfcjnftjkiftkryw3446t55rtyuhrftujfrtuur57.png" group-title="Infantil",Once Niñas y Niños
+http://181.78.105.146:2000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
 http://190.95.220.212:8000/play/a02z/index.m3u8
