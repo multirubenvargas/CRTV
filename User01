@@ -98,16 +98,16 @@ https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RCN
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 
-#EXTINF:-1 group-title="prueba", VTV - HON
-http://45.228.234.167:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="prueba", GUATE VISION - GUA
-http://45.228.234.167:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="prueba", CANAL 13 - GUA
-http://45.228.234.167:8000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="prueba", CANAL 3 - GUA
-http://45.228.234.167:8000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="prueba", GUATE VISION - GUA
-http://45.228.234.167:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="prueba",MX Classic
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+#EXTINF:-1 group-title="prueba",MX Family
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+#EXTINF:-1 group-title="prueba",Old
+https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1 group-title="prueba",Old Music
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+#EXTINF:-1 group-title="prueba",Pucon TV
+https://marine2.miplay.cl/pucontv/playlist.m3u8
 #EXTINF:-1 group-title="prueba", GUATE VISION - GUA
 http://45.228.234.167:8000/play/a08s/index.m3u8
 #EXTINF:-1 group-title="prueba", CANAL 11 - GUA
