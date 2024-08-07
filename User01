@@ -363,7 +363,7 @@ http://190.95.220.212:8000/play/a03t/index.m3u8
 http://190.95.220.212:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="UniversalTVPanregional.us" tvg-logo="https://i.ibb.co/3yzGYMf/1200px-Universal-TV-logo-svg.png" group-title="Entretenimiento",Universal
 http://190.95.220.212:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="Entretenimiento",USA Network
+#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="Entretenimiento",USA
 http://190.95.220.212:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/p3G448F/channe-png-1.png" group-title="Entretenimiento",FX
 http://190.95.220.212:8000/play/a017/index.m3u8
@@ -416,7 +416,7 @@ http://190.95.220.212:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcqpnhT/Teen-Nick-Logo-2017.png" group-title="Infantil",TeenNick
 http://190.95.220.212:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
-http://45.228.234.167:8000/play/a04t/index.m3u8
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3177
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fddwDkq/fcdtw36y58irujedyhwtgdfjndfcjnftjkiftkryw3446t55rtyuhrftujfrtuur57.png" group-title="Infantil",Once Niñas y Niños
 http://181.78.105.146:2000/play/a04f/index.m3u8
 
@@ -4279,12 +4279,16 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3396
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2569
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Svkxdg/Universal-TV-HD-Logo-2018.png" group-title="HD",Universal HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3413
+#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="HD",USA HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3415
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/j69Yz1S/6af3093605ba682f40d818ba70786acc.png" group-title="HD",FX HD
 http://181.78.8.90:16123/play/ch08
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c88BvQR/A-E-HD.png" group-title="HD",A&E HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2565
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGg35sS/1200px-AXN-HD-Logo-2015.png" group-title="HD",AXN HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2567
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8D9zJ0f/31009457980-baaa6ac9db-o.png" group-title="HD",TNT Series HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3394
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="HD",El Gourmet HD
 http://181.78.8.90:16123/play/ch27
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia.mx" tvg-logo="https://i.ibb.co/pQpPkCH/Distrito-Comedia-LOGO2018.png" group-title="HD",Distrito Comedia
@@ -4293,12 +4297,24 @@ http://181.78.105.146:2000/play/a08t/index.m3u8
 http://181.78.8.90:16123/play/ch35
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CH5vkS0/hola-tv-350x183.png" group-title="HD",¡Hola! TV HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1244
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFRbvcL/tlnovelas-mediano.png" group-title="HD",Tlnovelas HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/93458
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QfFNXNM/lifetimechannellogo.png" group-title="HD",Lifetime HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2573
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k1wT9DT/Antena3hd.png" group-title="HD",Antena 3 Internacional HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/79546
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bw36nfC/large-279164273-Sinttulo-2-png-76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="HD",Comedy Central HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2574
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cn9hL87/Unicable2018-2.png" group-title="HD",Unicable HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2587
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7NQcKD/unnamedmaschic.png" group-title="HD",Mas Chic HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2586
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQkMFTK/large-1734697758-Atreseries-2020-alterno-png-9b8f2e0072b168dafb16e06c458ae843.png" group-title="HD",A3Series HD
-http://181.78.8.90:16123/play/ch11
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/14449
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZZgYRm/Discovery-Kids-2021.png" group-title="HD",Discovery Kids HD
 http://181.78.8.90:16123/play/ch02
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7XnLvqs/1280px-Nick-HD-Logo-svg.png" group-title="HD",Nick HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3303
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="CartoonNetworkPacific.us" tvg-logo="https://i.ibb.co/RSvtS9m/1200px-Cartoon-Network-HD-logo-svg.png" group-title="HD",Cartoon Network HD
 http://181.78.8.90:16123/play/ch09
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fXzvCNr/Disney-Channel-2014-HD.png" group-title="HD",Disney Channel HD
@@ -4307,7 +4323,8 @@ http://181.78.8.90:16123/play/ch03
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3307
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="HD",Disney Jr HD
 http://181.78.8.90:16123/play/ch05
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcqpnhT/Teen-Nick-Logo-2017.png" group-title="HD",TeenNick HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3304
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="HD",Discovery ID HD
 http://181.78.8.90:16123/play/ch23
