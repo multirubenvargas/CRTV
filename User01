@@ -385,7 +385,7 @@ http://190.95.220.212:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="CartoonNetworkPacific.us" tvg-logo="https://i.ibb.co/rk5HVjb/1200px-Cartoon-Network-2010-logo-svg.png" group-title="Infantil",Cartoon Network
 http://190.95.220.212:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="DisneyChannelCenter.us" tvg-logo="https://i.ibb.co/mBX4ty3/2560px-2014-Disney-Channel-logo-svg.png" group-title="Infantil",Disney Channel
-http://177.234.230.226:8010/play/a02z/index.m3u8
+http://190.95.220.212:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="BoomerangLatinAmerica.us" tvg-logo="https://i.ibb.co/10jTQz8/dbfvrut4y578378653yusdfw342345rdfgijty7i09834.png" group-title="Infantil",Cartoonito
 http://190.95.220.212:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x3KKwPX/Tooncast-logo-svg.png" group-title="Infantil",Tooncast
@@ -449,12 +449,30 @@ http://38.41.8.1:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzDhzDJ/vbxcfdry5r7659i59oyujryher5uj6tru8u5r86u6trykjigytjkiyfgt6i8t6ikt03.png" group-title="Cine",MC
 http://138.59.177.34:8000/play/a04f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k637jz1/star-tve-head-mosca.png" group-title="Mundo y Cultura",Star TVE
-http://138.59.177.34:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Mundo y Cultura",Discovery ID
+http://190.95.220.212:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gdTvnFr/large-1376146781-Discovery-Channel-2019-png-8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="Mundo y Cultura",Discovery Channel
+http://190.95.220.212:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHsV93w/2018-Animal-Planet-logo-svg.png" group-title="Mundo y Cultura",Animal Planet
+http://190.95.220.212:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jzBwsQJ/History-Logo-svg.png" group-title="Mundo y Cultura",History
+http://190.95.220.212:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh1LchM/2560px-National-Geographic-Channel-svg.png" group-title="Mundo y Cultura",National Geographic 
+http://190.95.220.212:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HFy2yKK/Discovery-H-H.png" group-title="Mundo y Cultura",H&H
+http://190.95.220.212:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzdsH7h/1280px-Discovery-Science-Logo-2012-svg.png" group-title="Mundo y Cultura",Discovery Science
+http://190.95.220.212:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgZTKc1/9r374trfybvhxjkvdfgweio2wu34yxsghsajiwe928yr7.png" group-title="Mundo y Cultura",HGTV
+http://190.95.220.212:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xkwp7jx/Logo-TVE-Internacional.png" group-title="Mundo y Cultura",TVE
+http://190.95.220.212:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMZzWM4/Discovery-Turbo-logo-svg.png" group-title="Mundo y Cultura",Discovery Turbo
+http://190.95.220.212:8000/play/a02t/index.m3u8
 
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
-
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 
@@ -652,22 +670,14 @@ http://190.95.220.212:8000/play/a03n/index.m3u8
 http://190.95.220.212:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",CDO Premium
 http://190.95.220.212:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Discovery H&H
-http://190.95.220.212:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 group-title="TV Premiun",ESPN 3
 http://190.95.220.212:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",EWTN
 http://190.95.220.212:8000/play/a012/index.m3u8
 
-#EXTINF:-1 group-title="TV Premiun",History Channel
-http://190.95.220.212:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",ID - Investigation Discovery
-http://190.95.220.212:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Telenovelas
 http://190.95.220.212:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",TVE
-http://190.95.220.212:8000/play/a011/index.m3u8
 
 #EXTINF:-1 group-title="TV Premiun",Canal 13
 http://190.95.220.212:8000/play/a01b/index.m3u8
@@ -685,8 +695,7 @@ http://190.95.220.212:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Zona Latina
 http://190.95.220.212:8000/play/a01c/index.m3u8
 
-#EXTINF:-1 group-title="TV Premiun",Discovery Science
-http://190.95.220.212:8000/play/a01x/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",Fox Sports 2
 http://190.95.220.212:8000/play/a01r/index.m3u8
 
@@ -715,8 +724,6 @@ http://190.95.220.212:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",IVC
 http://190.95.220.212:8000/play/a01z/index.m3u8
 
-#EXTINF:-1 group-title="TV Premiun",Animal Planet
-http://190.95.220.212:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Caracol
 http://190.95.220.212:8000/play/a02d/index.m3u8
 
@@ -726,13 +733,6 @@ http://190.95.220.212:8000/play/a02i/index.m3u8
 http://190.95.220.212:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",TNT SPORTS 3
 http://190.95.220.212:8000/play/a02j/index.m3u8
-
-#EXTINF:-1 group-title="TV Premiun",Discovery Turbo
-http://190.95.220.212:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",Disney Channel
-http://190.95.220.212:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="TV Premiun",HGTV
-http://190.95.220.212:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 group-title="TV Premiun",RCN
 http://190.95.220.212:8000/play/a02q/index.m3u8
@@ -747,8 +747,6 @@ http://190.95.220.212:8000/play/a043/index.m3u8
 http://190.95.220.212:8000/play/a04w/index.m3u8
 
 
-#EXTINF:-1 group-title="TV Premiun",Discovery Channel
-http://190.95.220.212:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",TV+
 http://190.95.220.212:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",ESPN
@@ -785,8 +783,7 @@ http://190.95.220.212:8000/play/a04r/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",Movistar Deportes
 http://190.95.220.212:8000/play/a053/index.m3u8
 
-#EXTINF:-1 group-title="TV Premiun",National Geographic
-http://190.95.220.212:8000/play/a022/index.m3u8
+
 #EXTINF:-1 group-title="TV Premiun",OROMAR TV
 http://190.95.220.212:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="TV Premiun",RTS
