@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports
-http://181.78.105.146:2000/play/a053/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports
 https://pubads.g.doubleclick.net/ssai/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports 2
@@ -93,8 +92,6 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/81411
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/558
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TVP
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
 
 
 
@@ -1188,7 +1185,7 @@ http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TsNyyQ/d938752431dsvfcdhvbobhpyht459ih.png" group-title="Deportes",TUDN
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="https://i.ibb.co/6thHdgW/afizzionados-white-logo-new-1.png" group-title="Deportes",Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk1qzRN/t7563267054123hnhkuop.png" group-title="Deportes",Fox Sports 3
@@ -1210,8 +1207,8 @@ https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0GMsKp/416685-8c.png" group-title="Deportes",LAS
 http://138.59.177.34:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="Deportes",Claro Sports
-http://138.59.177.34:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tt6BFVk/tey64xgsgtyiypyukl798iurujrue56ui6yir6uj5r6tujey745u856urtfhyrwetgetgfhdghyjfmjt.png" group-title="Deportes",Claro Sports
+http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVG3gmW/csrfd46e7q27y86sgdtbdstfvdstfsad8r7swa76e4d6rsarfsa.png" group-title="Deportes",Claro Sports 2
 http://138.59.177.34:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ggHGGYW/vcjnhrd6329670lokhsdarq24q6thfyuyhsrbvhfhydty687695435rydhhhfdh.png" group-title="Deportes",TNT Sports
@@ -1241,8 +1238,7 @@ http://138.59.177.34:8000/play/a013/index.m3u8
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://i.ibb.co/Hq6d1hj/gfdgtygse5323464784965oupgkjrfdueuyh7e4r5u874euyftguj.png" group-title="Deportes",Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Deportes", 249 | TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
+
 #EXTINF:-1 tvg-id="Gol Play" tvg-name="Gol Play" tvg-logo="https://i.ibb.co/r60nCT9/bcghdr4566895096pueryhge4y64eyhe4yerfsaw3rq25656ir8jmftrjrftujdrehjftgjftrujr5u7e457ye456378547847u4.png" group-title="Deportes",Gol Play
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
@@ -4275,13 +4271,13 @@ http://181.78.105.146:2000/play/a08t/index.m3u8
 http://181.78.8.90:16123/play/ch35
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CH5vkS0/hola-tv-350x183.png" group-title="HD",¡Hola! TV HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1244
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PFRbvcL/tlnovelas-mediano.png" group-title="HD",Tlnovelas HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fds9Wrn/bvcbfdrye47ti87oupohuklyhjmfdjswre435tw3t5w36y4ewy7e4ye4utrjr.png" group-title="HD",Tlnovelas Univision HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/93458
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfFNXNM/lifetimechannellogo.png" group-title="HD",Lifetime HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2573
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k1wT9DT/Antena3hd.png" group-title="HD",Antena 3 Internacional HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/79546
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bw36nfC/large-279164273-Sinttulo-2-png-76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="HD",Comedy Central HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4thCk6/bfcbnghrftuyr56u7rtyhufrtujdfruftjdxdgdrey5478u6yujtujryhehfgughkihvbnbvjkghkity6ujr.png" group-title="HD",Comedy Central HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2574
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cn9hL87/Unicable2018-2.png" group-title="HD",Unicable HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2587
@@ -4306,7 +4302,7 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3304
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="HD",Discovery ID HD
 http://181.78.8.90:16123/play/ch23
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9gqQhBp/Discovery-HD.png" group-title="HD",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7QxJXw/mjhfrhfbxcbxdsgew547568fhydhydreheurjuer5ujrujrijrtjft.png" group-title="HD",Discovery Channel HD
 http://181.78.8.90:16123/play/ch22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YhHv66/1200px-Animal-Planet-HD-Primary-Lockup2-RGB-Wiki-2-svg.png" group-title="HD",Animal Planet HD
 http://181.78.8.90:16123/play/ch29
