@@ -68,18 +68,9 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148973
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ČT Sport
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",BRASIL | SPORTV HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2210
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",BRASIL | Globo RIO HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Portugal | EUROSPORT HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/76719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Portugal | EUROSPORT 2 | SD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/76720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ENGLAND | Eurosports 1 UHD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/114682
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ITALY | Rai Sports HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/81411
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",USA Latino | TyC Sports  HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/558
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TVP
@@ -1166,7 +1157,7 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1275
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1276
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1877
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TsNyyQ/d938752431dsvfcdhvbobhpyht459ih.png" group-title="Deportes",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk1qzRN/t7563267054123hnhkuop.png" group-title="Deportes",Fox Sports 3
@@ -1213,12 +1204,24 @@ http://181.78.8.90:16123/play/ch21
 http://181.78.8.90:16123/play/ch20
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YLD1ZqK/vcgvdtesw35436786967oitujyhusedgtsewtdhdftsw4q2567589iytoijnfhdfcrhgydyghsdyhrdyhru.png" group-title="Deportes",FOX Deportes
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3203
-#EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/xsknGKq/bcfhtu7659670o7ryegfhjery4637uheyhtfhuerdyh325t4867ujrtjrtujrt5uj.png" group-title="Deportes",EuroSport 1 España
+#EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/VBGWJdN/gy47w59ikidtd5r6u747u8jytui5edutruys345w7us47ys4uui.png" group-title="Deportes",EuroSport 1 España
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/6895
-#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://i.ibb.co/wYH8hG4/cbdsxgre7y659876o0p7dfndjrhyu43uyhuh346yutue5r6u875i6je4657wsuhyj.png" group-title="Deportes",EuroSport 2 España
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://i.ibb.co/26fFVFR/ghfuhtryid658eiyduery6443w6y7uhtru6t5u76ik56i4u7trjsr.png" group-title="Deportes",EuroSport 2 España
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/6896
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.ibb.co/bXKfZYV/bchw76t7y643jd5rj65e8uyie5874aweroulpupygoklfu.png" group-title="Deportes",SporTV
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2210
+#EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/w7vQB8C/vnjcfgyhsxesw5346870olulkftyoklti94d5u8s34u858ue5.png" group-title="Deportes",EuroSport 1 Portugal
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/76719
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://i.ibb.co/DpNkgcb/gfchs54q379oyikdru8s357tiu658ijkdtyjurets36y5ys5usruj68u.png" group-title="Deportes",EuroSport 2 Portugal
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/76720
+#EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/WnGP6XZ/gfhx5r675iydujs45uj6tujujid6547uuirytijkytik6737w5uyhiu65ei.png" group-title="Deportes",EuroSport 1 Inglaterra
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/114682
+#EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport" tvg-logo="https://i.ibb.co/7XMGrQV/mcjtyu57445wrutjs58u79ikopluiijktsaefgnbvxnxtfjhrt.png" group-title="Deportes",Rai Sport
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/81411
+
+
 
 
 #EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES", 259 | Best Cable Music
