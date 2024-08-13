@@ -1,24 +1,10 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports
-https://pubads.g.doubleclick.net/ssai/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports 3
-https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports 4
-https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports LATAM
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Claro Sports Pluto
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Mexico | TUDN
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/135692
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",TVP
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Bolivision
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3282
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",cos fc (panama)
-https://dashtvcloud.online:8443/josealbrook/panama121/213622
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",RTS
 http://190.95.220.212:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",CO | RCN HD
@@ -28,8 +14,6 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/459
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/187
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ATV
 http://190.95.220.212:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Mexico | Canal 5 FHD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1226
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Televicentro
 http://190.95.220.212:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",CHV
@@ -54,10 +38,6 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/349
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3319
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 10 Nicaragua
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/356
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",USA Latino | NBC Universo HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/560
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (TELEMUNDO)
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148939
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",USA | NBC Miami HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/749
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (NBC)
@@ -77,162 +57,6 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/558
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 
-
-
-#EXTINF:-1 group-title="prueba",MX Classic
-https://marine2.miplay.cl/mxclassic/playlist.m3u8
-#EXTINF:-1 group-title="prueba",MX Family
-https://marine2.miplay.cl/mxfamily/playlist.m3u8
-#EXTINF:-1 group-title="prueba",Old
-https://marine2.miplay.cl/old/playlist.m3u8
-#EXTINF:-1 group-title="prueba",Old Music
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
-#EXTINF:-1 group-title="prueba",Pucon TV
-https://marine2.miplay.cl/pucontv/playlist.m3u8
-#EXTINF:-1 group-title="prueba", GUATE VISION - GUA
-http://45.228.234.167:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="prueba", CANAL 11 - GUA
-http://45.228.234.167:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="prueba", GUATE VISION - GUA
-http://45.228.234.167:8000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="prueba", CANAL 13 - GUA
-http://45.228.234.167:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="prueba", CDN2- RD
-http://45.228.234.167:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="prueba", CDN37 - RD
-http://45.228.234.167:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="prueba", CINECANAL HD
-http://45.228.234.167:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="prueba", CNN Internacional
-http://45.228.234.167:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="prueba", CNNE
-http://45.228.234.167:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal  21 - ESA
-http://45.228.234.167:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 11 - GUA
-http://45.228.234.167:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 11 - HON
-http://45.228.234.167:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 11 - HON CARD 5
-http://45.228.234.167:8000/play/a0a8/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 11 fslb
-http://45.228.234.167:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 12 - ESA
-http://45.228.234.167:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 13-GUA
-http://45.228.234.167:8000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 19  ESA
-http://45.228.234.167:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 2 - ESA
-http://45.228.234.167:8000/play/a082/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 3 - GUA
-http://45.228.234.167:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 3 PISPI
-http://45.228.234.167:8000/play/a09y/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 3 Telesistemas HND
-http://45.228.234.167:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 3 fslb
-http://45.228.234.167:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 4 - ESA
-http://45.228.234.167:8000/play/a081/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 5 - HON
-http://45.228.234.167:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 5 -fslb
-http://45.228.234.167:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 6 - ESA
-http://45.228.234.167:8000/play/a07y/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 6 - ESA
-http://45.228.234.167:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 7 - GUA
-http://45.228.234.167:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 7 PISPI
-http://45.228.234.167:8000/play/a09x/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal 8 fslb
-http://45.228.234.167:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal Antigua - GUA
-http://45.228.234.167:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal Antigua PISPI
-http://45.228.234.167:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="prueba", Azteca Guate - GUA
-http://45.228.234.167:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal VTV HND
-http://45.228.234.167:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal VTV fslb
-http://45.228.234.167:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="prueba", Canal del Congreso canal 9
-http://45.228.234.167:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="prueba", Cartoon Network
-http://45.228.234.167:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="prueba", Cartoonito
-http://45.228.234.167:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="prueba", Cine Latino
-http://45.228.234.167:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="prueba", CineCanal
-http://45.228.234.167:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="prueba", CineMax
-http://45.228.234.167:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="prueba", Claro Sports 1 HD
-http://45.228.234.167:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="prueba", Claro Sports 2 HD
-http://45.228.234.167:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="prueba", Color Vision 9 - RD
-http://45.228.234.167:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="prueba", Concert Channel
-http://45.228.234.167:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="prueba", DHE
-http://45.228.234.167:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="prueba", DHE HD
-http://45.228.234.167:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="prueba", DISC THEATHER HD
-http://45.228.234.167:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="prueba", Deportes TVC fslb
-http://45.228.234.167:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery Channel
-http://45.228.234.167:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery Channel HD
-http://45.228.234.167:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery Home & Health
-http://45.228.234.167:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery ID HD
-http://45.228.234.167:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery Kids
-http://45.228.234.167:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery Kids HD
-http://45.228.234.167:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery Science
-http://45.228.234.167:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery Turbo
-http://45.228.234.167:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="prueba", Discovery World HD
-http://45.228.234.167:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="prueba", Disney
-http://45.228.234.167:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="prueba", Disney JR
-http://45.228.234.167:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="prueba", E!
-http://45.228.234.167:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="prueba", E! Entertairment HD
-http://45.228.234.167:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="prueba", ELIM TV - ESA
-http://45.228.234.167:8000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN CENTROA
-http://45.228.234.167:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN 4 CENTROA HD
-http://45.228.234.167:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN 2 CENTROA
-http://45.228.234.167:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN 3 CENTROA
-http://45.228.234.167:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN 3 CENTROA HD
-http://45.228.234.167:8000/play/a07v/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN 4 CENTROA
-http://45.228.234.167:8000/play/a07q/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN 5 CENTROA
-http://45.228.234.167:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN 5 CENTROA HD
-http://45.228.234.167:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="prueba", ESPN 6 ANDINA
-http://45.228.234.167:8000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="México",Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -344,10 +168,10 @@ http://190.95.220.212:8000/play/a02m/index.m3u8
 http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7NQcKD/unnamedmaschic.png" group-title="Entretenimiento",Mas Chic
 http://190.95.220.212:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="Entretenimiento",Las Estrellas Latinoamerica
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="Entretenimiento",Las Estrellas Argentina
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Universo" tvg-name="Universo" tvg-logo="https://i.ibb.co/C6PbMcy/vnfcy435658679rtuhxdreyhurtujrtu7546743757u8e64ydu756756u.png" group-title="Entretenimiento",NBC Universo
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/560
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.ibb.co/dgrHx1G/hjk-ltyf9i684658y709yuiogholcujfdgheruj45s8i6s6i956ik.png" group-title="Entretenimiento",Telemundo
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148939
 
 
 
@@ -1204,6 +1028,10 @@ http://181.78.8.90:16123/play/ch21
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7 Colombia
 http://181.78.8.90:16123/play/ch20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="Deportes",Claro Sports 3
+https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="Deportes",Claro Sports 4
+https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YLD1ZqK/vcgvdtesw35436786967oitujyhusedgtsewtdhdftsw4q2567589iytoijnfhdfcrhgydyghsdyhrdyhru.png" group-title="Deportes",FOX Deportes
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3203
 #EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/VBGWJdN/gy47w59ikidtd5r6u747u8jytui5edutruys345w7us47ys4uui.png" group-title="Deportes",EuroSport 1 España
@@ -1222,6 +1050,9 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/76720
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/114682
 #EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport" tvg-logo="https://i.ibb.co/7XMGrQV/mcjtyu57445wrutjs58u79ikopluiijktsaefgnbvxnxtfjhrt.png" group-title="Deportes",Rai Sport
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/81411
+#EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://i.ibb.co/bHJsPW3/hndfya46y48570odkir53seu86r5tretujs3463265u8r56d.png" group-title="Deportes",WWE Network
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3210
+
 
 
 
@@ -4133,7 +3964,7 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="HD",Azteca UNO HD
 http://45.228.234.167:8000/play/a0l1/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="HD",Canal 5 HD
-http://45.228.234.167:8000/play/a0ll/index.m3u8
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1226
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tZNr83y/Azteca7.png" group-title="HD",Azteca 7 HD 
 http://45.228.234.167:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="StarChannelCentralAmerica.us" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="HD",Star Channel HD
@@ -4158,7 +3989,7 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2567
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3394
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="HD",El Gourmet HD
 http://181.78.8.90:16123/play/ch27
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia.mx" tvg-logo="https://i.ibb.co/pQpPkCH/Distrito-Comedia-LOGO2018.png" group-title="HD",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia.mx" tvg-logo="https://i.ibb.co/pQpPkCH/Distrito-Comedia-LOGO2018.png" group-title="HD",Distrito Comedia HD
 http://181.78.105.146:2000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="HD",Pasiones HD
 http://181.78.8.90:16123/play/ch35
@@ -4207,6 +4038,10 @@ http://181.78.8.90:16123/play/ch30
 http://181.78.8.90:16123/play/ch25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NmGZxcB/kisspng-food-network-high-definition-television-logo-claro-diet-5b508052cf0ec6-661240641532002386848.png" group-title="HD",Food Network HD
 http://181.78.8.90:16123/play/ch28
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TsNyyQ/d938752431dsvfcdhvbobhpyht459ih.png" group-title="HD",TUDN HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/135692
+#EXTINF:-1 tvg-id="Claro Sports" tvg-name="Claro Sports" tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="HD",Claro Sports LATAM HD
+https://pubads.g.doubleclick.net/ssai/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="HD",Claro Sports HD
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
