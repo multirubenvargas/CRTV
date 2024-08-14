@@ -1,63 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Paris 2024",TVP
-https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2jLmhgP/ytre757uuiytiktijkhfsaq2365978pujhkjfdrtw35tery7e46e457yreyery75e7.png" group-title="Paris 2024",Bolivision
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3282
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/99S3n7p/hncfyhe67598507oytije58u4irtki5ri45i6i6ri6ik6ikd6ki.png" group-title="Paris 2024",RTS
-http://190.95.220.212:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Gv03bFP/vhgbfxdyhse547689568rtu6uir68u658iirtyghjtyru84568u5.png" group-title="Paris 2024",CO | RCN HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/459
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Cv0R5QX/jgjhxd6347096pokjtyhue453w5uj5e4jus54ee4urtuje5i4.png" group-title="Paris 2024",SV: CANAL 12
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/187
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sWCGy72/cvbxcfbaswrfq2436y59ijgfjmgyti870oyujvtgmhgkrylfdtyh4urtu4yw453tgeryhedrhyure.png" group-title="Paris 2024",ATV
-http://190.95.220.212:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2h13TNY/ghndtfyhe67598yirtui5eu8745e86tir6ti5685685rtujtr.png" group-title="Paris 2024",Televicentro
-http://190.95.220.212:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1RPnrCN/hbfxdhnvcbnxdty74568u6759ot7y09otyplotpotyoiaswweawertwry.png" group-title="Paris 2024",CHV
-http://190.95.220.212:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VDm6Zrm/hjmdyhw465486u5iertuiu843u8s4u8435u8753u8suis57s3e8uu.png" group-title="Paris 2024",Caracol
-http://190.95.220.212:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024", 509 | TVES || VENEZUELA
-http://38.41.8.1:8000/play/a03k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Jx5FjR7/bcbcnnmhkjmghjmkgyfiy70t342oupuidrys4h2w4h2u4e465nj464jn644wrrtgstg.png" group-title="Paris 2024",Antena 7- RD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3W8zmRy/7685i67kufkjcr53ws658799khofuyor8tyus34aytgikjtygkijyqwqertyu78ir.png" group-title="Paris 2024",PANAMA | TV MAX 9
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/445
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wS25Ys3/576r8iutygujt6jrdjujtrfu876iykdhmnbvf42908hygsfrae3aasxyfix.png" group-title="Paris 2024",Repretel Canal 6
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1195
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jM9CWkv/8679iukjhfgyui785675r6797803hgfjkdfkyuoy757u56ujrtduoltit.png" group-title="Paris 2024",Repretel 11
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1164
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",HN: VTV
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/91232
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024", Canal 11 - GUA
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/349
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s2F5mzS/vsgftwsf6wesgtfwtf7rswafhfhjtfrdr7wdqe86s2ed2w4ewsacdrs.png" group-title="Paris 2024",Paraguay | SNT
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3319
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",Canal 10 Nicaragua
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/356
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",USA | NBC Miami HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (NBC)
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (CNBC)
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148973
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",OLIMPICOS PARIS 2024 (USA NETWORK)
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148917
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",ČT Sport
-http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",BRASIL | Globo RIO HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Paris 2024",USA Latino | TyC Sports  HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/558
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Paris 2024",TVP HD
-https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="México",Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
@@ -82,6 +25,12 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7J7yDGN/bcvbxdgser2q4879y7900yolyoktfjfjgmnvcmvbmjfkiylkotyiuruerdyurdeyhedy4et6weyte4uyhrtujr.png" group-title="México",MVStv
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/Canal-Catorce-en-vivo-Online-100x70.png" group-title="México",Canal Catorce
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="México",TV UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="https://upl.png" group-title="México",Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/25QRrz4/f565u78uifdighjk7ode5erthxfvhnmcfjxd4yareuytu857rstujtujdx4e6s767858trftghrejdrujtsdutrujsruid6.png" group-title="México",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=AuXzb2rF1zkk4eaVO87WfplZR7GvS4cF&sid=8lJHipITwC0MJo2z6ZnVuRD7of2Rt7p1&pid=kRwErx3UzvyEPTKxMwMMePZh185cPDbx&an=screen&at=web-app&av=v5.2.111&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=938x469&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQHwXJ8/unnamed-1.png" group-title="México",TV Más
@@ -127,6 +76,40 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rv3wRx0/gfgdry6e5769potrd5q23bhqq4n5j3w53wyrdfmj34wj6n46.png" group-title="México",TVCuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Locales",TVP
+https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2jLmhgP/ytre757uuiytiktijkhfsaq2365978pujhkjfdrtw35tery7e46e457yreyery75e7.png" group-title="Locales",Bolivision
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/99S3n7p/hncfyhe67598507oytije58u4irtki5ri45i6i6ri6ik6ikd6ki.png" group-title="Locales",RTS
+http://190.95.220.212:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Gv03bFP/vhgbfxdyhse547689568rtu6uir68u658iirtyghjtyru84568u5.png" group-title="Locales",CO | RCN HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/98843
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Cv0R5QX/jgjhxd6347096pokjtyhue453w5uj5e4jus54ee4urtuje5i4.png" group-title="Locales",SV: CANAL 12
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sWCGy72/cvbxcfbaswrfq2436y59ijgfjmgyti870oyujvtgmhgkrylfdtyh4urtu4yw453tgeryhedrhyure.png" group-title="Locales",ATV
+http://190.95.220.212:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2h13TNY/ghndtfyhe67598yirtui5eu8745e86tir6ti5685685rtujtr.png" group-title="Locales",Televicentro
+http://190.95.220.212:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1RPnrCN/hbfxdhnvcbnxdty74568u6759ot7y09otyplotpotyoiaswweawertwry.png" group-title="Locales",CHV
+http://190.95.220.212:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VDm6Zrm/hjmdyhw465486u5iertuiu843u8s4u8435u8753u8suis57s3e8uu.png" group-title="Locales",Caracol
+http://190.95.220.212:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SX0tyjW/hxty74577w8jfdgfhgnbgbmjcfyuh5474utu5477ututrus467547utrysw325tw26y.png" group-title="Locales", 509 | TVES || VENEZUELA
+http://38.41.8.1:8000/play/a03k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Jx5FjR7/bcbcnnmhkjmghjmkgyfiy70t342oupuidrys4h2w4h2u4e465nj464jn644wrrtgstg.png" group-title="Locales",Antena 7- RD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3W8zmRy/7685i67kufkjcr53ws658799khofuyor8tyus34aytgikjtygkijyqwqertyu78ir.png" group-title="Locales",PANAMA | TV MAX 9
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wS25Ys3/576r8iutygujt6jrdjujtrfu876iykdhmnbvf42908hygsfrae3aasxyfix.png" group-title="Locales",Repretel Canal 6
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jM9CWkv/8679iukjhfgyui785675r6797803hgfjkdfkyuoy757u56ujrtduoltit.png" group-title="Locales",Repretel 11
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s2F5mzS/vsgftwsf6wesgtfwtf7rswafhfhjtfrdr7wdqe86s2ed2w4ewsacdrs.png" group-title="Locales",Paraguay | SNT
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HXvvC5w/jmgjfghxdchbdsyu486u769iikrt8ir65uifgirftjrtu78658u56985695695.png" group-title="Locales",Canal 10 Nicaragua
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/356
 
 
 
@@ -2657,6 +2640,16 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1050 | Telemundo || PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="ESTADOS UNIDOS DE AMÉRICA",NBC Miami HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="ESTADOS UNIDOS DE AMÉRICA",NBC
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="ESTADOS UNIDOS DE AMÉRICA",CNBC
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148973
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="ESTADOS UNIDOS DE AMÉRICA",USA NETWORK
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148917
 #EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 1051 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 #EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1052 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
@@ -3798,10 +3791,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6165c917a7302e0007871330/master.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=453e61e8-2efb-4b99-a9a4-a22e6e267a5e&deviceVersion=90.0.4430.212&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&deviceType=web&deviceMake=Chrome&sid=10dcecf6-bb26-0000-0047-0242ac110002&advertisingId=&deviceLat=33.7485&deviceLon=-84.3871&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://g" group-title="Brasil",Globo RIO HD
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2163
 #EXTINF:-1 tvg-id="BandAmazonas.br" tvg-name="BandAmazonas.br" tvg-logo="https://i.ibb.co/mcY5x89/grt34557898p34rwq4trui769frkijtrier5y74323456fhfjurtuuhy.png" group-title="Brasil",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-
 
 #EXTINF:-1 tvg-id="BandCuritiba.br" tvg-name="BandCuritiba.br" tvg-logo="https://i.ibb.co/BNN93Qf/vcbcgjhkiyuopuew3qweq256589hjtyret45637856yhger3w234yr.png" group-title="Brasil",Band 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
@@ -3961,10 +3954,12 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="HD",Azteca UNO HD
 http://45.228.234.167:8000/play/a0l1/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="HD",Canal 5 HD
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/yPknDyH/kghiktytu8d45648i67oftykir6t5iitr868ir59idr9i.png" group-title="HD",Canal 5 HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1226
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tZNr83y/Azteca7.png" group-title="HD",Azteca 7 HD 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="HD",TVP HD
+https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="StarChannelCentralAmerica.us" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="HD",Star Channel HD
 http://181.78.8.90:16123/play/ch07
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="HD",Sony HD
