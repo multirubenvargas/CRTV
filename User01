@@ -77,39 +77,40 @@ https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rv3wRx0/gfgdry6e5769potrd5q23bhqq4n5j3w53wyrdfmj34wj6n46.png" group-title="México",TVCuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Locales",TVP
-https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2jLmhgP/ytre757uuiytiktijkhfsaq2365978pujhkjfdrtw35tery7e46e457yreyery75e7.png" group-title="Locales",Bolivision
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3282
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/99S3n7p/hncfyhe67598507oytije58u4irtki5ri45i6i6ri6ik6ikd6ki.png" group-title="Locales",RTS
-http://190.95.220.212:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Gv03bFP/vhgbfxdyhse547689568rtu6uir68u658iirtyghjtyru84568u5.png" group-title="Locales",CO | RCN HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/98843
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Cv0R5QX/jgjhxd6347096pokjtyhue453w5uj5e4jus54ee4urtuje5i4.png" group-title="Locales",SV: CANAL 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Cv0R5QX/jgjhxd6347096pokjtyhue453w5uj5e4jus54ee4urtuje5i4.png" group-title="Locales",Canal 12 El Salvador
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/187
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sWCGy72/cvbxcfbaswrfq2436y59ijgfjmgyti870oyujvtgmhgkrylfdtyh4urtu4yw453tgeryhedrhyure.png" group-title="Locales",ATV
-http://190.95.220.212:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2h13TNY/ghndtfyhe67598yirtui5eu8745e86tir6ti5685685rtujtr.png" group-title="Locales",Televicentro
-http://190.95.220.212:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1RPnrCN/hbfxdhnvcbnxdty74568u6759ot7y09otyplotpotyoiaswweawertwry.png" group-title="Locales",CHV
-http://190.95.220.212:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VDm6Zrm/hjmdyhw465486u5iertuiu843u8s4u8435u8753u8suis57s3e8uu.png" group-title="Locales",Caracol
-http://190.95.220.212:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SX0tyjW/hxty74577w8jfdgfhgnbgbmjcfyuh5474utu5477ututrus467547utrysw325tw26y.png" group-title="Locales", 509 | TVES || VENEZUELA
-http://38.41.8.1:8000/play/a03k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Jx5FjR7/bcbcnnmhkjmghjmkgyfiy70t342oupuidrys4h2w4h2u4e465nj464jn644wrrtgstg.png" group-title="Locales",Antena 7- RD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3W8zmRy/7685i67kufkjcr53ws658799khofuyor8tyus34aytgikjtygkijyqwqertyu78ir.png" group-title="Locales",PANAMA | TV MAX 9
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/445
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wS25Ys3/576r8iutygujt6jrdjujtrfu876iykdhmnbvf42908hygsfrae3aasxyfix.png" group-title="Locales",Repretel Canal 6
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1195
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jM9CWkv/8679iukjhfgyui785675r6797803hgfjkdfkyuoy757u56ujrtduoltit.png" group-title="Locales",Repretel 11
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1164
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s2F5mzS/vsgftwsf6wesgtfwtf7rswafhfhjtfrdr7wdqe86s2ed2w4ewsacdrs.png" group-title="Locales",Paraguay | SNT
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3319
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HXvvC5w/jmgjfghxdchbdsyu486u769iikrt8ir65uifgirftjrtu78658u56985695695.png" group-title="Locales",Canal 10 Nicaragua
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/356
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wS25Ys3/576r8iutygujt6jrdjujtrfu876iykdhmnbvf42908hygsfrae3aasxyfix.png" group-title="Locales",Repretel Canal 6
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jM9CWkv/8679iukjhfgyui785675r6797803hgfjkdfkyuoy757u56ujrtduoltit.png" group-title="Locales",Repretel Canal 11
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3W8zmRy/7685i67kufkjcr53ws658799khofuyor8tyus34aytgikjtygkijyqwqertyu78ir.png" group-title="Locales",TV MAX
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Jx5FjR7/bcbcnnmhkjmghjmkgyfiy70t342oupuidrys4h2w4h2u4e465nj464jn644wrrtgstg.png" group-title="Locales",Antena 7
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Gv03bFP/vhgbfxdyhse547689568rtu6uir68u658iirtyghjtyru84568u5.png" group-title="Locales",RCN
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/98843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VDm6Zrm/hjmdyhw465486u5iertuiu843u8s4u8435u8753u8suis57s3e8uu.png" group-title="Locales",Caracol
+http://190.95.220.212:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SX0tyjW/hxty74577w8jfdgfhgnbgbmjcfyuh5474utu5477ututrus467547utrysw325tw26y.png" group-title="Locales",TVES
+http://38.41.8.1:8000/play/a03k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/99S3n7p/hncfyhe67598507oytije58u4irtki5ri45i6i6ri6ik6ikd6ki.png" group-title="Locales",RTS
+http://190.95.220.212:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2h13TNY/ghndtfyhe67598yirtui5eu8745e86tir6ti5685685rtujtr.png" group-title="Locales",Televicentro
+http://190.95.220.212:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sWCGy72/cvbxcfbaswrfq2436y59ijgfjmgyti870oyujvtgmhgkrylfdtyh4urtu4yw453tgeryhedrhyure.png" group-title="Locales",ATV
+http://190.95.220.212:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2jLmhgP/ytre757uuiytiktijkhfsaq2365978pujhkjfdrtw35tery7e46e457yreyery75e7.png" group-title="Locales",Bolivision
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1RPnrCN/hbfxdhnvcbnxdty74568u6759ot7y09otyplotpotyoiaswweawertwry.png" group-title="Locales",CHV
+http://190.95.220.212:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s2F5mzS/vsgftwsf6wesgtfwtf7rswafhfhjtfrdr7wdqe86s2ed2w4ewsacdrs.png" group-title="Locales",SNT
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Locales",TVP
+https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
 
 
 
