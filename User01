@@ -234,13 +234,14 @@ http://138.59.177.34:8000/play/a04f/index.m3u8
 http://190.95.220.212:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdTvnFr/large-1376146781-Discovery-Channel-2019-png-8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="Mundo y Cultura",Discovery Channel
 http://190.95.220.212:8000/play/a02g/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHsV93w/2018-Animal-Planet-logo-svg.png" group-title="Mundo y Cultura",Animal Planet
 http://190.95.220.212:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzBwsQJ/History-Logo-svg.png" group-title="Mundo y Cultura",History
 http://190.95.220.212:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lh1LchM/2560px-National-Geographic-Channel-svg.png" group-title="Mundo y Cultura",National Geographic 
 http://190.95.220.212:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8BqxGJ/hfchrd645768967pouyjkmghjfgjktryuhe4y7458u45u87457esrxyhex4y7e45u.png" group-title="Mundo y Cultura",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFy2yKK/Discovery-H-H.png" group-title="Mundo y Cultura",H&H
 http://190.95.220.212:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzdsH7h/1280px-Discovery-Science-Logo-2012-svg.png" group-title="Mundo y Cultura",Discovery Science
@@ -4028,6 +4029,8 @@ http://181.78.8.90:16123/play/ch29
 http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dg0dx3K/Nat-Geo-HD.png" group-title="HD",National Geographic HD
 http://181.78.8.90:16123/play/ch30
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8BqxGJ/hfchrd645768967pouyjkmghjfgjktryuhe4y7458u45u87457esrxyhex4y7e45u.png" group-title="HD",DW Español HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mb9MQyL/discoveryhhhd.png" group-title="HD",H&H HD
 http://181.78.8.90:16123/play/ch25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NmGZxcB/kisspng-food-network-high-definition-television-logo-claro-diet-5b508052cf0ec6-661240641532002386848.png" group-title="HD",Food Network HD
