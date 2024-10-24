@@ -201,7 +201,7 @@ http://190.95.220.212:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
 http://190.95.220.212:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
-http://190.95.220.212:8000/play/a02y/index.m3u8
+http://38.41.8.1:8000/play/a00a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7g4bpd/783786342ytg32gfsjhsgiuruywt4t.png" group-title="Cine",AMC
 http://190.95.220.212:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="Cine",Studio Universal
@@ -294,21 +294,21 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3216
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://i.ibb.co/Hq6d1hj/gfdgtygse5323464784965oupgkjrfdueuyh7e4r5u874euyftguj.png" group-title="Deportes",Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgPQrjK/gjhfye4w6785690pyikotue5yfgdsetawqw565yrutyujtfjnfturfujrtfijkrtu68.png" group-title="Deportes",ESPN Colombia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgPQrjK/gjhfye4w6785690pyikotue5yfgdsetawqw565yrutyujtfjnfturfujrtfijkrtu68.png" group-title="Deportes",ESPN Sur
 http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 tvg-logo="https://i.ibb.co/frcrMnj/bcvghydr63478909ittitrujftujrye462w36yutujtfrujr5tujrtujriufgjdfye56475u.png" group-title="Deportes",ESPN 2 Colombia
-http://181.78.8.90:16123/play/ch17
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frcrMnj/bcvghydr63478909ittitrujftujrye462w36yutujtfrujr5tujrtujriufgjdfye56475u.png" group-title="Deportes",ESPN 2 Sur
+http://38.41.8.1:8000/play/a00c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dWhhknT/vbcgr657867985696o0tyotyudrtgysdgtsdeysw352yreyuhrtujrujr5tujru6ur5t.png" group-title="Deportes",ESPN 3 Colombia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dWhhknT/vbcgr657867985696o0tyotyudrtgysdgtsdeysw352yreyuhrtujrujr5tujru6ur5t.png" group-title="Deportes",ESPN 3 Sur
 http://181.78.8.90:16123/play/ch18
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8dtsDGZ/3w5eytujgfjmvgnmvhfcdgdrui9yupkhlftyuhryhseyhruj7e456reye67erry7reyurt.png" group-title="Deportes",ESPN 5 Colombia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8dtsDGZ/3w5eytujgfjmvgnmvhfcdgdrui9yupkhlftyuhryhseyhruj7e456reye67erry7reyurt.png" group-title="Deportes",ESPN 5 Sur
 http://181.78.8.90:16123/play/ch19
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HNmnyNs/134564etdyhdryheahjfftyi6y97otl6vbmkgvjdutujrtiktryirt678568i6uirtuffiki.png" group-title="Deportes",ESPN 6 Colombia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNmnyNs/134564etdyhdryheahjfftyi6y97otl6vbmkgvjdutujrtiktryirt678568i6uirtuffiki.png" group-title="Deportes",ESPN 6 Sur
 http://181.78.8.90:16123/play/ch21
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7 Colombia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7 Sur
 http://181.78.8.90:16123/play/ch20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="Deportes",Claro Sports 3
 https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
