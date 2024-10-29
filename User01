@@ -295,7 +295,7 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3216
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://i.ibb.co/Hq6d1hj/gfdgtygse5323464784965oupgkjrfdueuyh7e4r5u874euyftguj.png" group-title="Deportes",Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgPQrjK/gjhfye4w6785690pyikotue5yfgdsetawqw565yrutyujtfjnfturfujrtfijkrtu68.png" group-title="Deportes",ESPN Sur
-http://181.78.8.90:16123/play/ch16
+http://38.41.8.1:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://i.ibb.co/frcrMnj/bcvghydr63478909ittitrujftujrye462w36yutujtfrujr5tujrtujriufgjdfye56475u.png" group-title="Deportes",ESPN 2 Sur
 http://38.41.8.1:8000/play/a00c
 
