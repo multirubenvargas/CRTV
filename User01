@@ -207,6 +207,9 @@ http://179.63.36.2:8000/play/a0ji/index.m3u8
 http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="FilmArtsPanregional.us" tvg-logo="https://i.ibb.co/6bdjyXF/8948794376gbhfjnguiy87y78y87y78ty.png" group-title="Cine",Film & Arts
 http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzDhzDJ/vbxcfdry5r7659i59oyujryher5uj6tru8u5r86u6trykjigytjkiyfgt6i8t6ikt03.png" group-title="Cine",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5yBRSP/674e3xxmxbigsiraw4s3xderxfsafdrfsad7asdsa6fsatrsaf4rsxex.png" group-title="Cine",Multipremier
 http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tBXtdwR/5e6653260977ft657865t7urt5ufgjtr7e46458978tfutr6345erhfgyedrtetfgujrt.png" group-title="Cine",Claro Cinema
@@ -223,15 +226,13 @@ http://179.63.36.2:8000/play/a0py/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXYLpRn/kiuopiwqkfdcqwmdfckiqw3h7rwuqjsidmxcweirdfwmfriw3jfierwn-fgte4wigt.png" group-title="Cine",HBO 2
 http://179.63.36.2:8000/play/a0jq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHJh6dN/uioy7i979o6796796796ihko6jkhgkhgkghh7hchdrfy.png" group-title="Cine",HBO +
-http://138.59.177.34:8000/play/a01o/index.m3u8
+http://181.78.23.162:8000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tkdj5mJ/nhgfh46789670oyujrtuhre54uyhrtujruyhrtfujrur5tur56ur567u76u56u65.png" group-title="Cine",HBO Family
 http://138.59.177.34:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phjSdht/nhyut8i97o0r6tu7r45u47uwsert5s3e5rtw4e57yr5u7r65.png" group-title="Cine",HBO Xtreme
 http://138.59.177.34:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cNjqt5t/ngc-ghrde75986tutufturu57u62b60hkyghikyikygikic18a.png" group-title="Cine",HBO POP
 http://38.41.8.1:8000/play/a00d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzDhzDJ/vbxcfdry5r7659i59oyujryher5uj6tru8u5r86u6trykjigytjkiyfgt6i8t6ikt03.png" group-title="Cine",MC
-http://181.78.105.146:2000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Mundo y Cultura",Discovery ID
 http://181.78.105.146:2000/play/a04y/index.m3u8
