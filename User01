@@ -187,8 +187,10 @@ http://181.78.105.146:2000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
 http://181.78.77.118:8000/play/a10i/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
+http://179.63.36.2:8000/play/a0jx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
-http://190.95.220.212:8000/play/a01k/index.m3u8
+http://181.78.23.162:8000/play/a0al/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0Vpc9n/nvyry7658u56ru8547y43re5ue54y7r5uj6u878iftuir5u8658u.png" group-title="Cine",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9c8hWs/93287326356rffgeghyfewgyfytyt7.png" group-title="Cine",Paramount Channel
@@ -211,7 +213,7 @@ http://181.78.105.146:2000/play/a08i/index.m3u8
 http://181.78.105.146:2000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5yBRSP/674e3xxmxbigsiraw4s3xderxfsafdrfsad7asdsa6fsatrsaf4rsxex.png" group-title="Cine",Multipremier
-http://138.59.177.34:8000/play/a06o/index.m3u8
+http://181.78.23.162:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tBXtdwR/5e6653260977ft657865t7urt5ufgjtr7e46458978tfutr6345erhfgyedrtetfgujrt.png" group-title="Cine",Claro Cinema
 http://138.59.177.34:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="Cine",DHE
@@ -232,7 +234,7 @@ http://179.63.36.2:8000/play/a0pq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phjSdht/nhyut8i97o0r6tu7r45u47uwsert5s3e5rtw4e57yr5u7r65.png" group-title="Cine",HBO Xtreme
 http://179.63.36.2:8000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cNjqt5t/ngc-ghrde75986tutufturu57u62b60hkyghikyikygikic18a.png" group-title="Cine",HBO POP
-http://38.41.8.1:8000/play/a00d
+http://181.78.23.162:8000/play/a0fg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Mundo y Cultura",Discovery ID
 http://181.78.105.146:2000/play/a04y/index.m3u8
