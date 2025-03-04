@@ -3593,6 +3593,19 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfBqCRV/hbfdghyde5t3547u69yo0lyujftjhrftuj5y43w535tgyrut6ujr6tu87567u68itjutrfyuhe4y64e6y5tyhruj.png" group-title="Musica",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2z1GNQQ/bridge-2021.png" group-title="Musica",Bridge TV
+http://5.153.180.129:8000/play/a00f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2z1GNQQ/bridge-2021.png" group-title="Musica",Bridge TV Deluxe HD
+http://5.153.180.129:8000/play/a00e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2z1GNQQ/bridge-2021.png" group-title="Musica",Bridge TV Hits
+http://5.153.180.129:8000/play/a08j
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2z1GNQQ/bridge-2021.png" group-title="Musica",Bridge TV Rock
+http://5.153.180.129:8000/play/a07e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2z1GNQQ/bridge-2021.png" group-title="Musica",Bridge TV Русский Хит
+http://5.153.180.129:8000/play/a00g
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2z1GNQQ/bridge-2021.png" group-title="Musica",Bridge TV Шлягер
+http://5.153.180.129:8000/play/a07f
+
 
 #EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://i.ibb.co/Jz82Cyv/cxdswaqrytoy6854356789jgfjtrukyhotw45wettwtwgdsgtetygyry.png" group-title="Musica",Kpop TV 
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
