@@ -163,34 +163,34 @@ http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148939
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZZgYRm/Discovery-Kids-2021.png" group-title="Infantil",Discovery Kids
-http://190.95.220.212:8000/play/a02e/index.m3u8
+http://190.107.20.43:6004/play/a06l
 #EXTINF:-1 tvg-id="NickelodeonPanregional.us" tvg-name="NickelodeonPanregional.us" tvg-logo="https://i.ibb.co/njj31y9/Nick-Logo.png" group-title="Infantil",Nick
 http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="CartoonNetworkPacific.us" tvg-logo="https://i.ibb.co/rk5HVjb/1200px-Cartoon-Network-2010-logo-svg.png" group-title="Infantil",Cartoon Network
 http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="DisneyChannelCenter.us" tvg-logo="https://i.ibb.co/mBX4ty3/2560px-2014-Disney-Channel-logo-svg.png" group-title="Infantil",Disney Channel
-http://190.95.220.212:8000/play/a02r/index.m3u8
+http://190.107.20.43:6004/play/a09q
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="BoomerangLatinAmerica.us" tvg-logo="https://i.ibb.co/10jTQz8/dbfvrut4y578378653yusdfw342345rdfgijty7i09834.png" group-title="Infantil",Cartoonito
-http://190.95.220.212:8000/play/a01q/index.m3u8
+http://190.107.20.43:6004/play/a0aj
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x3KKwPX/Tooncast-logo-svg.png" group-title="Infantil",Tooncast
-http://179.63.36.2:8000/play/a0qp/index.m3u8
+http://190.107.20.43:6004/play/a0at
 #EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="NickJrPanregional.us" tvg-logo="https://i.ibb.co/VJWb6mQ/2560px-Nick-Jr-logo-2009-svg.png" group-title="Infantil",Nick Jr
-http://190.95.220.212:8000/play/a00n/index.m3u8
+http://190.107.20.43:6004/play/a0ak
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="Infantil",Disney Jr
 http://181.78.105.146:2000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcqpnhT/Teen-Nick-Logo-2017.png" group-title="Infantil",TeenNick
 http://179.63.36.2:8000/play/a0qn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3177
+http://190.107.20.43:6004/play/a0bu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fddwDkq/fcdtw36y58irujedyhwtgdfjndfcjnftjkiftkryw3446t55rtyuhrftujfrtuur57.png" group-title="Infantil",Once Niñas y Niños
 http://181.78.105.146:2000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
-http://181.78.77.118:8000/play/a10i/index.m3u8
+http://190.107.20.43:6004/play/a0bb
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
-http://179.63.36.2:8000/play/a0jx/index.m3u8
+http://190.107.20.43:6004/play/a0b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
-http://181.78.23.162:8000/play/a0al/index.m3u8
+http://190.107.20.43:6004/play/a0b7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0Vpc9n/nvyry7658u56ru8547y43re5ue54y7r5uj6u878iftuir5u8658u.png" group-title="Cine",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9c8hWs/93287326356rffgeghyfewgyfytyt7.png" group-title="Cine",Paramount Channel
@@ -198,13 +198,13 @@ http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
-http://190.95.220.212:8000/play/a01l/index.m3u8
+http://190.107.20.43:6004/play/a06b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
-http://181.78.77.118:8000/play/a0tw/index.m3u8
+http://190.107.20.43:6004/play/a0a6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
-http://181.78.77.118:8000/play/a0u0/index.m3u8
+http://190.107.20.43:6004/play/a06g
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7g4bpd/783786342ytg32gfsjhsgiuruywt4t.png" group-title="Cine",AMC
-http://179.63.36.2:8000/play/a0ji/index.m3u8
+http://190.107.20.43:6004/play/a06i
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="Cine",Studio Universal
 http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="FilmArtsPanregional.us" tvg-logo="https://i.ibb.co/6bdjyXF/8948794376gbhfjnguiy87y78y87y78ty.png" group-title="Cine",Film & Arts
@@ -214,17 +214,12 @@ http://181.78.105.146:2000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5yBRSP/674e3xxmxbigsiraw4s3xderxfsafdrfsad7asdsa6fsatrsaf4rsxex.png" group-title="Cine",Multipremier
 http://181.78.23.162:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tBXtdwR/5e6653260977ft657865t7urt5ufgjtr7e46458978tfutr6345erhfgyedrtetfgujrt.png" group-title="Cine",Claro Cinema
-http://138.59.177.34:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="Cine",DHE
-http://179.63.36.2:8000/play/a0km/index.m3u8
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://i.ibb.co/4tHzdrW/csdcksepesw073t52qrfdcsfacsfe0s5er3fscfgds9tsdufvds5rds3.png" group-title="Cine",Cine Latino
-http://138.59.177.34:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZ9V3ky/gfbgdrty65786790ijrtjur547u6tur54ythfryhedryt632w451yujyhjnftgrfjuu6r56tuj.png" group-title="Cine",Az Cinema
-http://190.95.220.212:8000/play/a051/index.m3u8
+http://190.107.20.43:6004/play/a087
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R023xXK/bvnvhfdytry7iuytoopfudfawretreyyutrrr6t875r487r5it6791234267807.png" group-title="Cine",HBO
-http://179.63.36.2:8000/play/a0py/index.m3u8
+http://190.107.20.43:6004/play/a0cd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXYLpRn/kiuopiwqkfdcqwmdfckiqw3h7rwuqjsidmxcweirdfwmfriw3jfierwn-fgte4wigt.png" group-title="Cine",HBO 2
 http://179.63.36.2:8000/play/a0jq/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus"  tvg-logo="https://i.ibb.co/tHJh6dN/uioy7i979o6796796796ihko6jkhgkhgkghh7hchdrfy.png" group-title="Cine",HBO +
@@ -239,7 +234,7 @@ http://181.78.23.162:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Mundo y Cultura",Discovery ID
 http://181.78.105.146:2000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdTvnFr/large-1376146781-Discovery-Channel-2019-png-8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="Mundo y Cultura",Discovery Channel
-http://181.78.77.118:8000/play/a0ts/index.m3u8
+http://190.107.20.43:6004/play/a09t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHsV93w/2018-Animal-Planet-logo-svg.png" group-title="Mundo y Cultura",Animal Planet
 http://190.95.220.212:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzBwsQJ/History-Logo-svg.png" group-title="Mundo y Cultura",History
@@ -3982,7 +3977,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="HD",TVP HD
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="StarChannelCentralAmerica.us" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="HD",Star Channel HD
-http://181.78.8.90:16123/play/ch07
+http://190.107.20.43:6004/play/a074
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="HD",Sony HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3395
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2f7ZWv/gallery-1163-2-22008.png" group-title="HD",Warner HD
@@ -4039,7 +4034,7 @@ http://181.78.8.90:16123/play/ch05
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3304
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="HD",Discovery ID HD
-http://181.78.8.90:16123/play/ch23
+http://190.107.20.43:6004/play/a06f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7QxJXw/mjhfrhfbxcbxdsgew547568fhydhydreheurjuer5ujrujrijrtjft.png" group-title="HD",Discovery Channel HD
 http://181.78.8.90:16123/play/ch22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YhHv66/1200px-Animal-Planet-HD-Primary-Lockup2-RGB-Wiki-2-svg.png" group-title="HD",Animal Planet HD
