@@ -260,7 +260,7 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PbkbGf/kght7oifr7ighxsetrsaw3457658679iokityjkirtijk6t5u67iktykitf.png" group-title="Deportes",Fox Sports
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1275
+https://aegis-fastly.tubi.video/da029a5c-c525-4adf-817f-ffaa97a6f3e3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KK6K4Y/hmgfhjsxet5w3475960okiotyujsee358ujsrtuje45uj458uri6i.png" group-title="Deportes",Fox Sports 2
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1877
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TsNyyQ/d938752431dsvfcdhvbobhpyht459ih.png" group-title="Deportes",TUDN
