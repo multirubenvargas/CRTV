@@ -3506,6 +3506,8 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPQM06c/bxdgaserq3578696oyopjfgtjhytw346346y3w6twetgsww2415uitfgjdrurujtruj.png" group-title="Latinoamérica",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPQM06c/bxdgaserq3578696oyopjfgtjhytw346346y3w6twetgsww2truj.png" group-title="Latinoamérica",TIV Televisión Tres Isletas
+https://videohd.live:19360/8008/8008.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhX6jss/bcfgbser34w254587606olhrfsgsedgta23558u6oikjfnjf.png" group-title="Latinoamérica",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
