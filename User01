@@ -3501,7 +3501,7 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxj166D/bdxfgw5t3q64589490tyhetgw3ertq5wxvsda268hdrfyhdrhydh.png" group-title="Latinoamérica",GenTV
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPQM06c/bxdgaserq3578696oyopjfgtjhytw346346y3w6twetgsww2415uitfgjdrurujtruj.png" group-title="Latinoamérica",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
