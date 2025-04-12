@@ -115,7 +115,7 @@ https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 
 
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Entretenimiento",Star Channel
-http://181.78.77.118:8000/play/a0td/index.m3u8
+http://190.217.23.56:1010/play/a0d7/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SonyChannelAndes.us" tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="Entretenimiento",Sony
 http://181.78.105.146:2000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="WarnerChannelPanregional.us" tvg-logo="https://i.ibb.co/xf2Z5TW/pngwing-com.png" group-title="Entretenimiento",Warner
@@ -186,23 +186,21 @@ http://190.107.20.43:6004/play/a0bu
 http://181.78.105.146:2000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
-http://190.107.20.43:6004/play/a0bb
+http://190.217.23.56:1010/play/a0ec/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
 http://190.107.20.43:6004/play/a0b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
-http://190.107.20.43:6004/play/a0b7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G0Vpc9n/nvyry7658u56ru8547y43re5ue54y7r5uj6u878iftuir5u8658u.png" group-title="Cine",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+http://190.217.23.56:1010/play/a0ek/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9c8hWs/93287326356rffgeghyfewgyfytyt7.png" group-title="Cine",Paramount Channel
 http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
-http://190.107.20.43:6004/play/a06b
+http://190.217.23.56:1010/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
-http://190.107.20.43:6004/play/a0a6
+http://190.217.23.56:1010/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
-http://190.107.20.43:6004/play/a06g
+http://190.217.23.56:1010/play/a048/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7g4bpd/783786342ytg32gfsjhsgiuruywt4t.png" group-title="Cine",AMC
 http://190.107.20.43:6004/play/a06i
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="Cine",Studio Universal
@@ -215,21 +213,23 @@ http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5yBRSP/674e3xxmxbigsiraw4s3xderxfsafdrfsad7asdsa6fsatrsaf4rsxex.png" group-title="Cine",Multipremier
 http://181.78.23.162:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="Cine",DHE
-http://190.107.20.43:6004/play/a087
+http://190.217.23.56:1010/play/a08s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7rGS4M/34837836tghsdgreu9r87t433434rgjt.png" group-title="Cine",Az Cinema
+http://190.217.23.56:1010/play/a0br/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R023xXK/bvnvhfdytry7iuytoopfudfawretreyyutrrr6t875r487r5it6791234267807.png" group-title="Cine",HBO
-http://190.107.20.43:6004/play/a0cd
+http://190.217.23.56:1010/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXYLpRn/kiuopiwqkfdcqwmdfckiqw3h7rwuqjsidmxcweirdfwmfriw3jfierwn-fgte4wigt.png" group-title="Cine",HBO 2
-http://179.63.36.2:8000/play/a0jq/index.m3u8
+http://190.217.23.56:1010/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus"  tvg-logo="https://i.ibb.co/tHJh6dN/uioy7i979o6796796796ihko6jkhgkhgkghh7hchdrfy.png" group-title="Cine",HBO +
-http://181.78.23.162:8000/play/a0l4/index.m3u8
+http://190.217.23.56:1010/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tkdj5mJ/nhgfh46789670oyujrtuhre54uyhrtujruyhrtfujrur5tur56ur567u76u56u65.png" group-title="Cine",HBO Family
 http://190.217.23.56:1010/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phjSdht/nhyut8i97o0r6tu7r45u47uwsert5s3e5rtw4e57yr5u7r65.png" group-title="Cine",HBO Xtreme
-http://179.63.36.2:8000/play/a0pr/index.m3u8
+http://190.217.23.56:1010/play/a0e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cNjqt5t/ngc-ghrde75986tutufturu57u62b60hkyghikyikygikic18a.png" group-title="Cine",HBO POP
-http://181.78.23.162:8000/play/a0fg/index.m3u8
+http://190.217.23.56:1010/play/a0b7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Mundo y Cultura",Discovery ID
 http://181.78.105.146:2000/play/a04y/index.m3u8
