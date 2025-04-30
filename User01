@@ -4039,7 +4039,8 @@ http://181.78.8.90:16123/play/ch05
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3304
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="HD",Discovery ID HD
-http://190.107.20.43:6004/play/a06f
+http://38.44.109.41:8003/play/a02s/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7QxJXw/mjhfrhfbxcbxdsgew547568fhydhydreheurjuer5ujrujrijrtjft.png" group-title="HD",Discovery Channel HD
 http://181.78.8.90:16123/play/ch22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YhHv66/1200px-Animal-Planet-HD-Primary-Lockup2-RGB-Wiki-2-svg.png" group-title="HD",Animal Planet HD
