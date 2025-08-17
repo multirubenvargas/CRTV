@@ -124,24 +124,24 @@ http://38.44.109.41:8003/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="WarnerChannelPanregional.us" tvg-logo="https://i.ibb.co/xf2Z5TW/pngwing-com.png" group-title="Entretenimiento",Warner
 http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="EAndes.us" tvg-name="EAndes.us" tvg-logo="https://i.ibb.co/gFtzgJd/eonline.png" group-title="Entretenimiento",E!
-http://181.78.105.146:2000/play/a03i/index.m3u8
+http://38.44.109.41:8003/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="UniversalTVPanregional.us" tvg-logo="https://i.ibb.co/3yzGYMf/1200px-Universal-TV-logo-svg.png" group-title="Entretenimiento",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="Entretenimiento",USA
 http://190.95.220.212:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/p3G448F/channe-png-1.png" group-title="Entretenimiento",FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
+http://38.44.109.41:8003/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnNh10x/imgayechannel.png" group-title="Entretenimiento",A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vsj67Wf/1200px-AXN-logo-2015-svg.png" group-title="Entretenimiento",AXN
-http://181.78.105.146:2000/play/a05y/index.m3u8
+http://38.44.109.41:8003/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TelemundoCentralAmerica.us" tvg-logo="https://i.ibb.co/3rLq5Cw/large-Telemundo-Intl2018-png-cabcb63374fc3ce2e8e59fd38fd6d72d.png" group-title="Entretenimiento",Telemundo Internacional
-http://190.95.220.212:8000/play/a00o/index.m3u8
+http://38.44.109.41:8003/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="ElGourmetSouth.ar" tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="Entretenimiento",El Gourmet
 http://190.95.220.212:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia.mx" tvg-logo="https://i.ibb.co/pQpPkCH/Distrito-Comedia-LOGO2018.png" group-title="Entretenimiento",Distrito Comedia
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+http://38.44.109.41:8003/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-name="HolaTVLatinAmerica.us" tvg-logo="https://i.ibb.co/CH5vkS0/hola-tv-350x183.png" group-title="Entretenimiento",¡Hola! TV
 http://181.78.105.146:2000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="TlnovelasMexico.mx" tvg-logo="https://i.ibb.co/PFRbvcL/tlnovelas-mediano.png" group-title="Entretenimiento",Tlnovelas
@@ -153,7 +153,7 @@ http://190.95.220.212:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralNorth.us" tvg-name="ComedyCentralNorth.us" tvg-logo="https://i.ibb.co/Bw36nfC/large-279164273-Sinttulo-2-png-76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Entretenimiento",Comedy Central
 http://181.78.105.146:2000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="Entretenimiento",Pasiones
-http://190.95.220.212:8000/play/a02m/index.m3u8
+http://38.44.109.41:8003/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable.mx" tvg-logo="https://i.ibb.co/Cn9hL87/Unicable2018-2.png" group-title="Entretenimiento",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7NQcKD/unnamedmaschic.png" group-title="Entretenimiento",Mas Chic
