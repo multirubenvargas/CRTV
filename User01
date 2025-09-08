@@ -203,18 +203,20 @@ http://190.217.23.56:1010/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
 http://80.80.91.195:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7g4bpd/783786342ytg32gfsjhsgiuruywt4t.png" group-title="Cine",AMC
-http://80.80.91.195:8000/play/a0d0/index.m3u8
+http://200.60.124.19:29000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="Cine",Studio Universal
-http://181.78.105.146:2000/play/a04o/index.m3u8
+http://200.60.124.19:29000/play/a0k3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmZCZS6/9387437yhgjrgruituitgretgurett4t4.png" group-title="Cine",TCM
+http://200.60.124.19:29000/play/a0k1/index.m3u8
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="FilmArtsPanregional.us" tvg-logo="https://i.ibb.co/6bdjyXF/8948794376gbhfjnguiy87y78y87y78ty.png" group-title="Cine",Film & Arts
-http://80.80.91.195:8000/play/a0cy/index.m3u8
+http://200.60.124.19:29000/play/a0l1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzDhzDJ/vbxcfdry5r7659i59oyujryher5uj6tru8u5r86u6trykjigytjkiyfgt6i8t6ikt03.png" group-title="Cine",MC
 http://80.80.91.195:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5yBRSP/674e3xxmxbigsiraw4s3xderxfsafdrfsad7asdsa6fsatrsaf4rsxex.png" group-title="Cine",Multipremier
 http://80.80.91.195:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="Cine",DHE
-http://80.80.91.195:8000/play/a0d5/index.m3u8
+http://200.60.124.19:29000/play/a0fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7rGS4M/34837836tghsdgreu9r87t433434rgjt.png" group-title="Cine",Az Cinema
 http://190.217.23.56:1010/play/a0br/index.m3u8
 
