@@ -118,71 +118,71 @@ https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 
 
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Entretenimiento",Star Channel
-http://38.44.109.41:8003/play/a012/index.m3u8
+http://80.80.91.195:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SonyChannelAndes.us" tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="Entretenimiento",Sony
-http://38.44.109.41:8003/play/a039/index.m3u8
+http://80.80.91.195:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="WarnerChannelPanregional.us" tvg-logo="https://i.ibb.co/xf2Z5TW/pngwing-com.png" group-title="Entretenimiento",Warner
-http://181.78.105.146:2000/play/a01f/index.m3u8
+http://80.80.91.195:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="EAndes.us" tvg-name="EAndes.us" tvg-logo="https://i.ibb.co/gFtzgJd/eonline.png" group-title="Entretenimiento",E!
 http://38.44.109.41:8003/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="UniversalTVPanregional.us" tvg-logo="https://i.ibb.co/3yzGYMf/1200px-Universal-TV-logo-svg.png" group-title="Entretenimiento",Universal
-http://181.78.105.146:2000/play/a03d/index.m3u8
+http://80.80.91.195:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="Entretenimiento",USA
 http://190.95.220.212:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/p3G448F/channe-png-1.png" group-title="Entretenimiento",FX
-http://38.44.109.41:8003/play/a01g/index.m3u8
+http://80.80.91.195:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnNh10x/imgayechannel.png" group-title="Entretenimiento",A&E
-http://181.78.105.146:2000/play/a03f/index.m3u8
+http://80.80.91.195:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vsj67Wf/1200px-AXN-logo-2015-svg.png" group-title="Entretenimiento",AXN
-http://38.44.109.41:8003/play/a031/index.m3u8
+http://80.80.91.195:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TelemundoCentralAmerica.us" tvg-logo="https://i.ibb.co/3rLq5Cw/large-Telemundo-Intl2018-png-cabcb63374fc3ce2e8e59fd38fd6d72d.png" group-title="Entretenimiento",Telemundo Internacional
 http://38.44.109.41:8003/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="ElGourmetSouth.ar" tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="Entretenimiento",El Gourmet
-http://190.95.220.212:8000/play/a02u/index.m3u8
+http://80.80.91.195:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia.mx" tvg-logo="https://i.ibb.co/pQpPkCH/Distrito-Comedia-LOGO2018.png" group-title="Entretenimiento",Distrito Comedia
-http://38.44.109.41:8003/play/a00j/index.m3u8
+http://80.80.91.195:8000/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-name="HolaTVLatinAmerica.us" tvg-logo="https://i.ibb.co/CH5vkS0/hola-tv-350x183.png" group-title="Entretenimiento",¡Hola! TV
-http://181.78.105.146:2000/play/a00n/index.m3u8
+http://80.80.91.195:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="TlnovelasMexico.mx" tvg-logo="https://i.ibb.co/PFRbvcL/tlnovelas-mediano.png" group-title="Entretenimiento",Tlnovelas
-http://181.78.105.146:2000/play/a08d/index.m3u8
+http://80.80.91.195:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-name="LifetimePanregional.us" tvg-logo="https://i.ibb.co/QfFNXNM/lifetimechannellogo.png" group-title="Entretenimiento",Lifetime
-http://181.78.105.146:2000/play/a01i/index.m3u8
+http://80.80.91.195:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena3Internacional.es" tvg-logo="https://i.ibb.co/CQTtpQW/Dc-HLj-FNWk-AAz-Owe.png" group-title="Entretenimiento",Antena 3
-http://190.95.220.212:8000/play/a027/index.m3u8
+http://80.80.91.195:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralNorth.us" tvg-name="ComedyCentralNorth.us" tvg-logo="https://i.ibb.co/Bw36nfC/large-279164273-Sinttulo-2-png-76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Entretenimiento",Comedy Central
-http://181.78.105.146:2000/play/a04a/index.m3u8
+http://80.80.91.195:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="Entretenimiento",Pasiones
-http://38.44.109.41:8003/play/a01f/index.m3u8
+http://80.80.91.195:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable.mx" tvg-logo="https://i.ibb.co/Cn9hL87/Unicable2018-2.png" group-title="Entretenimiento",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7NQcKD/unnamedmaschic.png" group-title="Entretenimiento",Mas Chic
-http://190.95.220.212:8000/play/a048/index.m3u8
+http://80.80.91.195:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="Universo" tvg-name="Universo" tvg-logo="https://i.ibb.co/C6PbMcy/vnfcy435658679rtuhxdreyhurtujrtu7546743757u8e64ydu756756u.png" group-title="Entretenimiento",NBC Universo
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/560
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.ibb.co/dgrHx1G/hjk-ltyf9i684658y709yuiogholcujfdgheruj45s8i6s6i956ik.png" group-title="Entretenimiento",Telemundo
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/148939
+http://80.80.91.195:8000/play/a0d1/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZZgYRm/Discovery-Kids-2021.png" group-title="Infantil",Discovery Kids
-http://190.107.20.43:6004/play/a06l
+http://80.80.91.195:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPanregional.us" tvg-name="NickelodeonPanregional.us" tvg-logo="https://i.ibb.co/njj31y9/Nick-Logo.png" group-title="Infantil",Nick
-http://181.78.105.146:2000/play/a014/index.m3u8
+http://80.80.91.195:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="CartoonNetworkPacific.us" tvg-logo="https://i.ibb.co/rk5HVjb/1200px-Cartoon-Network-2010-logo-svg.png" group-title="Infantil",Cartoon Network
-http://181.78.105.146:2000/play/a03k/index.m3u8
+http://80.80.91.195:8000/play/a0eq/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="DisneyChannelCenter.us" tvg-logo="https://i.ibb.co/mBX4ty3/2560px-2014-Disney-Channel-logo-svg.png" group-title="Infantil",Disney Channel
-http://190.107.20.43:6004/play/a09q
+http://80.80.91.195:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="BoomerangLatinAmerica.us" tvg-logo="https://i.ibb.co/10jTQz8/dbfvrut4y578378653yusdfw342345rdfgijty7i09834.png" group-title="Infantil",Cartoonito
-http://190.107.20.43:6004/play/a0aj
+http://80.80.91.195:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x3KKwPX/Tooncast-logo-svg.png" group-title="Infantil",Tooncast
-http://190.107.20.43:6004/play/a0at
+http://80.80.91.195:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="NickJrPanregional.us" tvg-logo="https://i.ibb.co/VJWb6mQ/2560px-Nick-Jr-logo-2009-svg.png" group-title="Infantil",Nick Jr
-http://190.107.20.43:6004/play/a0ak
+http://80.80.91.195:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="Infantil",Disney Jr
-http://181.78.105.146:2000/play/a03j/index.m3u8
+http://80.80.91.195:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcqpnhT/Teen-Nick-Logo-2017.png" group-title="Infantil",TeenNick
-http://179.63.36.2:8000/play/a0qn/index.m3u8
+http://80.80.91.195:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
 http://190.107.20.43:6004/play/a0bu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fddwDkq/fcdtw36y58irujedyhwtgdfjndfcjnftjkiftkryw3446t55rtyuhrftujfrtuur57.png" group-title="Infantil",Once Niñas y Niños
@@ -3983,23 +3983,23 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="HD",TVP HD
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="StarChannelCentralAmerica.us" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="HD",Star Channel HD
-http://190.107.20.43:6004/play/a074
+http://38.44.109.41:8003/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="HD",Sony HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3395
+http://38.44.109.41:8003/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2f7ZWv/gallery-1163-2-22008.png" group-title="HD",Warner HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3396
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFtzgJd/eonline.png" group-title="HD",E! HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2569
+http://80.80.91.195:8000/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Svkxdg/Universal-TV-HD-Logo-2018.png" group-title="HD",Universal HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3413
 #EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="HD",USA HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3415
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/j69Yz1S/6af3093605ba682f40d818ba70786acc.png" group-title="HD",FX HD
-http://181.78.8.90:16123/play/ch08
+http://38.44.109.41:8003/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c88BvQR/A-E-HD.png" group-title="HD",A&E HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2565
+http://80.80.91.195:8000/play/a0cz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGg35sS/1200px-AXN-HD-Logo-2015.png" group-title="HD",AXN HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2567
+http://38.44.109.41:8003/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8D9zJ0f/31009457980-baaa6ac9db-o.png" group-title="HD",TNT Series HD
 http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3394
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="HD",El Gourmet HD
