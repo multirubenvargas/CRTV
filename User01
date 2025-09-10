@@ -181,10 +181,10 @@ http://80.80.91.195:8000/play/a03d/index.m3u8
 http://80.80.91.195:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcqpnhT/Teen-Nick-Logo-2017.png" group-title="Infantil",TeenNick
 http://80.80.91.195:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="BitMe.mx" tvg-name="BitMe.mx" tvg-logo="https://i.ibb.co/XFdtqMf/ddt8etp-2446086d-08d4-46e5-91f0-9c5c6908fba4.png" group-title="Infantil",Bit Me
+http://38.44.109.41:8003/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
 http://200.60.124.19:29000/play/a0i9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fddwDkq/fcdtw36y58irujedyhwtgdfjndfcjnftjkiftkryw3446t55rtyuhrftujfrtuur57.png" group-title="Infantil",Once Niñas y Niños
-http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Infantil",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
@@ -219,8 +219,6 @@ http://80.80.91.195:8000/play/a04m/index.m3u8
 http://80.80.91.195:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="Cine",DHE
 http://200.60.124.19:29000/play/a0fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7rGS4M/34837836tghsdgreu9r87t433434rgjt.png" group-title="Cine",Az Cinema
-http://190.217.23.56:1010/play/a0br/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R023xXK/bvnvhfdytry7iuytoopfudfawretreyyutrrr6t875r487r5it6791234267807.png" group-title="Cine",HBO
@@ -233,8 +231,6 @@ http://80.80.91.195:8000/play/a031/index.m3u8
 http://80.80.91.195:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phjSdht/nhyut8i97o0r6tu7r45u47uwsert5s3e5rtw4e57yr5u7r65.png" group-title="Cine",HBO Xtreme
 http://80.80.91.195:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cNjqt5t/ngc-ghrde75986tutufturu57u62b60hkyghikyikygikic18a.png" group-title="Cine",HBO POP
-http://190.217.23.56:1010/play/a0b7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Mundo y Cultura",Discovery ID
 http://80.80.91.195:8000/play/a0a8/index.m3u8
@@ -261,82 +257,42 @@ http://80.80.91.195:8000/play/a05j/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 
-http://181.78.105.146:2000/play/a064/index.m3u8
+http://80.80.91.195:8000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
+http://80.80.91.195:8000/play/a0db/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PbkbGf/kght7oifr7ighxsetrsaw3457658679iokityjkirtijk6t5u67iktykitf.png" group-title="Deportes",Fox Sports
-http://45.68.35.218:4001/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KK6K4Y/hmgfhjsxet5w3475960okiotyujsee358ujsrtuje45uj458uri6i.png" group-title="Deportes",Fox Sports 2
-http://45.68.35.218:4001/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TsNyyQ/d938752431dsvfcdhvbobhpyht459ih.png" group-title="Deportes",TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sm53JmV/vbhxcfhbgfjuyghuiyoiytoiretuj4ow750o5oik6ki56i94swtiyky.png" group-title="Deportes",Fox Sports 3
-http://190.217.23.56:1010/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4yxMHn/nbchdcfrye5467578u0poyujgkgcyesr2q4trdfhuydfrcyuhrur5tu7ryudrgcvbcxgsr53w56e4yryhdryhd.png" group-title="Deportes",Fox Sports Premium
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/13775
+http://80.80.91.195:8000/play/a0e1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
-http://181.78.105.146:2000/play/a03n/index.m3u8
+http://80.80.91.195:8000/play/a0dc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
 http://38.44.109.41:8003/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tt6BFVk/tey64xgsgtyiypyukl798iurujrue56ui6yir6uj5r6tujey745u856urtfhyrwetgetgfhdghyjfmjt.png" group-title="Deportes",Claro Sports
-http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HVG3gmW/csrfd46e7q27y86sgdtbdstfvdstfsad8r7swa76e4d6rsarfsa.png" group-title="Deportes",Claro Sports 2
-https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ggHGGYW/vcjnhrd6329670lokhsdarq24q6thfyuyhsrbvhfhydty687695435rydhhhfdh.png" group-title="Deportes",TNT Sports
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/13773
+http://200.60.124.19:29000/play/a0kv/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Deportes",TyC Sports
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/15899
+http://200.60.124.19:29000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="ElGarageTV.ar" tvg-logo="https://i.ibb.co/L6SRbXQ/Large-logo-garage-TV-HD-png-9288a09ab4d6cbef56c691cd4890aa24.png" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://i.ibb.co/4SPLhCy/dxgse5w235645yejgkygloyp070978ertgyruhfjufjuftujrturftujrtfujrtfujr.png" group-title="Deportes",Fitmaxx TV
-https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-name="MX | Sky Sports La Liga" tvg-logo="https://pbs.twimg.com/media/GA01qNoWoAAl6US?format=png&name=240x240" group-title="Deportes",Sky Sports La Liga
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://i.ibb.co/5vj9V3Y/ikygikygtuigtyughdrt56438967090opyijufdyhder6ye47yrujrye47yujr5u7r5ujfytuir5u7e5tetgsewaq537u5ruir.png" group-title="Deportes",beIN Sports XTRA ñ
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3216
-#EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://i.ibb.co/Hq6d1hj/gfdgtygse5323464784965oupgkjrfdueuyh7e4r5u874euyftguj.png" group-title="Deportes",Sport Ext
-https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgPQrjK/gjhfye4w6785690pyikotue5yfgdsetawqw565yrutyujtfjnfturfujrtfijkrtu68.png" group-title="Deportes",ESPN Sur
-http://38.44.109.41:8003/play/a02v/index.m3u8
+http://80.80.91.195:8000/play/a0eh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/frcrMnj/bcvghydr63478909ittitrujftujrye462w36yutujtfrujr5tujrtujriufgjdfye56475u.png" group-title="Deportes",ESPN 2 Sur
-http://38.41.8.1:8000/play/a00c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dWhhknT/vbcgr657867985696o0tyotyudrtgysdgtsdeysw352yreyuhrtujrujr5tujru6ur5t.png" group-title="Deportes",ESPN 3 Sur
-http://181.78.8.90:16123/play/ch18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgPQrjK/gjhfye4w6785690pyikotue5yfgdsetawqw565yrutyujtfjnfturfujrtfijkrtu68.png" group-title="Deportes",ESPN 4
+http://80.80.91.195:8000/play/a0dp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8dtsDGZ/3w5eytujgfjmvgnmvhfcdgdrui9yupkhlftyuhryhseyhruj7e456reye67erry7reyurt.png" group-title="Deportes",ESPN 5 Sur
-http://181.78.8.90:16123/play/ch19
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HNmnyNs/134564etdyhdryheahjfftyi6y97otl6vbmkgvjdutujrtiktryirt678568i6uirtuffiki.png" group-title="Deportes",ESPN 6 Sur
-http://181.78.8.90:16123/play/ch21
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8dtsDGZ/3w5eytujgfjmvgnmvhfcdgdrui9yupkhlftyuhryhseyhruj7e456reye67erry7reyurt.png" group-title="Deportes",ESPN 5
+http://80.80.91.195:8000/play/a0de/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7 Sur
-http://181.78.8.90:16123/play/ch20
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="Deportes",Claro Sports 3
-https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="Deportes",Claro Sports 4
-https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxR8s88z/hjftuyhr57u57u8536768970oyupukldhryewe4yqw35twrty.png" group-title="Deportes",FOX Deportes en Tubi
-https://aegis-fastly.tubi.video/da029a5c-c525-4adf-817f-ffaa97a6f3e3/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/VBGWJdN/gy47w59ikidtd5r6u747u8jytui5edutruys345w7us47ys4uui.png" group-title="Deportes",EuroSport 1 España
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/6895
-#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://i.ibb.co/26fFVFR/ghfuhtryid658eiyduery6443w6y7uhtru6t5u76ik56i4u7trjsr.png" group-title="Deportes",EuroSport 2 España
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/6896
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNmnyNs/134564etdyhdryheahjfftyi6y97otl6vbmkgvjdutujrtiktryirt678568i6uirtuffiki.png" group-title="Deportes",ESPN 6
+http://80.80.91.195:8000/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7
+http://38.44.109.41:8003/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.ibb.co/bXKfZYV/bchw76t7y643jd5rj65e8uyie5874aweroulpupygoklfu.png" group-title="Deportes",SporTV
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2210
-#EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/w7vQB8C/vnjcfgyhsxesw5346870olulkftyoklti94d5u8s34u858ue5.png" group-title="Deportes",EuroSport 1 Portugal
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/76719
-#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://i.ibb.co/DpNkgcb/gfchs54q379oyikdru8s357tiu658ijkdtyjurets36y5ys5usruj68u.png" group-title="Deportes",EuroSport 2 Portugal
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/76720
-#EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/WnGP6XZ/gfhx5r675iydujs45uj6tujujid6547uuirytijkytik6737w5uyhiu65ei.png" group-title="Deportes",EuroSport 1 Inglaterra
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/114682
-#EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport" tvg-logo="https://i.ibb.co/7XMGrQV/mcjtyu57445wrutjs58u79ikopluiijktsaefgnbvxnxtfjhrt.png" group-title="Deportes",Rai Sport
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/81411
-#EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://i.ibb.co/bHJsPW3/hndfya46y48570odkir53seu86r5tretujs3463265u8r56d.png" group-title="Deportes",WWE Network
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3210
+
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
