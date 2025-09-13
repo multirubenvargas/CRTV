@@ -77,44 +77,6 @@ https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rv3wRx0/gfgdry6e5769potrd5q23bhqq4n5j3w53wyrdfmj34wj6n46.png" group-title="México",TVCuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Cv0R5QX/jgjhxd6347096pokjtyhue453w5uj5e4jus54ee4urtuje5i4.png" group-title="Locales",Canal 12 El Salvador
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/187
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HXvvC5w/jmgjfghxdchbdsyu486u769iikrt8ir65uifgirftjrtu78658u56985695695.png" group-title="Locales",Canal 10 Nicaragua
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/356
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wS25Ys3/576r8iutygujt6jrdjujtrfu876iykdhmnbvf42908hygsfrae3aasxyfix.png" group-title="Locales",Repretel Canal 6
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1195
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jM9CWkv/8679iukjhfgyui785675r6797803hgfjkdfkyuoy757u56ujrtduoltit.png" group-title="Locales",Repretel Canal 11
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1164
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3W8zmRy/7685i67kufkjcr53ws658799khofuyor8tyus34aytgikjtygkijyqwqertyu78ir.png" group-title="Locales",TV MAX
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/445
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Jx5FjR7/bcbcnnmhkjmghjmkgyfiy70t342oupuidrys4h2w4h2u4e465nj464jn644wrrtgstg.png" group-title="Locales",Antena 7
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Gv03bFP/vhgbfxdyhse547689568rtu6uir68u658iirtyghjtyru84568u5.png" group-title="Locales",RCN
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/98843
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VDm6Zrm/hjmdyhw465486u5iertuiu843u8s4u8435u8753u8suis57s3e8uu.png" group-title="Locales",Caracol
-http://190.95.220.212:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SX0tyjW/hxty74577w8jfdgfhgnbgbmjcfyuh5474utu5477ututrus467547utrysw325tw26y.png" group-title="Locales",TVES
-http://38.41.8.1:8000/play/a03k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/99S3n7p/hncfyhe67598507oytije58u4irtki5ri45i6i6ri6ik6ikd6ki.png" group-title="Locales",RTS
-http://190.95.220.212:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2h13TNY/ghndtfyhe67598yirtui5eu8745e86tir6ti5685685rtujtr.png" group-title="Locales",Televicentro
-http://190.95.220.212:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sWCGy72/cvbxcfbaswrfq2436y59ijgfjmgyti870oyujvtgmhgkrylfdtyh4urtu4yw453tgeryhedrhyure.png" group-title="Locales",ATV
-http://190.95.220.212:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2jLmhgP/ytre757uuiytiktijkhfsaq2365978pujhkjfdrtw35tery7e46e457yreyery75e7.png" group-title="Locales",Bolivision
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3282
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1RPnrCN/hbfxdhnvcbnxdty74568u6759ot7y09otyplotpotyoiaswweawertwry.png" group-title="Locales",CHV
-http://190.95.220.212:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s2F5mzS/vsgftwsf6wesgtfwtf7rswafhfhjtfrdr7wdqe86s2ed2w4ewsacdrs.png" group-title="Locales",SNT
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3319
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Locales",TVP
-https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Entretenimiento",Star Channel
 http://80.80.91.195:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SonyChannelAndes.us" tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="Entretenimiento",Sony
@@ -152,12 +114,8 @@ http://80.80.91.195:8000/play/a06a/index.m3u8
 http://80.80.91.195:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="Entretenimiento",Pasiones
 http://80.80.91.195:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable.mx" tvg-logo="https://i.ibb.co/Cn9hL87/Unicable2018-2.png" group-title="Entretenimiento",Unicable
-http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7NQcKD/unnamedmaschic.png" group-title="Entretenimiento",Mas Chic
 http://80.80.91.195:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="Universo" tvg-name="Universo" tvg-logo="https://i.ibb.co/C6PbMcy/vnfcy435658679rtuhxdreyhurtujrtu7546743757u8e64ydu756756u.png" group-title="Entretenimiento",NBC Universo
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/560
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.ibb.co/dgrHx1G/hjk-ltyf9i684658y709yuiogholcujfdgheruj45s8i6s6i956ik.png" group-title="Entretenimiento",Telemundo
 http://80.80.91.195:8000/play/a0d1/index.m3u8
 
@@ -267,11 +225,10 @@ http://80.80.91.195:8000/play/a0e1/index.m3u8
 http://80.80.91.195:8000/play/a0dc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
 http://38.44.109.41:8003/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ggHGGYW/vcjnhrd6329670lokhsdarq24q6thfyuyhsrbvhfhydty687695435rydhhhfdh.png" group-title="Deportes",TNT Sports
-http://200.60.124.19:29000/play/a0kv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0GMsKp/416685-8c.png" group-title="Deportes",LAS
+http://80.80.91.195:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Deportes",TyC Sports
-http://200.60.124.19:29000/play/a0kt/index.m3u8
+http://200.60.124.19:29000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="ElGarageTV.ar" tvg-logo="https://i.ibb.co/L6SRbXQ/Large-logo-garage-TV-HD-png-9288a09ab4d6cbef56c691cd4890aa24.png" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
@@ -294,18 +251,7 @@ http://38.44.109.41:8003/play/a02u/index.m3u8
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 
-#EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
-http://200.60.124.19:29000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
-http://187.102.208.108:50001/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
-http://200.60.124.19:29000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
-http://200.60.124.19:29000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU", 6 | Exitosa Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
 https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU", 7.2 | TV Perú Internacional
@@ -316,8 +262,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1731480340&_cdn_timestamp=1705179331&_cdn_token=83ab6174c4b1420c427c06899cd5c2f3c22ea571
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
-http://200.60.124.19:29000/play/a04t/index.m3u8
+
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
@@ -2436,436 +2381,123 @@ https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.cokiktfrujgfhaeuylpiyoiryhsrd.png" group-title="Latinoamérica",TV Azteca Guate
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FkSLgWwK/grdgye6y4575697yotitoysbhdrhyrsdtyhwesgstgsweysdgh.png" group-title="Latinoamérica",TV Azteca Guate
 http://80.80.91.195:8000/play/a0dw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vd7jDsz/bgdghye4w6t458i70o8r5u347q2rt5u7youpjkiktfrujgfhaeuylpiyoiryhsrd.png" group-title="Latinoamérica",Activa TV
-https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TSi.hn" tvg-name="TSi.hn" tvg-logo="https://i.ibb.co/6rLdr4x/6e46ysgeft21tr8u760o9ukyukigyhmhklyuije5yhdhndhsegtw35t43yhreyheyhrtyheryh.png" group-title="Latinoamérica",Q'hubo TV
-https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X3VKmM/4364769o8oyujtsghsgh546y456y344tgfeghrshbrt5yh45.png" group-title="Latinoamérica",Ten Canal 10
-http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://i.ibb.co/yV4trkQ/bfcgews46547325t6rutyoujntfgruh5r47ruh56j56r7u45u.png" group-title="Latinoamérica",Canal 11 Honduras
-http://138.59.177.34:8000/play/a01v/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48JQZZs/tr7u65eujyhgcdxre5t3w456tw67yuhju68it2347a.png" group-title="Latinoamérica",UTV
 https://live-utv.unah.edu.hn/web/salida.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwBL43L/56437978tuftudgdt45egtdryhoyw3237yreyher455.png" group-title="Latinoamérica",Sercano TV
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0cCBkP0/547uyjduhjnghjkuheyt6wtd5sfytwaqgfu765wrq246euwr.png" group-title="Latinoamérica",WOW
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h29qjTC/yru7686ert5e4w5r-treyutrutyu85e6ydgfdjhgfuretewtwersgfdh.png" group-title="Latinoamérica",Taber TV
-https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHW8s6P/cfhgde452w5876908700rtyhue4t56w214rcfvdsdtgvdryhrtuyhrt6j65uu.png" group-title="Latinoamérica",Canal 21
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkyhCm2/gxssrdryd26432673wwqaecassactyrdaryse432pokihhgfr4433dw21sj995.png" group-title="Latinoamérica",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hWTnh76/32454e3wvjdgxvwapsyawi6325sarw43awsgvgvcapw873wtlkjdse.png" group-title="Latinoamérica",Tele Uno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3dQs2QC/ncghrs5t3q256680optuhbcfghsegt4ew6y47urtyuhedry6436xfsae32pkmhdfht.png" group-title="Latinoamérica",TeleBrunca
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q7gCKDV/763trefvyet3tu573r3gyureti463t64gwa7f7325647yrtujs.png" group-title="Latinoamérica",Multimedios Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=AuXzb2rF1zkk4eaVO87WfplZR7GvS4cF&sid=zIHnn2xGHZwNOtrlsbncRrfiTdfcv7SE&pid=RGG5M2OWQifKFH8rK2PePitA8vBOJ7Xj&an=screen&at=web-app&av=v5.2.114&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=624x312&without_cookies=false&dnt=true
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0QLN5RF/y7687u6yihkighujftye4t5345yhtgjugfujtfyuw54ewgtaqda1qws2i9i0j.png" group-title="Latinoamérica",TELERED
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wsn5JTC/46564567ygtdhdfhfdyhdfyhryuyuivcxadedwqq398765dfmxdeokurht.png" group-title="Latinoamérica",Telesistema CR
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XVvNnnT/bxdfgesr4q32568760olplkdsqdfvce6457uitujrujr5u5re7utjrujdfryh.png" group-title="Latinoamérica",Trivisión 36
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion.do" tvg-logo="https://i.ibb.co/1RjJwqR/IMG-2431250.png" group-title="Latinoamérica",Teleunión
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDtpzyP/Nuevo-Logo-Mega-550.png" group-title="Latinoamérica",Megavision
-http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2dBpVJ/gsewfdwp0908653fevswewstewsefwdde3w4ew33we4e3we4.png" group-title="Latinoamérica",RNN
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GRKf7hT/dtfw37tew63rew2csjfcsldxhyigdsxtfstsfsrdfrsrdcsawdwe524e3wdswrds.png" group-title="Latinoamérica",Yuna Visión
-https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X7qzNwJ/cstfwr2q46ep6rtwserwe5r5wsecsatrwasdre2196t5w377sewfstvxdgvsyigbstfsre5ewr.png" group-title="Latinoamérica",Bonao TV
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rZS59B/34870ugfdsrwrhgjhophdxfe54efdgbcfxdt3w568ifgghfg.png" group-title="Latinoamérica",Adocco TV
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSc9YCv/fdrycsrd542026r51epyuqtyfwatrfasdsae4ewe2qdsaw8e423we4e3sad.png" group-title="Latinoamérica",Tele Cibao
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccLpLYG/543tr7fgsdfujyuihgbvxdrewatry768uiye892116ydfgx.png" group-title="Latinoamérica",Telecanal 28
-https://cm.hostlagarto.com:4445/Telecanal-28/telecanal.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYDstmy/7u68857ytruedyh57w354uygfherdgghuiiiuuyhfgswe4365375tgfrfhgd.png" group-title="Latinoamérica",DAN TV
-https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gGKD6T/hermanasmtv.png" group-title="Latinoamérica",HM TV
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P6SMjMj/svtfw4eq20p9kidsuhgfdsxawacwd44edw346r7w.png" group-title="Latinoamérica",Vision NDV
 https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d29Wpkw/vxwq234587687690polkgkybmjhdsrwqw3668769ygfhjfhjdryhdryhgrye46qaoi.png" group-title="Latinoamérica",Canal 56
-https://cdn5.streamgato.us:3371/live/canal56live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdQs0CY/csfd2567w3w396t5r5w7rew7epogtw574re654321fsttsf.png" group-title="Latinoamérica",Imagen Universal
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4KMgkZz/csrwes4354w0o98stfe4w3dwelpoo09smsdg6drs6ede.png" group-title="Latinoamérica",Aion Televisión
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjN2f1X/bxcgdrq236587690609nbmcdtawraweturtpulgjgjdutuyhryuqaqafrgfctrrt.png" group-title="Latinoamérica",Telesantodomingo
-https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7bwvNC7/dsrtw31352880pkmjuytrfdqdedaxxsfw89387544e3wfege.png" group-title="Latinoamérica",Galaxiateve
-https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KwMR3VS/cfesd65uer269365wte4rsdewcddo9e7652wsfestfefcaeqsqw1pp7te6refre9d5fs.png" group-title="Latinoamérica",Telecontacto 57
-https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNKN5hs/bvncmngvhlip809773w414tregdgewqqqawaqwsdpiuo007854.png" group-title="Latinoamérica",Mega TV
-https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5BYd4TV/bcfgesrt34870ojkfgjtf7ue7utudfrw354687iyhgjfchserwr6547uyttrujtruj.png" group-title="Latinoamérica",GH Television
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzB1SMX/frdte4678iuupighfnbmnvbhgxdraw3q2454657tuiuofvcxwqy2758j90o97r.png" group-title="Latinoamérica",CDM TV
-http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JswWNRm/rt465ut5yugfjbghjghodw4rtay4ytugfjhxertgw456y4ufdhywetgwq4123tyruyt7u6987970tgdsfsr.png" group-title="Latinoamérica",Ready
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbxkFvR/ghfdtye547yutsr78ihgyoqwtgvbjmnkuouyl85632t7346yhfgxertyhey.png" group-title="Latinoamérica",Villa Altagracia TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhB16B0/re5h7k9opyjbnc4q28j7954e78r68yououhpuphugfhcxweaqg5678j9ui7r6en768mk846q3.png" group-title="Latinoamérica",Vallevisión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jGhcvyS/ujyicdst6reu3wd64353wcfdqrqpq9w73rtrtfg.png" group-title="Latinoamérica",CTV
-https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WKh6DbY/gfrty45t669678pohgvmfyet367547457y547yfhdgertq345yuyuipp57546yjt4uh543y6g46.png" group-title="Latinoamérica",Mega Cine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3SGgQK/xdgcvrs57r3w37w8574eswpoodsicadxrqs2w3qqde4w35re7retrr.png" group-title="Latinoamérica",Cascara TV
-https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MsNJZF/scrwd452e342we54ew0po9mjhsfccaedaswe5dw53asq2w.png" group-title="Latinoamérica",Orbit
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/71fZZ6s/r5secxa6et5swrr5polkmjysdt5rw543er4w3e1234dhxdgtdxfg.png" group-title="Latinoamérica",TeleMax
-https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hXmR8Nr/cxvf672w53wrf73wrlpdse9ie98ews7swagtfsdxsdrfdwqa4.png" group-title="Latinoamérica",Sitv
-http://190.122.104.221/Player/sitv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrmhNR/67546t743ytrehgfuishdugfwy74tr.png" group-title="Latinoamérica",Cali TV
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="CanalInstitucional.co" tvg-logo="https://i.ibb.co/16RsSsC/48uty34tyg076jgtht4tygergherhge5.png" group-title="Latinoamérica",Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.co" tvg-name="Trece.co" tvg-logo="https://i.ibb.co/WtMmZ2b/7895845yregfdbhjytu56ury4tg24.png" group-title="Latinoamérica",Canal Trece
-https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTFJTNp/0985tu34rt3gvhfdgbwifuewh9y723rft2gtf2.png" group-title="Latinoamérica",CTV
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="SenalColombia.co" tvg-logo="https://i.ibb.co/gMH5Hf2/t6234u5tr34y7tfwegverhg43w57tyr235r234r.png" group-title="Latinoamérica",Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico.co" tvg-logo="https://i.ibb.co/x730HW5/6t36t7grg4y87gerw7ygfds78gyh78e4gdrfhge.png" group-title="Latinoamérica",Telepacífico
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rcgL3Sf/34t87ytregvhergvuerhre7tg7f46t3646t438t8rewdg.png" group-title="Latinoamérica",TV Peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SX0tyjW/hxty74577w8jfdgfhgnbgbmjcfyuh5474utu5477ututrus467547utrysw325tw26y.png" group-title="Latinoamérica",TVES
+http://38.41.8.1:8000/play/a03k
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RykM3YQ/43u56437tyert7grydghufdhdr4yt4y7.png" group-title="Latinoamérica",Promar TV
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7WjH5t/bdfgwt353769760ghfhbdhbsetgw326tygrhyrdfbhfye6758iyupojgh.png" group-title="Latinoamérica",eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7k62QCK/457y8rhgdghuhfugeu4utr8yefyguhsdhivgdfobhu8.png" group-title="Latinoamérica",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5M6zTvg/586t437843uy8ghrgjndfbvwer732tgygfduhg.png" group-title="Latinoamérica",Cultura 24
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qW1H3XR/5y3469456y9u5uyghufrughur8et.png" group-title="Latinoamérica",BHtv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d41w0RT1/7632tegdy3t63t36tgeygdh5435643634ygdud.png" group-title="Latinoamérica",Latina
+http://200.60.124.19:29000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Latinoamérica",América Televisión
+http://200.60.124.19:29000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="Latinoamérica",Panamericana
+http://200.60.124.19:29000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sWCGy72/cvbxcfbaswrfq2436y59ijgfjmgyti870oyujvtgmhgkrylfdtyh4urtu4yw453tgeryhedrhyure.png" group-title="Latinoamérica",ATV
+http://200.60.124.19:29000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C0pcZ76/6458t4tgfdcbnerdhg435t743yryw8rwhvgdfcgisuw9.png" group-title="Latinoamérica",Ovación TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GMN7Dpk/7865t4378teutgfudhhdufgew87ryw7.png" group-title="Latinoamérica",RTP Bolivia
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BCdj605/bgtset4e65876tiktiurt5ur5tuyrujftgudrytes5r2315tyruyhftghjftgjhfrtyuh.png" group-title="Latinoamérica",Canal 2 Quellon
-https://marine2.miplay.cl/canal2quellon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1mWdqTB/89475rwedfscbxvhsbedbfoqiu3j21483y78ryeifb32y4edr4654765.png" group-title="Latinoamérica",Retro Play
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TYwc1T6/r5489u4uy8ghdgnhibju9t4r324w332tu9hewty.png" group-title="Latinoamérica",Antofagasta
-https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJK6DPV/94358u97yigregfgregtuet5hu5rhgt.png" group-title="Latinoamérica",Santa María
 http://unlimited1-us.dps.live/smtv/smtv.smil/smtv/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8NNqzLt/uf3eu8ry348rh4yufhwedfsdegfrhge8hygwehgf34.png" group-title="Latinoamérica",TV 5 Linares
-http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX30vg5/0348gutrfhgfdbgergregegeghetgeuhwyswds.png" group-title="Latinoamérica",Holvoet
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gGxFyz/ytre4wtg435fdsgsiige9ytu4wy83t4rq7wgtr8wghf.png" group-title="Latinoamérica",El Pinguino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibpng" group-title="Latinoamérica",Ladies Channel
-https://marine2.miplay.cl/ladies/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.ibb.co/wR1X3mf/cfgsdgfwe4q27690kujgftw4231279opkghdhgstewt.png" group-title="Latinoamérica",SMAS Channel
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3wc0mJ/cfgrtq2344576580puokgdytygtq2436786uthdfrhrhshy.png" group-title="Latinoamérica",EnerGeek
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xF7KkHG/bcgjgfhkyolupt7945745w3t6esdefghnvbjkguoltyu87546ery7547547u65u.png" group-title="Latinoamérica",abc
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
-
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax.ar" tvg-logo="https://i.ibb.co/cYVgyCr/564ygrehnerigie4r9tufredf9sudfhw8ef97w3u9rde9.png" group-title="Latinoamérica",Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal26.ar" tvg-logo="https://i.ibb.co/hDgrR0z/fuhregbyet574t845ht485tgehr8tsg8rfthjyr9s8.png" group-title="Latinoamérica",26
-http://200.115.193.177/live/26hd-720/.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Latinoamérica",TVP
+https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRzdq9d/xcvxcfewr346870kyjtfhjdfrhgdfgq43576598ujfgtuhrtyuh5.png" group-title="Latinoamérica",TVDOS
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QbG54by/cfbgdrtw34568769okhser35674yeyhhnxfddeswrq237869jkmgtjhdry.png" group-title="Latinoamérica",Canal 2 Jujuy
-https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdHq230/vxdfmyiyoy967u5rtuja2q4r56y768u98890okhkgtfgjlpiouiftujrdyhyhrtu.png" group-title="Latinoamérica",Canal 3 Las Heras
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k3hq7xQ/hrdhgcxsfdeaew4r5768970opluljtutfhydgyrdyhreyeryhreu.png" group-title="Latinoamérica",Canal 4 San Juan
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfvG81m/cvbxdfgesr54689760pyojgvcngearq235tyyiuyopkjhk6iru6u68.png" group-title="Latinoamérica",Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx51cc8/vcbxdgsrw35476597opukjmkyuhru44577y457y45uy.png" group-title="Latinoamérica",Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8NHnwc/cvxfw345r47u69000ipokjlgtrfhfdyhdretyeytrt5y7e5447y547.png" group-title="Latinoamérica",Canal 4 Posadas
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5F0yFW0/cbxfeqw45367690y7iyjhjgfmkyw35ytfghhreyhredhrhjerd.png" group-title="Latinoamérica",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Kq8m72/cvgdxfew43876790ypoyujhdfrghdkjlohourtwte5t2q34rswqsrwfghdfyhdryh.png" group-title="Latinoamérica",Canal 5 Pico Truncado
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tcm9WnZ/132rtgreytreytwgryw2r3284t564trweyrytyede.png" group-title="Latinoamérica",Multivisión
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xMrwTJ/9w908284r579ygfdgbghbrhftw7843y7rw.png" group-title="Latinoamérica",Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yFyCzLg/bcvhbcdgtre543756867900pr425terytrynhjngfjtyhusaweq25t608ouikyjtyujtjfj.png" group-title="Latinoamérica",Canal 6 Mar de Plata
-https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X5m99sL/vcbdsfew57689067413tgfdghdfhjftjftjtujtr4562463474.png" group-title="Latinoamérica",Canal 6 Moreno
-https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal7Jujuy.ar" tvg-logo="https://i.ibb.co/tpsGgHz/cfsdw4red463wee76t6ew5w3tfw3vrsfersf4we22eqw.png" group-title="Latinoamérica",Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://i.imgur.com/yKb7nfP.png" group-title="Latinoamérica",El Siete Mendoza
-https://ythls.armelin.one/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CW1SfmD/vcbhdrfy5769780pl5q23414rtdeygruyhrtuyrt5uyr657854757634.png" group-title="Latinoamérica",Canal 8 Mar del Plata
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj" group-title="Latinoamérica",Canal 8 San Juan
-https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1 tvg-id="Canal8ValledeUco.ar" tvg-logo="https://i.imgur.com/XwZ7m4L.png" group-title="Latinoamérica",Canal 8 Valle de Uco
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-
-#EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="Latinoamérica",El Ocho
-https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="ElNueve.ar" tvg-logo="https://i.ibb.co/Z1bQG6t/hbfdt3w45r7869o8uipoyfdhdhbdtgw36t435eryhe5r5rsedgt.png" group-title="Latinoamérica",El Nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="Canal9Televida.ar" tvg-logo="https://i.ibb.co/MGnDyjm/7y43r5t23rtfegvsrdhgvsihf38992q8r2nsjugvjdg.png" group-title="Latinoamérica",Canal 9 Televida
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkk3bPK/csdswar4ed435w4poses9086t53eswfdreswqwe24d1qsawds.png" group-title="Latinoamérica",Canal 9 La Rioja
-https://inliveserver.com:1936/17012/17012/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R6Gh9TH/bfghryhrtuylp8906324tfgdthfbdnrqaedqawrtpojgtytuj5e6734737ruu4w6.png" group-title="Latinoamérica",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7SBwSCb/dwertds2te563wr3w7ir57w3rtf768rtfsewdadswea48ew.png" group-title="Latinoamérica",Canal 9 Resistencia
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M9vBR4D/veswfdr6e426oewt6sge7tfsd9serf4w3ew3rft65setrf6ffsd.png" group-title="Latinoamérica",Canal 10 Rio Negro
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z65JZJv/vsytf65wer2p09w7yhqvfrwas4q2sefvw67gf3gw.png" group-title="Latinoamérica",Canal 11 de la Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-#EXTINF:-1 tvg-id="ElOnce.ar" tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="Latinoamérica",El Once
-https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WyX2VJr/gvdsyfdwe46397803w87ysegvdsgxtfsawrfdr6wsadrewsdcr.png" group-title="Latinoamérica",Canal 12 Puerto Madryn
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="ElTrece.ar" tvg-logo="https://i.ibb.co/ZSXYZG8/vbxgdew52157978pognfndrhryet3qw45rrhbfnfgmghku7otyuw46t47.png" group-title="Latinoamérica",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B3FXQW3/951-BD3098-B264-C258-CCAA9-B6-C9-FF2-DE053252gwqr.png" group-title="Latinoamérica",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1s8xsF/vbxdfawerq285760oukly56789076457ujyue4tyeujtryy123r5t.png" group-title="Latinoamérica",13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gD2M8sD/cfsdrew2q423weqp9eswfrtfewrdewsw34w3cfxaswdf4wedw.png" group-title="Latinoamérica",Canal 13 Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="CanalOrbe21.ar" tvg-logo="https://i.ibb.co/z7mKH5B/90efrjhrgbfvehufh32yrfy432fwe8hgvhwehu.png" group-title="Latinoamérica",Orbe 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_480p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gg3Hhyr/vgeytre3w4e26q9873twrw3f5ewtftsfetfee9ws.png" group-title="Latinoamérica",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VqBkQmT/csfdt2qet24qp9tewwf3rr4ewsrdawswrsafs6d7swrd.png" group-title="Latinoamérica",Canal 34 San Juan
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6wgwdXm/vcywd54we2etws65rewftsvsrfs4dws85ews4werewt.png" group-title="Latinoamérica",Canal 79 (Mar del Plata)
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6wgwdXm/vcywd54we2etws65rewftsvsrfs4dws85ews4werewt.png" group-title="Latinoamérica",Canal 79 (San Juan)
-https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6wgwdXm/vcywd54we2etws65rewftsvsrfs4dws85ews4werewt.png" group-title="Latinoamérica",Canal 79 (Santa Clara del Mar)
-https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="Latinoamérica",Ciudad Mágica
-https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Latinoamérica",CnAr Deportes
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-#EXTINF:-1 tvg-id="CnArNoticias.ar" tvg-logo="https://i.imgur.com/yOk4bHZ.png" group-title="Latinoamérica",CnAr Noticias
-https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Latinoamérica",DeporTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RHKqRd5/bcbgdasrwq35870jhgyhreytwtye25t4657utryhfhdfyeryuiplmnfbn.png" group-title="Latinoamérica",TDC
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24.ar" tvg-logo="https://i.ibb.co/x3LwKGp/bxsr32498poklouotyhfghfhrywyhnjbvsrq24355687690yhkijtuj.png" group-title="Latinoamérica",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fY0qWnr/bvhxdsareq4768970pljhkhoy6iutfgujdrhfutr7ye4563137987ghj.png" group-title="Latinoamérica",AIRE
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cJGdDL1/cbgea4r37890olutghd231rfdaqfghdhturujtrujtrjurtju.png" group-title="Latinoamérica",BVC
-https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q5bpWMV/bcxvcgtw34780oplkujhhseqa4rfsrgfryre44646237erujrjjur.png" group-title="Latinoamérica",Canal Coop
-https://panel.dattalive.com/8138/8138/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="CanalRural.ar" tvg-logo="https://i.ibb.co/6vXCSWv/fscdw4redw26tgdsxdtfgtxsdfsrfs4rsawewsd46sewdsadtsfrfs.png" group-title="Latinoamérica",Canal Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdNRPPr/gvctyfdwre3wop9e7y9gesytfgxdstdsvftxdfesrtfsdvgds.png" group-title="Latinoamérica",Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-name="CanalLuz.ar" tvg-logo="https://i.ibb.co/sKzCkpf/fbset3458670ouerhdyhyhwe5315tyhgxe4yhe4673476.png" group-title="Latinoamérica",CanalLUZ
 #EXTVLCOPT:http-user-agent=iPhone
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6YKmpZY/cbcnjdtu4677960o5424tgdfyhe4uyhs5u753735u87s64yujghjtrheuy.png" group-title="Latinoamérica",Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sCjTx2t/cgs42379opfghdfhncvbxdfawr2q568970olujktuj4ry4wyrthrdhuyetw36yr5ueruje5ruj5uj5uj.png" group-title="Latinoamérica",Celta TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hTNBHf/vcbdet4367896790pjnhrdt4eyxeds2q37697ouykigfjkftgjftuj.png" group-title="Latinoamérica",Chacra TV
-https://s8.stweb.tv/chacra/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWLqWjh/vdxgtaw4368709oupkjhkty64w64578uthrdetw346e46yere.png" group-title="Latinoamérica",Chilecito TV
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2kFqTcR/gvhnre5t32587uthri870pdsftq241fhdfhbfhbrt3dfwq453658hgf.png" group-title="Latinoamérica",Ciudad TV
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc6K7hj/bvfhgy4e5t46587690o0ffrdgtfcgtw34u868utfhyryhred7ye4.png" group-title="Latinoamérica",CN3
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/brDK5fJ/bcvtuyheye4xgbserq2435769870ygjdrhyshbbxfeawe3217y457ueruyhreuh.png" group-title="Latinoamérica",CPEtv
-https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxj166D/bdxfgw5t3q64589490tyhetgw3ertq5wxvsda268hdrfyhdrhydh.png" group-title="Latinoamérica",GenTV
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPQM06c/bxdgaserq3578696oyopjfgtjhytw346346y3w6twetgsww2415uitfgjdrurujtruj.png" group-title="Latinoamérica",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPQM06c/bxdgaserq3578696oyopjfgtjhytw346346y3w6twetgsww2truj.png" group-title="Latinoamérica",TIV Televisión Tres Isletas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPQM06c/bxdgaserq357tw346346y3w6twetgsww2truj.png" group-title="Latinoamérica",TIV Televisión Tres Isletas
 https://videohd.live:19360/8008/8008.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhX6jss/bcfgbser34w254587606olhrfsgsedgta23558u6oikjfnjf.png" group-title="Latinoamérica",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82NsBQs/bcvhxtdew3q5478659kjirhr4yhp807y4serq2141gtsehygshshyer.png" group-title="Latinoamérica",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/92qzbNp/dgttdsfdsrfr4e2ssxfvytgs675gfrfvsedr7drssr7sdfse.png" group-title="Latinoamérica",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ss5CjSm/678ytuty868658ur5tyeryhjgkhjmghm66rggggggbnmghyiu.png" group-title="Latinoamérica",My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgZJ2n/fgtet4646578u5t8uyedredretr4yru6tui6tutujtgujuyhtree357.png" group-title="Latinoamérica",Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
