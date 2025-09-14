@@ -2130,8 +2130,6 @@ https://livemediacp.com:1936/8064/8064/playlist.m3u8
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-id="DO | CTN" tvg-name="DO | CTN" tvg-logo="https://ctn.com.do/wp-content/uploads/2023/06/Logo-CTN-New.png" group-title="REPUBLICA DOMINICANA", En prueba | CTN || REPUBLICA DOMINICANA
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
-#EXTINF:-1 tvg-id="CU | Canal Clave" tvg-name="CU | Canal Clave" tvg-logo="https://pbs.twimg.com/profile_images/1589839999205359617/fAfsI8AI_400x400.jpg" group-title="CUBA", 1033 | Canal Clave || CUBA
-http://181.78.78.105:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", 1034 | Azteca Uno || MÉXICO
 http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
@@ -2233,8 +2231,6 @@ http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch521/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | CNBC" tvg-name="USA | CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/125px-CNBC_2023.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1080 | CNBC || ESTADOS UNIDOS DE AMÉRICA
 http://168.227.22.18:1935/live/mobile-098/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Fight Network" tvg-name="CA | Fight Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png" group-title="CANADÁ", 1081 | Fight Network || CANADÁ
-http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/150px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONALES", 1082 | TVE || ESPAÑA
 http://45.5.117.182:8000/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1083 | Star TVE HD || ESPAÑA
@@ -2314,10 +2310,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manif
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Escapa TV" tvg-name="ES | Escapa TV" tvg-logo="https://empresas.adamo.es/hubfs/ASJ/TV/Hubdb/Estilo%20de%20vida/escapatv.png" group-title="ESPAÑA", 1121 | Escapa TV || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 1122 | NHK World || JAPON
-https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="KR | Asian TV" tvg-name="KR | Asian TV" tvg-logo="https://tv-iteractiva-prod.s3.amazonaws.com/media/brand/ASIANTV_LOGO_PRETO-01_menor_DURXi6G.png" group-title="KOREA DEL SUR", 1123 | Asian TV || KOREA DEL SUR
-https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 #EXTINF:-1 tvg-id="CI | Ivoire Channel" tvg-name="CI | Ivoire Channel" tvg-logo="https://play-lh.googleusercontent.com/URv6HhGl1NdHOxhCBAZj1vd-GlJBL3Vn9CwDk8z5_SDIufM27Lz76TKmyP8ktEA_bto=s48-rw" group-title="COSTA DE MARFIL", 1124 | Ivoire Channel || COSTA DE MARFIL
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
@@ -2439,7 +2431,7 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPQM06c/bxdgaserq3578696oyopjfgtjhytw346346y3w6twetgsww2415uitfgjdrurujtruj.png" group-title="Latinoamérica",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPQM06c/bxdgaserq357tw346346y3w6twetgsww2truj.png" group-title="Latinoamérica",TIV Televisión Tres Isletas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMYLk1Jx/5r7256q2563748907optjfgtjntfdjsghfkdkljmdfhyrurt5ujru7r57edyhe.png" group-title="Latinoamérica",TIV Televisión
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhX6jss/bcfgbser34w254587606olhrfsgsedgta23558u6oikjfnjf.png" group-title="Latinoamérica",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
