@@ -120,6 +120,8 @@ http://38.44.109.41:8003/play/a045/index.m3u8
 http://200.60.124.19:29000/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Infantil",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K4Kqt7q/vbcxhgrftw326y7689709opuyutfryuhedyrhdtgas5tyutikrftujrftujr5u.png" group-title="Infantil",Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
 http://190.217.23.56:1010/play/a0ec/index.m3u8
