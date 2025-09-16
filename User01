@@ -1313,10 +1313,26 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpN0Ghq/w4537869870hxcvgbcxbgjgyui7teu84w635yrtrhsrty4353.png" group-title="Adultos",Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kPYkDc/6563ydgiuouypbvnxrtyw345rq4rwetghfxdgtw34r3546tryhgd.png" group-title="Adultos",Venus
-http://80.80.91.195:8000/play/a0ds/index.m3u8
-
+http://181.188.216.5:18000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Adultos",Exxxxotica
+http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1 group-title="Adultos",Hustler TV
+http://213.169.39.30:5115
+#EXTINF:-1 group-title="Adultos",Hustler HD
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+#EXTINF:-1 group-title="Adultos",Penthouse Passion HD
+http://141.95.55.143/CH3517/index.m3u8
+#EXTINF:-1 group-title="Adultos",Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Red Lips
+http://77.235.1.19:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Adultos",Vivid Red
+http://103.49.40.100:30010/VIVIDREDHD
+#EXTINF:-1 group-title="Adultos",Русская ночь
+http://77.235.1.19:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWR6pgg/4645635tfghcyxrfyhtruxde4t5w345tr6ywe4w35retewryfcxawqewa-E.png" group-title="Internacional",Tele Safor
 http://video.telesafor.com/hls/video_high.m3u8
