@@ -791,77 +791,6 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="UY | UCL TV" tvg-name="UY | UCL TV" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", 756 | Un Canal Latinoamericano TV || URUGUAY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-id="CR | Norte Informativo TV" tvg-name="CR | Norte Informativo TV" tvg-logo="https://pbs.twimg.com/media/FlMry5xXoAYtMEN?format=png&name=small" group-title="COSTA RICA", 788 | Norte Informativo TV || COSTA RICA
-https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-id="CR | TV Sur Canal 9" tvg-name="CR | TV Sur Canal 9" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online-100x70.png" group-title="COSTA RICA", 790 | TV Sur Canal 9 || COSTA RICA
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="CR | Nicoya TV" tvg-name="CR | Nicoya TV" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="COSTA RICA", 796 | Nicoya TV || COSTA RICA
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
-#EXTINF:-1 tvg-id="CR | Voice Over TV" tvg-name="CR | Voice Over TV" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" group-title="COSTA RICA", 797 | Voice Over TV || COSTA RICA
-https://cloudvideo.servers10.com:8081/8198/index.m3u8
-
-#EXTINF:-1 tvg-id="NI | TV One" tvg-name="NI | TV One" tvg-logo="https://tvonenicaragua.com/wp-content/uploads/2020/02/logo-central-correcto2.png" group-title="NICARAGUA", 812 | TV One || NICARAGUA
-https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 tvg-id="NI | WTV Canal 20 de Nueva Guinea" tvg-name="NI | WTV Canal 20 de Nueva Guinea" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA", 813 | WTV Canal 20 de Nueva Guinea || NICARAGUA
-https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1 tvg-id="SV | RD Click TV" tvg-name="SV | RD Click TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", 829 | RD Click TV || EL SALVADOR
-https://cloudvideo.servers10.com:8081/8064/index.m3u8
-#EXTINF:-1 tvg-id="HN | Girasol TV" tvg-name="HN | Girasol TV" tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" group-title="HONDURAS", 840 | Girasol TV || HONDURAS
-https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2021/01/logo-ltv-top.png" group-title="HONDURAS", 843 | LTV || HONDURAS
-https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w911572265.m3u8
-#EXTINF:-1 tvg-id="HN | Mas Noticias Televisión" tvg-name="HN | Mas Noticias Televisión" tvg-logo="https://cdn.mntv.hn/2022/02/mntv-logo.webp" group-title="HONDURAS", 846 | Mas Noticias Televisión || HONDURAS
-http://amixtv.com:8080/mntvh/index.m3u8
-#EXTINF:-1 tvg-id="HN | Q'Hubo TV" tvg-name="HN | Q'Hubo TV" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="HONDURAS", 848 | Q'Hubo TV || HONDURAS
-https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="HN | EDN" tvg-name="HN | EDN" tvg-logo="https://play-lh.googleusercontent.com/58j_6IIJnaGGvTii9eX8pLgQcXQY45QuvILn7hWICaOlZYnfEaVMyaDH6MitzZx6HBY" group-title="HONDURAS", 853 | EDN || HONDURAS
-https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | RSV" tvg-name="HN | RSV" tvg-logo="https://www.rsvhonduras.com/images/RSV---copia.jpg" group-title="HONDURAS", 854 | RSV || HONDURAS
-https://stmv1.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | Lenca TV" tvg-name="HN | Lenca TV" tvg-logo="https://play-lh.googleusercontent.com/Pj0cw_MtiXOVbmPnOYWuxjRg_RdJIDU682YhYxqwUeFtVYX7QSn-lQgxDKBuJYQ9ajm7" group-title="HONDURAS", 858 | Lenca TV || HONDURAS
-https://www.lencatelevision.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="HN | Olanchito TV Canal 23" tvg-name="HN | Olanchito TV Canal 23" tvg-logo="https://play-lh.googleusercontent.com/T8PKa3_bSjQDxV8DrXwrt3ToHADCA-8qcesWKDvirErkOscHTeAk0RZqyuxkFdtZjgw" group-title="HONDURAS", 859 | Olanchito TV Canal 23 || HONDURAS
-http://168.181.121.194:1836/hlscha3/llive.m3u8?key=3D8aUsX2w
-#EXTINF:-1 tvg-id="HN | TV Centro" tvg-name="HN | TV Centro" tvg-logo="https://yt3.ggpht.com/xEQiwzePGT88-dHDTkP1t0zbnp0z0DrYcBKy3T3qOzbRKLRupUlV3croueV4fZnebZJthe3Ogg=s900-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 860 | TV Centro || HONDURAS
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | TV Centro Más" tvg-name="HN | TV Centro Más" tvg-logo="https://pbs.twimg.com/media/FcsmNR4WYAEZLHK?format=png&name=120x120" group-title="HONDURAS", 861 | TV Centro Más || HONDURAS
-https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | Paradise TV" tvg-name="HN | Paradise TV" tvg-logo="https://pbs.twimg.com/media/FpLXfzgakAk-uUh?format=png&name=small" group-title="HONDURAS", 864 | Paradise TV || HONDURAS
-https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
-#EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", 876 | Nuevo Mundo Televisión || GUATEMALA
-https://tvlatina.live:1936/8008/8008/playlist.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 5 Sololá" tvg-name="GT | Canal 5 Sololá" tvg-logo="https://play-lh.googleusercontent.com/nM4lpY-B8PmfTf61UOpV2wSHLKD02F7stYKL36nzjs5OT6QXTF4dEsyoCVJVW4KlXg=w526-h296-rw" group-title="GUATEMALA", 882 | Canal 5 Sololá || GUATEMALA
-https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
-#EXTINF:-1 tvg-id="GT | Canal TV 6" tvg-name="GT | Canal TV 6" tvg-logo="https://pbs.twimg.com/media/Fk8HcGnWAAArkr1?format=png&name=small" group-title="GUATEMALA", 883 | Canal TV 6 || GUATEMALA
-https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GT | Nim TV" tvg-name="GT | Nim TV" tvg-logo="https://static.wixstatic.com/media/7acae1_a52030788e08407abb6f67a51e0d5276~mv2.png" group-title="GUATEMALA", 889 | Nim TV || GUATEMALA
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-#EXTINF:-1 tvg-id="GT | Visión TV" tvg-name="GT | Visión TV" tvg-logo="https://static.wixstatic.com/media/7acae1_68253d580c29475b9be0be44ae441758~mv2.png" group-title="GUATEMALA", 891 | Visión TV || GUATEMALA
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-id="GT | Telemaya" tvg-name="GT | Telemaya" tvg-logo="https://www.telemaya.com/images/logo.png" group-title="GUATEMALA", 894 | Telemaya || GUATEMALA
-https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
-#EXTINF:-1 tvg-id="GT | TV Radio Maya" tvg-name="GT | TV Radio Maya" tvg-logo="https://d6scj24zvfbbo.cloudfront.net/07b2980a5c2c0fb9c4babbf90a196f49/200000010-25a1825a1a/200/LOGO%20RADIO%20MAYA%20NUEVO%20.png?ph=0a6e80f01c" group-title="GUATEMALA", 895 | TV Radio Maya || GUATEMALA
-https://video.misistemareseller.com/tvradiomaya/tvradiomaya/playlist.m3u8
-#EXTINF:-1 tvg-id="GT | SAS TV" tvg-name="GT | SAS TV" tvg-logo="https://static.wixstatic.com/media/7acae1_c84cc56a740f48d1ad46aab4102788cc~mv2.png" group-title="GUATEMALA", 900 | SAS TV || GUATEMALA
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 100 TV Chinique" tvg-name="GT | Canal 100 TV Chinique" tvg-logo="https://static.wixstatic.com/media/7acae1_17c09e7dae974060a5cf7d0561412dc9~mv2.png" group-title="GUATEMALA", 902 | Canal 100 TV Chinique || GUATEMALA
-https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-#EXTINF:-1 tvg-id="GT | Telecosta" tvg-name="GT | Telecosta" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="GUATEMALA", 905 | Telecosta || GUATEMALA
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 tvg-id="GT | Multivisión" tvg-name="GT | Multivisión" tvg-logo="https://static.wixstatic.com/media/7acae1_95bf7301ff9847eeafd13b08e3570b64~mv2.png" group-title="GUATEMALA", 909 | Multivisión || GUATEMALA
-https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-#EXTINF:-1 tvg-id="GT | Multivisión Sports" tvg-name="GT | Multivisión Sports" tvg-logo="https://static.wixstatic.com/media/7acae1_e6ccf72d22fd440a9cf3c402b04f1a4a~mv2.png" group-title="GUATEMALA", 910 | Multivisión Sports || GUATEMALA
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 tvg-id="GT | Barbe TV" tvg-name="GT | Barbe TV" tvg-logo="https://static.wixstatic.com/media/7acae1_b837b981945d4703a1a838aa550156e0~mv2.png" group-title="GUATEMALA", 911 | Barbe TV || GUATEMALA
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1 tvg-id="GT | Maxivisión" tvg-name="GT | Maxivisión" tvg-logo="https://static.wixstatic.com/media/7acae1_ccb27612733c4b5a90b1fcbf30ce7e2a~mv2.png" group-title="GUATEMALA", 915 | Maxivisión || GUATEMALA
-https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 13 de Esquipulas" tvg-name="GT | Canal 13 de Esreligiosoquipulas" tvg-logo="https://radiosdeguate.com/i/tv/canal-13-esquipulas.png" group-title="GUATEMALA", 920 | Canal 13 de Esquipulas || GUATEMALA
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 933 | Canal RTVD 4 || REPUBLICA DOMINICANA
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
@@ -942,18 +871,75 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FkSLgWwK/grdgye6y4575697yotitoysbhdrhyrsdtyhwesgstgsweysdgh.png" group-title="Latinoamérica",TV Azteca Guate
 http://80.80.91.195:8000/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="Latinoamérica",Nuevo Mundo Televisión
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nM4lpY-B8PmfTf61UOpV2wSHLKD02F7stYKL36nzjs5OT6QXTF4dEsyoCVJVW4KlXg=w526-h296-rw" group-title="Latinoamérica",Canal 5 Sololá
+https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fk8HcGnWAAArkr1?format=png&name=small" group-title="Latinoamérica",Canal TV 6
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_68253d580c29475b9be0be44ae441758~mv2.png" group-title="Latinoamérica",Visión TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.telemaya.com/images/logo.png" group-title="Latinoamérica",Telemaya
+https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
+#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/07b2980a5c2c0fb9c4babbf90a196f49/200000010-25a1825a1a/200/LOGO%20RADIO%20MAYA%20NUEVO%20.png?ph=0a6e80f01c" group-title="Latinoamérica",TV Radio Maya
+https://video.misistemareseller.com/tvradiomaya/tvradiomaya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_c84cc56a740f48d1ad46aab4102788cc~mv2.png" group-title="Latinoamérica",SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_17c09e7dae974060a5cf7d0561412dc9~mv2.png" group-title="Latinoamérica",Canal 100 TV Chinique
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_95bf7301ff9847eeafd13b08e3570b64~mv2.png" group-title="Latinoamérica",Multivisión
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6ccf72d22fd440a9cf3c402b04f1a4a~mv2.png" group-title="Latinoamérica",Multivisión Sports
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_b837b981945d4703a1a838aa550156e0~mv2.png" group-title="Latinoamérica",Barbe TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_ccb27612733c4b5a90b1fcbf30ce7e2a~mv2.png" group-title="Latinoamérica",Maxivisión
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/i/tv/canal-13-esquipulas.png" group-title="Latinoamérica",Canal 13 de Esquipulas
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48JQZZs/tr7u65eujyhgcdxre5t3w456tw67yuhju68it2347a.png" group-title="Latinoamérica",UTV
 https://live-utv.unah.edu.hn/web/salida.m3u8
+#EXTINF:-1 tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2021/01/logo-ltv-top.png" group-title="Latinoamérica",LTV
+https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w911572265.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mntv.hn/2022/02/mntv-logo.webp" group-title="Latinoamérica",Mas Noticias Televisión
+http://amixtv.com:8080/mntvh/index.m3u8
+#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="Latinoamérica",Q'Hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/58j_6IIJnaGGvTii9eX8pLgQcXQY45QuvILn7hWICaOlZYnfEaVMyaDH6MitzZx6HBY" group-title="Latinoamérica",EDN
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rsvhonduras.com/images/RSV---copia.jpg" group-title="Latinoamérica",RSV
+https://stmv1.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Pj0cw_MtiXOVbmPnOYWuxjRg_RdJIDU682YhYxqwUeFtVYX7QSn-lQgxDKBuJYQ9ajm7" group-title="Latinoamérica",Lenca TV
+https://www.lencatelevision.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/T8PKa3_bSjQDxV8DrXwrt3ToHADCA-8qcesWKDvirErkOscHTeAk0RZqyuxkFdtZjgw" group-title="Latinoamérica",Olanchito TV Canal 23
+http://168.181.121.194:1836/hlscha3/llive.m3u8?key=3D8aUsX2w
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xEQiwzePGT88-dHDTkP1t0zbnp0z0DrYcBKy3T3qOzbRKLRupUlV3croueV4fZnebZJthe3Ogg=s900-c-k-c0x00ffffff-no-rj" group-title="Latinoamérica",TV Centro
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FcsmNR4WYAEZLHK?format=png&name=120x120" group-title="Latinoamérica",TV Centro Más
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FpLXfzgakAk-uUh?format=png&name=small" group-title="Latinoamérica",Paradise TV
+https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3KN8yN/6tsd5gwiaqqwiupg89ysd0tw5rews5rfdxsfnsbxseqw331c12wrsg8vxgcmgsyg8wrd2e4w5eftdxctgnf8srfrf.png" group-title="Latinoamérica",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkyhCm2/gxssrdryd26432673wwqaecassactyrdaryse432pokihhgfr4433dw21sj995.png" group-title="Latinoamérica",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="Latinoamérica",RD Click TV
+https://cloudvideo.servers10.com:8081/8064/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-c-k-c0x00ffffff-no-rj" group-title="Latinoamérica",WTV Canal 20 de Nueva Guinea
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hWTnh76/32454e3wvjdgxvwapsyawi6325sarw43awsgvgvcapw873wtlkjdse.png" group-title="Latinoamérica",Tele Uno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3dQs2QC/ncghrs5t3q256680optuhbcfghsegt4ew6y47urtyuhedry6436xfsae32pkmhdfht.png" group-title="Latinoamérica",TeleBrunca
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q7gCKDV/763trefvyet3tu573r3gyureti463t64gwa7f7325647yrtujs.png" group-title="Latinoamérica",Multimedios Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=AuXzb2rF1zkk4eaVO87WfplZR7GvS4cF&sid=zIHnn2xGHZwNOtrlsbncRrfiTdfcv7SE&pid=RGG5M2OWQifKFH8rK2PePitA8vBOJ7Xj&an=screen&at=web-app&av=v5.2.114&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=624x312&without_cookies=false&dnt=true
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FlMry5xXoAYtMEN?format=png&name=small" group-title="Latinoamérica",Norte Informativo TV
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online-100x70.png" group-title="Latinoamérica",TV Sur Canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="Latinoamérica",Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
+#EXTINF:-1 tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" group-title="Latinoamérica",Voice Over TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion.do" tvg-logo="https://i.ibb.co/1RjJwqR/IMG-2431250.png" group-title="Latinoamérica",Teleunión
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P6SMjMj/svtfw4eq20p9kidsuhgfdsxawacwd44edw346r7w.png" group-title="Latinoamérica",Vision NDV
@@ -1305,6 +1291,8 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QY6q33w/vdsygowt652q873w4frqdcsafsvsdgfswqaer46rwf3dwse84w3qdsafsafi.png" group-title="Religión",María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TkyhCm2/gxssrdryd26432673wwqaecassactyrdaryse432pokihhgfr4433dw21sj995.png" group-title="Religión",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8XdmcZN/ytyr76ucxjfsow632q5rw2qfawcfssvtafawe32qw6usacgsy.png" group-title="Religión",Red Advenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LgDggtK/dvsawhv-ssop62t1096tfdsvgxdxftsvasr4awqed8capqavghtgs.png" group-title="Religión",Solidaria TV
