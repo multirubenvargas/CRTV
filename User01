@@ -958,7 +958,7 @@ https://videostream.chileservidores.com:8081/latina/index.m3u8
 https://redirector.dps.live/hls/itv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="Latinoamérica",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Latinoaméria",TVP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="Latinoamérica",TVP
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRzdq9d/xcvxcfewr346870kyjtfhjdfrhgdfgq43576598ujfgtuhrtyuh5.png" group-title="Latinoamérica",TVDOS
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
