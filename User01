@@ -796,7 +796,7 @@ http://38.41.8.1:8000/play/a03m
 http://38.41.8.1:8000/play/a03r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="Latinoamérica",La Tele Tuya
 http://38.41.8.1:8000/play/a044
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_Colombeia.png/150px-Logo_Colombeia.png" group-title="Latinoamérica",Colombeia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZtrn0T4/fgte4658709yoiklmhbxdcrgiog43hwgh3bn5iught5rgrehg45ytrggryrhgyfhye2.png" group-title="Latinoamérica",Colombeia
 http://38.41.8.1:8000/play/a03n
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/300px-ConcienciaTV_logo_letras.png" group-title="Latinoamérica",ConCiencia TV
 http://38.41.8.1:8000/play/a03q
@@ -870,11 +870,11 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycWsJV6R/y6453utyeugugdsxybtebyufgdbuyityi86t868tyuyxgdysqw5yuytpkokoljn-hbjhguytfghurhjyrtyhhyu3.png" group-title="Latinoamérica",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="Latinoamérica",Radio Televisión Oriente
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3kq9zWN/ggchcfyer78698y0okoljnkiserw34256ugvikgviuftu.png" group-title="Latinoamérica",Radio Televisión Oriente
 https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2022/01/inicio_app.png" group-title="Latinoamérica",Telecolor
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="Latinoamérica",RN Televisión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPTTGsS0/hfy6r58709plkopurdwq12qdxetyucesduguigiugt78ut687ifgtikfgtikf84.png" group-title="Latinoamérica",RN Televisión
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="Latinoamérica",Viva TV
 https://live.obslivestream.com/vivatv/index.m3u8
@@ -928,7 +928,7 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 https://master.tucableip.com/univalletv/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="Latinoamérica",TV Show Oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AX" group-title="Latinoamérica",Cinerama Televisión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTBgQX0B/vhfghfdy576970pkllgfhjfdse215ujtfgjtgjbncvnjstew65879ohopklmoljhudrtw354tdytsdye46yrdyedo.png" group-title="Latinoamérica",Cinerama Televisión
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1mWdqTB/89475rwedfscbxvhsbedbfoqiu3j21483y78ryeifb32y4edr4654765.png" group-title="Latinoamérica",Retro Play
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
