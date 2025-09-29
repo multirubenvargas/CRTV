@@ -475,11 +475,11 @@ https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.educa.ec/wp-content/uploads/2018/08/Logo_Educa_Ecuador.png" group-title="Latinoamérica",Educa Televisión
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.webp" group-title="Latinoamérica",TV Color Canal 36 Cotopaxi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWWD9k5h/ngvjgfyteryutyiyoupuhljnkfts4aq3224678vgujvgut6r8dryutfi8r6utfu6tir6rfruytrurt540.png" group-title="Latinoamérica",TV Color
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uRTcgaXlQIMXrtATh3tMnz39UmJ10lg8kHgJZZxMimHvIUhF6pzEckYoD8apAgZZhA=w240-h480-rw" group-title="Latinoamérica",Radio y TV Alegría
 https://video.compuwebecuador.com:3880/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1550346414546456577/iF_qEJDk_400x400.jpg" group-title="Latinoamérica",Austral Televisión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLtY61P1/hcfghxdggvjhgouyp08906712rstqghfghtueyhrt5u8rye47867yujry7rey4w3567ufyhr989.png" group-title="Latinoamérica",Austral TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2022/08/SELLO-RTV-2022-1536x1536.png" group-title="Latinoamérica",RTV
 https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
@@ -578,7 +578,7 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbmp2nNyGG4qX7CQod5FO0HjNNm7mn37mZbH0Ja7R56lp1u3ciY6os58LvmZmJIbI8GQ&usqp=CAU" group-title="Latinoamérica",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="Latinoamérica",DMJ Televisión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdsQMyG3/grdy5r7532675869ghpicgfjhdyhedryrtur7u5r6tu745746463ygryhre.png" group-title="Latinoamérica",DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSNf6rdXIAIono-?format=jpg&name=medium" group-title="Latinoamérica",TV Sistemas
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
