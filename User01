@@ -5,13 +5,13 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
 http://200.60.124.19:29000/play/a0f7/index.m3u8
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MultimediosPlus.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="México",Multimedios MTY
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MultimediosPlus.mx" tvg-logo="https://i.ibb.co/JWHW8VD2/ty54789870yopyludebdft4ey745u8rtujre575ufgtjftuerdye24rtyruditbnxdgsete47.png" group-title="México",Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca7MexicoCity.mx" tvg-logo="https://i.ibb.co/VJ038Fr/418.png" group-title="México",Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="México",Multimedios CDMX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWHW8VD2/ty54789870yopyludebdft4ey745u8rtujre575ufgtjftuerdye24rtyruditbnxdgsete47.png" group-title="México",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="México",Multimedios Bajío
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWHW8VD2/ty54789870yopyludebdft4ey745u8rtujre575ufgtjftuerdye24rtyruditbnxdgsete47.png" group-title="México",Multimedios Bajío
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Ufrvvk.png" group-title="México",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -538,7 +538,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="Latinoamérica",Viva TV
 https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="Latinoamérica",Nativa Televisión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2D4V2CQ/563654865960pitjtkcbcfgas21454y7eueu7e45674yte4u7e57457ure5et5ew456ury.png" group-title="Latinoamérica",Nativa Televisión
 https://ntv.pe/salida/sd/nativa.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="Latinoamérica",Onda Digital Noticias
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
