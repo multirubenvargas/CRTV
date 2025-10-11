@@ -281,8 +281,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="MX | Televisión Querétaro" tvg-name="MX | Televisión Querétaro" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Radio-y-Televisio%CC%81n-Quere%CC%81taro-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="MEXICO", 1048 | Televisión Querétaro || MÉXICO
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1050 | Telemundo || PUERTO RICO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
 #EXTINF:-1 tvg-id="USA | TV Hispanic" tvg-name="USA | TV Hispanic" tvg-logo="https://yt3.googleusercontent.com/bHSIL9B_UGJoqzQV5aRgQBXTIqOaxhFc1CjjfLVundh5Jt8BC_VZU1yjukEemoZonaNz-tbDBQ=s900-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1057 | TV Hispanic || ESTADOS UNIDOS DE AMÉRICA
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Florida" tvg-name="USA | Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="ESTADOS UNIDOS DE AMÉRICA", 1059 | Telemundo Florida || ESTADOS UNIDOS DE AMÉRICA
@@ -416,6 +415,9 @@ https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/cropped-DIGITAL809TV-teless-245-1.png" group-title="Latinoamérica",Digital 809 TV
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://i.ibb.co/1fHxfsP0/wqaktfyutuyrtyurd64e67869gjvmvkwireduif5634678t7tew336ftyt29.png" group-title="Latinoamérica",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rcgL3Sf/34t87ytregvhergvuerhre7tg7f46t3646t438t8rewdg.png" group-title="Latinoamérica",TV Peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VpDHhrV6/ytre7979y0ohonjbhjvgytse4w24vyvtcue4oi5rd64ekdie455k67fr675r7kir86j868j.png" group-title="Latinoamérica",RCN+
@@ -514,7 +516,7 @@ https://live.obslivestream.com/selvatv/index.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="Latinoamérica",CR Televisión
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="Latinoamérica",Vía Alto Mayo Televisión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDQy7k1P/gxdset54e79670pokhkhlobmnctw4563474ryh126yt9gfujrutyhrdfyuhru7070.png" group-title="Latinoamérica",Vía Alto Televisión
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvqLZKp9/fgbdfddsnbmlpoui90opljkjjhnvgr64e271246yhdhrdfh81.png" group-title="Latinoamérica",Nor Selva Televisión
 https://live.obslivestream.com/norselvatv/index.m3u8
@@ -576,7 +578,7 @@ https://ott1.hdlatam.tv/live/cajamarca/RTVC/playlist.m3u8
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JMtk7m4/vbcvbvcnvjmbhkujuipu804512tdfghfhngcjhftursdjgjftyhrjfjurtujye678ryoturqegbdfju0.png" group-title="Latinoamérica",Mega
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbmp2nNyGG4qX7CQod5FO0HjNNm7mn37mZbH0Ja7R56lp1u3ciY6os58LvmZmJIbI8GQ&usqp=CAU" group-title="Latinoamérica",Miel TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFYWFVFT/y4e6y7856896t90gpghkhjkbgty6se3wq2qse6ysdre77ye7t6yutvcxb21.png" group-title="Latinoamérica",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdsQMyG3/grdy5r7532675869ghpicgfjhdyhedryrtur7u5r6tu745746463ygryhre.png" group-title="Latinoamérica",DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
@@ -586,7 +588,7 @@ https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/10/282564259_10158977843387405_6403480060241523290_n-removebg-preview1-e1654154741392-edited-1.png?w=500&ssl=1" group-title="Latinoamérica",Univalle TV
 https://master.tucableip.com/univalletv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="Latinoamérica",TV Show Oruro
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDsLVv2C/fdgfloytf67sw525r5tygrgw436437reuyhdfyhfdrut7er6ydyfgtuift78e67ur415.png" group-title="Latinoamérica",TV Show Oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTBgQX0B/vhfghfdy576970pkllgfhjfdse215ujtfgjtgjbncvnjstew65879ohopklmoljhudrtw354tdytsdye46yrdyedo.png" group-title="Latinoamérica",Cinerama Televisión
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
