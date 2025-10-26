@@ -5,6 +5,8 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
 http://200.60.124.19:29000/play/a0f7/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="México",Canal 5
+http://200.115.120.1:8000/play/ca0105/index.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MultimediosPlus.mx" tvg-logo="https://i.ibb.co/JWHW8VD2/ty54789870yopyludebdft4ey745u8rtujre575ufgtjftuerdye24rtyruditbnxdgsete47.png" group-title="México",Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca7MexicoCity.mx" tvg-logo="https://i.ibb.co/VJ038Fr/418.png" group-title="México",Azteca 7
@@ -178,7 +180,10 @@ http://200.60.124.19:29000/play/a02d/index.m3u8
 http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
 http://200.60.124.19:29000/play/a015/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports
+ http://200.115.120.1:8000/play/ca041/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2
+http://200.115.120.1:8000/play/ca126/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
 http://200.60.124.19:29000/play/a02e/index.m3u8
@@ -202,6 +207,8 @@ http://38.44.109.41:8003/play/a00u/index.m3u8
 http://38.44.109.41:8003/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN
+http://200.115.120.1:8000/play/ca039/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | Novelísima" tvg-name="USA | Novelísima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS", En prueba | Novelísima
@@ -1016,24 +1023,18 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?manifestfilter=v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpN0Ghq/w4537869870hxcvgbcxbgjgyui7teu84w635yrtrhsrty4353.png" group-title="Adultos",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kPYkDc/6563ydgiuouypbvnxrtyw345rq4rwetghfxdgtw34r3546tryhgd.png" group-title="Adultos",Venus
-http://181.188.216.5:18000/play/a01h/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lhhk99pY/fcxgbdrt64e6458976096pyityhdrtw35teuhrtujr5eu7rujr5tur5ur5u.png" group-title="Adultos",Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMJ16tfD/576587607oyupyiklfhydgsetyw36yyh5rujncgvmkhlfgurw215t4yeyeyhe4.png" group-title="Adultos",Hustler TV
 http://213.169.39.30:5115
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g0JnHXF/hgfujtuiti7y0967pp8uikujyew534tyhdyherhdtygsetw5t6y57456y7h7e.png" group-title="Adultos",Hustler HD
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8g0JnHXF/hgfujtuiti7y0967pp8uikujyew534tyhdyherhdtygsety7h7e.png" group-title="Adultos",Sextreme
-http://179.63.6.15:8000/play/a01p
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpbzM2Wn/54y65u86tujrtyhredyhgery45e7dfrhgsetgeyhr.png" group-title="Adultos",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2C62MD0/49yfdhytrye46ye4yxdxxtdye47ye47uujderuye46ye4y6e4wyhe4uyheu5.png" group-title="Adultos",Red Lips
-http://77.235.1.19:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nNF3r85c/fhy7568976670ouypigdasrwrtyryijopkpipijpout75.png" group-title="Adultos",Vivid Red
-http://103.49.40.100:30010/VIVIDREDHD
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpRxR215/5364586595605opoighfnfcjnfdxhydreyheruyhr5ur.png" group-title="Adultos",Русская ночь
-http://77.235.1.19:8000/play/a007/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="ES | Radio Televisión Mogan" tvg-name="ES | Radio Televisión Mogan" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9a3Cn4uJLbEkRS4XPaymSOXxbfkwIpfbvSF_P=s900-c-k-c0x00ffffff-no-rj" group-title="Internacional",Radio Televisión Mogan
@@ -1062,119 +1063,3 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CI | Ivoire Channel" tvg-name="CI | Ivoire Channel" tvg-logo="https://play-lh.googleusercontent.com/URv6HhGl1NdHOxhCBAZj1vd-GlJBL3Vn9CwDk8z5_SDIufM27Lz76TKmyP8ktEA_bto=s48-rw" group-title="Internacional",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="HD",Azteca UNO HD
-http://45.228.234.167:8000/play/a0l1/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/yPknDyH/kghiktytu8d45648i67oftykir6t5iitr868ir59idr9i.png" group-title="HD",Canal 5 HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1226
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tZNr83y/Azteca7.png" group-title="HD",Azteca 7 HD 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5LCWgRc/gbjnxcdry734565895609tiu5eu7e846ywe35t6236y54r8utyuir658i65rtkid.png" group-title="HD",TVP HD
-https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="StarChannelCentralAmerica.us" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="HD",Star Channel HD
-http://38.44.109.41:8003/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="HD",Sony HD
-http://38.44.109.41:8003/play/a039/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2f7ZWv/gallery-1163-2-22008.png" group-title="HD",Warner HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3396
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gFtzgJd/eonline.png" group-title="HD",E! HD
-http://80.80.91.195:8000/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Svkxdg/Universal-TV-HD-Logo-2018.png" group-title="HD",Universal HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3413
-#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="HD",USA HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3415
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FXSouth.us" tvg-logo="https://i.ibb.co/j69Yz1S/6af3093605ba682f40d818ba70786acc.png" group-title="HD",FX HD
-http://38.44.109.41:8003/play/a01g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c88BvQR/A-E-HD.png" group-title="HD",A&E HD
-http://80.80.91.195:8000/play/a0cz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGg35sS/1200px-AXN-HD-Logo-2015.png" group-title="HD",AXN HD
-http://38.44.109.41:8003/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8D9zJ0f/31009457980-baaa6ac9db-o.png" group-title="HD",TNT Series HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3394
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="HD",El Gourmet HD
-http://181.78.8.90:16123/play/ch27
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia.mx" tvg-logo="https://i.ibb.co/pQpPkCH/Distrito-Comedia-LOGO2018.png" group-title="HD",Distrito Comedia HD
-http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="HD",Pasiones HD
-http://181.78.8.90:16123/play/ch35
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CH5vkS0/hola-tv-350x183.png" group-title="HD",¡Hola! TV HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/1244
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fds9Wrn/bvcbfdrye47ti87oupohuklyhjmfdjswre435tw3t5w36y4ewy7e4ye4utrjr.png" group-title="HD",Tlnovelas Univision HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/93458
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QfFNXNM/lifetimechannellogo.png" group-title="HD",Lifetime HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2573
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k1wT9DT/Antena3hd.png" group-title="HD",Antena 3 Internacional HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/79546
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P4thCk6/bfcbnghrftuyr56u7rtyhufrtujdfruftjdxdgdrey5478u6yujtujryhehfgughkihvbnbvjkghkity6ujr.png" group-title="HD",Comedy Central HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2574
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cn9hL87/Unicable2018-2.png" group-title="HD",Unicable HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2587
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K7NQcKD/unnamedmaschic.png" group-title="HD",Mas Chic HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2586
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PQkMFTK/large-1734697758-Atreseries-2020-alterno-png-9b8f2e0072b168dafb16e06c458ae843.png" group-title="HD",A3Series HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/14449
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZZgYRm/Discovery-Kids-2021.png" group-title="HD",Discovery Kids HD
-http://181.78.8.90:16123/play/ch02
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7XnLvqs/1280px-Nick-HD-Logo-svg.png" group-title="HD",Nick HD
-http://38.41.8.1:8000/play/a00i
-#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="CartoonNetworkPacific.us" tvg-logo="https://i.ibb.co/RSvtS9m/1200px-Cartoon-Network-HD-logo-svg.png" group-title="HD",Cartoon Network HD
-http://181.78.8.90:16123/play/ch09
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fXzvCNr/Disney-Channel-2014-HD.png" group-title="HD",Disney Channel HD
-http://181.78.8.90:16123/play/ch03
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x3KKwPX/Tooncast-logo-svg.png" group-title="HD",Tooncast HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3307
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="HD",Disney Jr HD
-http://181.78.8.90:16123/play/ch05
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcqpnhT/Teen-Nick-Logo-2017.png" group-title="HD",TeenNick HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3304
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="HD",Discovery ID HD
-http://38.44.109.41:8003/play/a02s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7QxJXw/mjhfrhfbxcbxdsgew547568fhydhydreheurjuer5ujrujrijrtjft.png" group-title="HD",Discovery Channel HD
-http://181.78.8.90:16123/play/ch22
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YhHv66/1200px-Animal-Planet-HD-Primary-Lockup2-RGB-Wiki-2-svg.png" group-title="HD",Animal Planet HD
-http://181.78.8.90:16123/play/ch29
-#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-name="HistoryPanregional.us" tvg-logo="https://i.ibb.co/5cjQ1cj/History-HD-Logo-2015.png" group-title="HD",History HD
-http://138.59.177.34:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg0dx3K/Nat-Geo-HD.png" group-title="HD",National Geographic HD
-http://181.78.8.90:16123/play/ch30
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8BqxGJ/hfchrd645768967pouyjkmghjfgjktryuhe4y7458u45u87457esrxyhex4y7e45u.png" group-title="HD",DW Español HD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mb9MQyL/discoveryhhhd.png" group-title="HD",H&H HD
-http://181.78.8.90:16123/play/ch25
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NmGZxcB/kisspng-food-network-high-definition-television-logo-claro-diet-5b508052cf0ec6-661240641532002386848.png" group-title="HD",Food Network HD
-http://181.78.8.90:16123/play/ch28
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TsNyyQ/d938752431dsvfcdhvbobhpyht459ih.png" group-title="HD",TUDN HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/135692
-#EXTINF:-1 tvg-id="Claro Sports" tvg-name="Claro Sports" tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="HD",Claro Sports LATAM HD
-https://pubads.g.doubleclick.net/ssai/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVRh4WZ/757821920ofjnvndhqayqroitgpgtjjhr.png" group-title="HD",Claro Sports HD
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-
-#EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="CinecanalWest.us" tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="HD",Cinecanal HD
-http://181.78.8.90:16123/play/ch10
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXR9p18/8796y89689yyhurthurug48589y5ry.png" group-title="HD",AMC HD
-http://181.78.8.90:16123/play/ch13
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="HD",Studio Universal HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3414
-#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="HD",DHE HD
-http://181.78.8.90:16123/play/ch14
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zN0z2Pj/Europa-Europa-HD.png" group-title="HD",Europa Europa HD 
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3260
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6bdjyXF/8948794376gbhfjnguiy87y78y87y78ty.png" group-title="HD",Film & Arts HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/2579
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBOLatinAmerica.us" tvg-logo="https://i.ibb.co/bHCgFxs/yrty546342365t7689ir8i679845ertdgbcvhntue43.png" group-title="HD",HBO HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3380
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO2LatinAmerica.us" tvg-logo="https://i.ibb.co/KsnC45x/t55647yrd7fdy7fcuchvovgomojvnicvhudxfrydsexdfrythvcivoovivcjuhdeyerytftvgv.png" group-title="HD",HBO2 HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3382
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBOFamilyLatinAmerica.us" tvg-logo="https://i.ibb.co/MDMD5mn/yyruy676985678ur567eryhyfgtkiiuyholuyol8t78ur5ye56e5yrtuyhfrtyete4534.png" group-title="HD",HBO Family HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3385
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBOPlusLatinAmerica.us" tvg-logo="https://i.ibb.co/qJZ29hn/0023d21826401e1887f013aedca3274dyhgtfy56rt7575r75r4754r674645e675r6435rtyhtgfjkbhjgfyhd.png" group-title="HD",HBO Plus HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3384
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBOXtremeLatinAmerica.us" tvg-logo="https://i.ibb.co/DR3mBdw/Wz3-Wem-Yy87yt896t87frt7u5r6t7u8t686t8tyighvjfgyertryr7uygibhjgvyhfrdtyrdfyhugf.png" group-title="HD",HBO XTREME HD
-http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3387
-
-
