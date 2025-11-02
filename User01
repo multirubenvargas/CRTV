@@ -1023,7 +1023,8 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?manifestfilter=v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpN0Ghq/w4537869870hxcvgbcxbgjgyui7teu84w635yrtrhsrty4353.png" group-title="Adultos",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kPYkDc/6563ydgiuouypbvnxrtyw345rq4rwetghfxdgtw34r3546tryhgd.png" group-title="Adultos",Venus
+http://181.13.252.102:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lhhk99pY/fcxgbdrt64e6458976096pyityhdrtw35teuhrtujr5eu7rujr5tur5ur5u.png" group-title="Adultos",Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMJ16tfD/576587607oyupyiklfhydgsetyw36yyh5rujncgvmkhlfgurw215t4yeyeyhe4.png" group-title="Adultos",Hustler TV
