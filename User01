@@ -105,7 +105,7 @@ http://200.60.124.19:29000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="BoomerangLatinAmerica.us" tvg-logo="https://i.ibb.co/10jTQz8/dbfvrut4y578378653yusdfw342345rdfgijty7i09834.png" group-title="Infantil",Cartoonito
 http://200.60.124.19:29000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x3KKwPX/Tooncast-logo-svg.png" group-title="Infantil",Tooncast
-http://190.217.23.56:1010/play/a0d0/index.m3u8
+http://45.238.30.42:5050/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="NickJrPanregional.us" tvg-logo="https://i.ibb.co/VJWb6mQ/2560px-Nick-Jr-logo-2009-svg.png" group-title="Infantil",Nick Jr
 http://38.44.109.41:8003/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="Infantil",Disney Jr
@@ -183,16 +183,18 @@ http://38.44.109.41:8003/play/a02w/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMpHkFj/98eu34if4yuhj.png" group-title="Deportes",ESPN 
-http://200.60.124.19:29000/play/a016/index.m3u8
+http://45.238.30.42:5050/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
-http://200.60.124.19:29000/play/a015/index.m3u8
+http://45.238.30.42:5050/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports
  http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2
 http://200.115.120.1:8000/play/ca126/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports 3
+http://185.56.109.251/FoxSport3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
-http://200.60.124.19:29000/play/a02e/index.m3u8
+http://45.238.30.42:5050/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
 http://38.44.109.41:8003/play/a02m/index.m3u8
 
@@ -202,19 +204,19 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgPQrjK/gjhfye4w6785690pyikotue5yfgdsetawqw565yrutyujtfjnfturfujrtfijkrtu68.png" group-title="Deportes",ESPN 4
-http://38.44.109.41:8003/play/a03m/index.m3u8
+http://45.238.30.42:5050/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8dtsDGZ/3w5eytujgfjmvgnmvhfcdgdrui9yupkhlftyuhryhseyhruj7e456reye67erry7reyurt.png" group-title="Deportes",ESPN 5
-http://38.44.109.41:8003/play/a02t/index.m3u8
+http://45.238.30.42:5050/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNmnyNs/134564etdyhdryheahjfftyi6y97otl6vbmkgvjdutujrtiktryirt678568i6uirtuffiki.png" group-title="Deportes",ESPN 6
-http://38.44.109.41:8003/play/a00u/index.m3u8
+http://45.238.30.42:5050/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7
 http://38.44.109.41:8003/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN
-http://200.115.120.1:8000/play/ca039/index.m3u8
+http://185.56.109.251/Tudn/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | Novelísima" tvg-name="USA | Novelísima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS", En prueba | Novelísima
