@@ -188,22 +188,23 @@ http://45.238.30.42:5050/play/a074/index.m3u8
 http://45.238.30.42:5050/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports
 http://185.56.109.251/FoxSport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports Argentina
- http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2
 http://185.56.109.251/FoxSport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2 Argentina
-http://200.115.120.1:8000/play/ca126/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports Argentina
+ http://200.115.120.1:8000/play/ca041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
 http://45.238.30.42:5050/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
-http://38.44.109.41:8003/play/a02m/index.m3u8
-
+http://179.43.96.253:8000/play/a235/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/9373" group-title="Deportes",D Sports
+http://179.43.96.253:8000/play/a24w/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Deportes",TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/9373" group-title="Deportes",Movistar Deportes
+http://179.43.96.253:8000/play/a2ai/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="ElGarageTV.ar" tvg-logo="https://i.ibb.co/L6SRbXQ/Large-logo-garage-TV-HD-png-9288a09ab4d6cbef56c691cd4890aa24.png" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
@@ -216,7 +217,7 @@ http://45.238.30.42:5050/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNmnyNs/134564etdyhdryheahjfftyi6y97otl6vbmkgvjdutujrtiktryirt678568i6uirtuffiki.png" group-title="Deportes",ESPN 6
 http://45.238.30.42:5050/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7
-http://38.44.109.41:8003/play/a02u/index.m3u8
+http://179.43.96.253:8000/play/a1ur/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN
