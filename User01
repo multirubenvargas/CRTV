@@ -187,8 +187,12 @@ http://45.238.30.42:5050/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
 http://45.238.30.42:5050/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports
+http://185.56.109.251/FoxSport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports Argentina
  http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2
+http://185.56.109.251/FoxSport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W3wV63Z/93736345foeo9e4.png" group-title="Deportes",Fox Sports 2 Argentina
 http://200.115.120.1:8000/play/ca126/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHTLB7j/983484yhf9y9866874hvjbnj.png" group-title="Deportes",Fox Sports 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
