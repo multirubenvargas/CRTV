@@ -217,8 +217,10 @@ http://185.56.109.251/FoxSport/playlist.m3u8
 http://185.56.109.251/FoxSport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvpNHmXp/ytrdytikgyt8789r7re5w3eyur5u786r7ur7uftye53657e7346oikpoijouhe17.jpg" group-title="Deportes",Fox Sports 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4yxMHn/nbchdcfrye5467578u0poyujgkgcyesr2q4trdfhuydfrcyuhrur5tu7ryudrgcvbcxgsr53w56e4yryhdryhd.png" group-title="Deportes",Fox Sports Premium
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9593
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdMBBZzD/htfgujytuityuiftue463675r87r9yohvhxdgfxfwate4urir87r5urturyr5yur5u8u6.png" group-title="Deportes",Fox Sports Argentina
- http://200.115.120.1:8000/play/ca041/index.m3u8
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9575
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
 http://45.238.30.42:5050/play/a076/index.m3u8
@@ -226,6 +228,10 @@ http://45.238.30.42:5050/play/a076/index.m3u8
 http://170.82.113.51:8899/play/a0pq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Deportes",DSports
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9560
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Deportes",DSports 2
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9566
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Deportes",DSports +
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9557
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Deportes",TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3vwYjKQ/fcgbdfry7t68689tihughyfyed4retde56rur65786r8ut68r6757u8ryuruuftu.png" group-title="Deportes",Movistar Deportes
@@ -249,10 +255,10 @@ http://38.224.22.252:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RjYKbZJ/gbftyuhr57u68rt8iirutuir698767609oguvgyrd5d5d4d2bu7gtyt76fr6fr679.png" group-title="Deportes",Azteca Deportes Network
 http://38.224.22.252:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
-http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN
 http://185.56.109.251/Tudn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9606
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-name="MX | Sky Sports La Liga" tvg-logo="https://pbs.twimg.com/media/GA01qNoWoAAl6US?format=png&name=240x240" group-title="Deportes",Sky Sports La Liga
 http://45.238.30.42:5050/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fYJx2gHq/jgyhjugyujgyujyrt6e478t9ig90tf76s24tcfyhvjhuvguj6yr76y5yrt7uuyg98gi.png" group-title="Deportes",Tigo Sports
