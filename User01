@@ -5,7 +5,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
 http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="México",Imagen TV  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84Y2PC0Q/4n689frtcy7c46he46e4b6h4enee47ne467d46e46e.png" group-title="México",Imagen TV  
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87616
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="México",Canal 5
 http://185.56.109.253/Canal5/playlist.m3u8
@@ -33,9 +33,7 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtYTnd6/8736t5gesdsuse98ui287yt75e4swaftaswgut3675t32.png" group-title="México",Azteca Uno -2H
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87575
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/256px-Las_Estrellas.svg.png" group-title="México",Las Estrellas -1 Horas
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87581
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/256px-Las_Estrellas.svg.png" group-title="México",Las Estrellas -2 Horas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas -2 Horas
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87583
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwXV0FV/ftre65e757vbjo9p0u8w42w52342yryse5y4uhw4erytsets3w5.png" group-title="México",8 NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -86,7 +84,8 @@ http://38.224.22.252:8000/play/a08e/index.m3u8
 http://38.44.109.41:8003/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QvSWGt0H/tr6j8mkenj6u87rt7d57r575drm7k6587mk87r568mk89686t8mkrdfr5m723.png" group-title="Entretenimiento",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="Entretenimiento",Las Estrellas Latinoamerica
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87581
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="ElGourmetSouth.ar" tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="Entretenimiento",El Gourmet
 http://45.238.30.42:5050/play/a05o/index.m3u8
@@ -592,11 +591,11 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://45.167.2.101:8000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KN7qmQS/6576shbqtvsps6tawi7csawrdcswe8sa3w65wasdrsasudc7srrsdsescf.png" group-title="Musica",Exa TV
 http://200.229.147.142:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1MMg756/6577uegf.png" group-title="Musica",Bandamax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjbVd9z/8589675iytrujrthetr5634yjkiu9o08iuof.png" group-title="Musica",Bandamax
 http://200.229.147.142:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f.png" group-title="Musica",Telehit
 http://200.229.147.142:8000/play/a07o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f.png" group-title="Musica",Telehit Musica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv9pGcd/785478t645ytreugrhugrugurerg.png" group-title="Musica",Telehit Musica
 http://45.167.2.101:8000/play/a0sf/index.m3u8
 
 
