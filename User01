@@ -241,9 +241,9 @@ http://45.238.30.42:5050/play/a04x/index.m3u8
 http://45.238.30.42:5050/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7
 http://170.82.113.51:8899/play/a0li/index.m3u8
-#EXTINF:-1 group-title="Deportes",Claro Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tt6BFVk/tey64xgsgtyiypyukl798iurujrue56ui6yir6uj5r6tujey745u856urtfhyrwetgetgfhdghyjfmjt.png" group-title="Deportes",Claro Sports
 http://38.224.22.252:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Deportes",Claro Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVG3gmW/csrfd46e7q27y86sgdtbdstfvdstfsad8r7swa76e4d6rsarfsa.png" group-title="Deportes",Claro Sports 2
 http://38.224.22.252:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 group-title="Deportes",Azteca Deportes Network
@@ -258,10 +258,15 @@ http://45.238.30.42:5050/play/a07s/index.m3u8
 http://45.238.30.42:5050/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0GMsKp/416685-8c.png" group-title="Deportes",LAS
 http://38.224.22.252:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggHGGYW/vcjnhrd6329670lokhsdarq24q6thfyuyhsrbvhfhydty687695435rydhhhfdh.png" group-title="Deportes",TNT Sports
 http://170.82.113.51:8899/play/a0os/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports Premium
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggHGGYW/vcjnhrd6329670lokhsdarq24q6thfyuyhsrbvhfhydty687695435rydhhhfdh.png" group-title="Deportes",TNT Sports
 http://170.82.113.51:8899/play/a0pp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z4B0yC/9e75242efdgcjgoiu235d.png" group-title="Deportes",Golf Channel
+http://200.229.147.142:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YRrGCz8/928263454fgfgbvbvqqpeiorur6425gfhr.png" group-title="Deportes",PX Sports
+http://200.229.147.142:8000/play/a02j/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MX | ADN 40" tvg-name="MX | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adn40_2022.png/245px-Adn40_2022.png" group-title="Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
