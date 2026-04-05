@@ -246,7 +246,7 @@ http://38.224.22.252:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVG3gmW/csrfd46e7q27y86sgdtbdstfvdstfsad8r7swa76e4d6rsarfsa.png" group-title="Deportes",Claro Sports 2
 http://38.224.22.252:8000/play/a05d/index.m3u8
 
-#EXTINF:-1 group-title="Deportes",Azteca Deportes Network
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RjYKbZJ/gbftyuhr57u68rt8iirutuir698767609oguvgyrd5d5d4d2bu7gtyt76fr6fr679.png" group-title="Deportes",Azteca Deportes Network
 http://38.224.22.252:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
@@ -254,13 +254,13 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 http://185.56.109.251/Tudn/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-name="MX | Sky Sports La Liga" tvg-logo="https://pbs.twimg.com/media/GA01qNoWoAAl6US?format=png&name=240x240" group-title="Deportes",Sky Sports La Liga
 http://45.238.30.42:5050/play/a07s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/GA01qNoWoAAl6U0" group-title="Deportes",Tigo Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fYJx2gHq/jgyhjugyujgyujyrt6e478t9ig90tf76s24tcfyhvjhuvguj6yr76y5yrt7uuyg98gi.png" group-title="Deportes",Tigo Sports
 http://45.238.30.42:5050/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0GMsKp/416685-8c.png" group-title="Deportes",LAS
 http://38.224.22.252:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ggHGGYW/vcjnhrd6329670lokhsdarq24q6thfyuyhsrbvhfhydty687695435rydhhhfdh.png" group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NdFg90BR/ghfrty67879t9ohjvgyvtes4wsw4s4qwtde6y6457r57r6ftuugvyder5fuuj45jn54.png" group-title="Deportes",TNT Sports
 http://170.82.113.51:8899/play/a0os/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ggHGGYW/vcjnhrd6329670lokhsdarq24q6thfyuyhsrbvhfhydty687695435rydhhhfdh.png" group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ngjg7c59/rtge4s6yu5g6y657uruiytufcujgyigywasewrojiojipoojiohuioyuiydr6d6.png" group-title="Deportes",TNT Sports Premium
 http://170.82.113.51:8899/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8z4B0yC/9e75242efdgcjgoiu235d.png" group-title="Deportes",Golf Channel
 http://200.229.147.142:8000/play/a026/index.m3u8
