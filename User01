@@ -5,12 +5,16 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
 http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="México",Imagen TV  
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87616
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="México",Canal 5
 http://185.56.109.253/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MultimediosPlus.mx" tvg-logo="https://i.ibb.co/JWHW8VD2/ty54789870yopyludebdft4ey745u8rtujre575ufgtjftuerdye24rtyruditbnxdgsete47.png" group-title="México",Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca7MexicoCity.mx" tvg-logo="https://i.ibb.co/VJ038Fr/418.png" group-title="México",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFHRjtR/7-CF25422-7712-4-B9-A-9-BCA-F0-EA9-AEF7729.png" group-title="México",Canal 8
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87605
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWHW8VD2/ty54789870yopyludebdft4ey745u8rtujre575ufgtjftuerdye24rtyruditbnxdgsete47.png" group-title="México",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWHW8VD2/ty54789870yopyludebdft4ey745u8rtujre575ufgtjftuerdye24rtyruditbnxdgsete47.png" group-title="México",Multimedios Bajío
@@ -23,14 +27,16 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=AuXzb2rF1zkk4eaVO87WfplZR7GvS4cF&sid=8lJHipITwC0MJo2z6ZnVuRD7of2Rt7p1&pid=kRwErx3UzvyEPTKxMwMMePZh185cPDbx&an=screen&at=web-app&av=v5.2.111&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=938x469&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQHwXJ8/unnamed-1.png" group-title="México",TV Más
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jz32JL1/95r83257regvhvbxcvkfqawpqo348uehfedbgjnswiodwesurhf3grg3y4t867539y5.png" group-title="México",Canal 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrxMybb/9w8w8w8euehqhqhsbxbxnzkzosoww72626etegevwjqir7fyejq.png" group-title="México",Canal 28
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online-100x70.png" group-title="México",Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/RCG-Television-en-vivo-Online-100x70.png" group-title="México",RCG
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YtYTnd6/8736t5gesdsuse98ui287yt75e4swaftaswgut3675t32.png" group-title="México",Azteca Uno -2H
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87575
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/256px-Las_Estrellas.svg.png" group-title="México",Las Estrellas -1 Horas
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87581
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/256px-Las_Estrellas.svg.png" group-title="México",Las Estrellas -2 Horas
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87583
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwXV0FV/ftre65e757vbjo9p0u8w42w52342yryse5y4uhw4erytsets3w5.png" group-title="México",8 NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLwQPyT/453476uyesdgshgfjfhkuo536yretuas5t4gjfxyhrfdyhes4ya3w4ye5u5u754.png" group-title="México",Telemax
