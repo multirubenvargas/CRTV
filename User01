@@ -147,8 +147,6 @@ http://38.44.109.41:8003/play/a02h/index.m3u8
 http://185.56.109.253/Golden/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
 http://185.56.109.253/Edge/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9c8hWs/g" group-title="Cine",Cine Premium
-http://38.224.22.252:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
 http://45.167.1.139:8000/play/a05w
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
@@ -170,12 +168,12 @@ http://38.224.22.252:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5yBRSP/674e3xxmxbigsiraw4s3xderxfsafdrfsad7asdsa6fsatrsaf4rsxex.png" group-title="Cine",Multipremier
 http://38.224.22.252:8000/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.cg" group-title="Cine",A3CINE
-http://38.44.109.41:8003/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="Cine",DHE
 http://38.224.22.252:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.cg" group-title="Cine",EURO Chanel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxrxSRPn/j67k8970opj4564njsx5thws343jn4e6ejh6r6yemny75jydrt65cdj45c1sqwu45j.png" group-title="Cine",EURO Chanel
 http://38.44.109.41:8003/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW8H9Rnw/6h5je467j675h67dj46thgfbhytjnfcryr5tyjncryccrycnyfyrjnytyrjyncr6575.png" group-title="Cine",Cine Premium
+http://38.224.22.252:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R023xXK/bvnvhfdytry7iuytoopfudfawretreyyutrrr6t875r487r5it6791234267807.png" group-title="Cine",HBO
 http://38.224.22.252:8000/play/a05g/index.m3u8
@@ -234,9 +232,9 @@ http://45.238.30.42:5050/play/a076/index.m3u8
 http://170.82.113.51:8899/play/a0pq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Deportes",DSports
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9560
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Deportes",DSports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LNwnZ8q/5hk6jn7n3wyt7dkj8io07r6kijcrk6jtyukvrm6c3q12i75krf7cju7km6j7umr.png" group-title="Deportes",DSports 2
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9566
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Deportes",DSports +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFX38GMf/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xp6jk8i94j56huje4d56hd546yhe4n56jy5njd.png" group-title="Deportes",DSports +
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9557
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Deportes",TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
@@ -642,9 +640,69 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="VE | Mix Music Channel" tvg-name="VE | Mix Music Channel" tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png" group-title="Musica",Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tgXcpx/78iucxhbsdlpwsya6q54wae84ftsvtvawvtsgf9vsdfsrf9w75ws.png" group-title="Religión",San José TV
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="165" tvg-name="Nuevo Tiempo" tvg-logo="https://i.ibb.co/BwYK7sN/cfbhtegwq4r58709ojlny44625t8bndtgwqt56y7hfgw3542674.png" group-title="Religión",Nuevo Tiempo 
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDvWXMN/vdgsks6t3w53w78rq2fwsafyfgvsistgsfsarw42edwgsdxcvsa.png" group-title="Religión",Hosanna Visión
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQNX4Gv/y67575tyriuyifvslsw27o61542wdsfatsdvuixsfdvsdxuvds.png" group-title="Religión",Alcance TV
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QY6q33w/vdsygowt652q873w4frqdcsafsvsdgfswqaer46rwf3dwse84w3qdsafsafi.png" group-title="Religión",María Visión Mexico
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TkyhCm2/gxssrdryd26432673wwqaecassactyrdaryse432pokihhgfr4433dw21sj995.png" group-title="Religión",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XdmcZN/ytyr76ucxjfsow632q5rw2qfawcfssvtafawe32qw6usacgsy.png" group-title="Religión",Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgDggtK/dvsawhv-ssop62t1096tfdsvgxdxftsvasr4awqed8capqavghtgs.png" group-title="Religión",Solidaria TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPbbV2C/vclcgdos7632w5w39sfvcs4wed2ed2dw3rfisxcdfxcsrdw34.png" group-title="Religión",Tele Familia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="Religión",Avivamiento Televisión
+https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="Religión",Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CR | San José TV" tvg-name="CR | San José TV" tvg-logo="https://crtn.org/wp-content/uploads/ultimatemember/532/profile_photo-190x190.jpg?1662519451" group-title="Religión",San José TV
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Solidaria TV" tvg-name="AR | Solidaria TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvGzClf1TW0zlf861XH256v1NGLQ0FdkvMJ8Sc7g=s88-c-k-c0x00ffffff-no-rj" group-title="Religión",Solidaria Televisión
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 tvg-id="CL | Nuevo Tiempo" tvg-name="CL | Nuevo Tiempo" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="Religión",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Nuevo Tiempo" tvg-name="BR | Nuevo Tiempo" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="Religión",Nuevo Tiempo Brasil
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Red Advenir" tvg-name="BO | Red Advenir" tvg-logo="https://play-lh.googleusercontent.com/4Yc7linfAhC8W4T_era7neuHS4hTC8w_noI_kY7_5ffgOvZnOHsjJ1rB9UsUsd3omibw" group-title="Religión",Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w484510804.m3u8
+#EXTINF:-1 tvg-id="USA | Sumtv Latino" tvg-name="USA | Sumtv Latino" tvg-logo="https://i.shgcdn.com/162414fb-323b-4e86-80ea-52b8abfec334/-/format/auto/-/preview/3000x3000/-/quality/lighter/" group-title="Religión",Sumtv Latino
+https://bozztv.com:443/uni10rtmp/ssstv2-cdn/smil:ssstv2-iphone.smil/chunklist_b1152000.m3u8
+#EXTINF:-1 tvg-id="USA | Tu Universo TV" tvg-name="USA | Tu Universo TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739a50b1dceef6584293d88b88d1ec92.webp" group-title="Religión",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Cristiana TV" tvg-name="USA | Cristiana TV" tvg-logo="https://www.cristianatv.com/sitepad-data/uploads/2023/01/logo-1.png" group-title="Religión",Cristiana TV
+https://stmv2.voxtvhd.com.br/cristianatv/cristianatv/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Aliento Visión" tvg-name="USA | Aliento Visión" tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1500w" group-title="Religión",Aliento Visión
+https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Cielo TV" tvg-name="DO | Cielo TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-cielo-tv-cristiana-3072.jpg" group-title="Religión",Cielo TV
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:-1 tvg-id="PA | Hosanna Visión" tvg-name="PA | Hosanna Visión" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png" group-title="Religión",Hosanna Visión
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
+#EXTINF:-1 tvg-id="VE | Reforma TV" tvg-name="VE | Reforma TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/05/reforma-tv-1.png?resize=696%2C435&ssl=1" group-title="Religión",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpN0Ghq/w4537869870hxcvgbcxbgjgyui7teu84w635yrtrhsrty4353.png" group-title="Adultos",Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kPYkDc/6563ydgiuouypbvnxrtyw345rq4rwetghfxdgtw34r3546tryhgd.png" group-title="Adultos",Venus
+http://38.224.22.252:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lhhk99pY/fcxgbdrt64e6458976096pyityhdrtw35teuhrtujr5eu7rujr5tur5ur5u.png" group-title="Adultos",Exxxotica
+http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpbzM2Wn/54y65u86tujrtyhredyhgery45e7dfrhgsetgeyhr.png" group-title="Adultos",Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="BandAmazonas.br" tvg-name="BandAmazonas.br" tvg-logo="https://i.ibb.co/mcY5x89/grt34557898p34rwq4trui769frkijtrier5y74323456fhfjurtuuhy.png" group-title="Brasil",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-
 #EXTINF:-1 tvg-id="547" tvg-name="Classique TV" tvg-logo="https://i.ibb.co/BTKBFrF/6y7547u86ytygccsdfa24e5293wsawsayhgxdsftvxt9fs745w3.png" group-title="Brasil",Classique TV 
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RecordNews.br" tvg-logo="https://i.ibb.co/WpK10XX/ut867cgcxdlogwyifstwufsftsdfet359eswrdswrdsw3w42efsdtf.png" group-title="Brasil",Record News Espirito Santo 
@@ -669,7 +727,6 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://i.ibb.co/3dD6kz3/bcxgsawaq43567869670967452yuouyupklbmccgsrw6757.png" group-title="Brasil",TV Universal 
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BR | TVE" tvg-name="BR | TVE" tvg-logo="https://dateame.co/public/storage/media/20200717_tve_brasil.jpg" group-title="Brasil",TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Aracati" tvg-name="BR | TV Aracati" tvg-logo="https://play-lh.googleusercontent.com/1lXr5lbsVfyHXAKU9VOwDW2eu5qzt10A2LdxpH16bdmx7PezOs_14g8N9UtymBygeCRn=w240-h480-rw" group-title="Brasil",TV Aracati
@@ -734,67 +791,6 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9tgXcpx/78iucxhbsdlpwsya6q54wae84ftsvtvawvtsgf9vsdfsrf9w75ws.png" group-title="Religión",San José TV
-https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="Nuevo Tiempo" tvg-logo="https://i.ibb.co/BwYK7sN/cfbhtegwq4r58709ojlny44625t8bndtgwqt56y7hfgw3542674.png" group-title="Religión",Nuevo Tiempo 
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDvWXMN/vdgsks6t3w53w78rq2fwsafyfgvsistgsfsarw42edwgsdxcvsa.png" group-title="Religión",Hosanna Visión
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQNX4Gv/y67575tyriuyifvslsw27o61542wdsfatsdvuixsfdvsdxuvds.png" group-title="Religión",Alcance TV
-https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QY6q33w/vdsygowt652q873w4frqdcsafsvsdgfswqaer46rwf3dwse84w3qdsafsafi.png" group-title="Religión",María Visión Mexico
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkyhCm2/gxssrdryd26432673wwqaecassactyrdaryse432pokihhgfr4433dw21sj995.png" group-title="Religión",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8XdmcZN/ytyr76ucxjfsow632q5rw2qfawcfssvtafawe32qw6usacgsy.png" group-title="Religión",Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LgDggtK/dvsawhv-ssop62t1096tfdsvgxdxftsvasr4awqed8capqavghtgs.png" group-title="Religión",Solidaria TV
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPbbV2C/vclcgdos7632w5w39sfvcs4wed2ed2dw3rfisxcdfxcsrdw34.png" group-title="Religión",Tele Familia
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="Religión",Avivamiento Televisión
-https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="Religión",Orbe 21
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CR | San José TV" tvg-name="CR | San José TV" tvg-logo="https://crtn.org/wp-content/uploads/ultimatemember/532/profile_photo-190x190.jpg?1662519451" group-title="Religión",San José TV
-https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Solidaria TV" tvg-name="AR | Solidaria TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvGzClf1TW0zlf861XH256v1NGLQ0FdkvMJ8Sc7g=s88-c-k-c0x00ffffff-no-rj" group-title="Religión",Solidaria Televisión
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="CL | Nuevo Tiempo" tvg-name="CL | Nuevo Tiempo" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="Religión",Nuevo Tiempo
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Nuevo Tiempo" tvg-name="BR | Nuevo Tiempo" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="Religión",Nuevo Tiempo Brasil
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Red Advenir" tvg-name="BO | Red Advenir" tvg-logo="https://play-lh.googleusercontent.com/4Yc7linfAhC8W4T_era7neuHS4hTC8w_noI_kY7_5ffgOvZnOHsjJ1rB9UsUsd3omibw" group-title="Religión",Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w484510804.m3u8
-#EXTINF:-1 tvg-id="USA | Sumtv Latino" tvg-name="USA | Sumtv Latino" tvg-logo="https://i.shgcdn.com/162414fb-323b-4e86-80ea-52b8abfec334/-/format/auto/-/preview/3000x3000/-/quality/lighter/" group-title="Religión",Sumtv Latino
-https://bozztv.com:443/uni10rtmp/ssstv2-cdn/smil:ssstv2-iphone.smil/chunklist_b1152000.m3u8
-#EXTINF:-1 tvg-id="USA | Tu Universo TV" tvg-name="USA | Tu Universo TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739a50b1dceef6584293d88b88d1ec92.webp" group-title="Religión",Tu Universo TV
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cristiana TV" tvg-name="USA | Cristiana TV" tvg-logo="https://www.cristianatv.com/sitepad-data/uploads/2023/01/logo-1.png" group-title="Religión",Cristiana TV
-https://stmv2.voxtvhd.com.br/cristianatv/cristianatv/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Aliento Visión" tvg-name="USA | Aliento Visión" tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1500w" group-title="Religión",Aliento Visión
-https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Cielo TV" tvg-name="DO | Cielo TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-cielo-tv-cristiana-3072.jpg" group-title="Religión",Cielo TV
-https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-id="PA | Hosanna Visión" tvg-name="PA | Hosanna Visión" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png" group-title="Religión",Hosanna Visión
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
-#EXTINF:-1 tvg-id="VE | Reforma TV" tvg-name="VE | Reforma TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/05/reforma-tv-1.png?resize=696%2C435&ssl=1" group-title="Religión",Reforma TV
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WpN0Ghq/w4537869870hxcvgbcxbgjgyui7teu84w635yrtrhsrty4353.png" group-title="Adultos",Playboy
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kPYkDc/6563ydgiuouypbvnxrtyw345rq4rwetghfxdgtw34r3546tryhgd.png" group-title="Adultos",Venus
-http://38.224.22.252:8000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lhhk99pY/fcxgbdrt64e6458976096pyityhdrtw35teuhrtujr5eu7rujr5tur5ur5u.png" group-title="Adultos",Exxxotica
-http://31.148.48.15:80/O-la-la/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpbzM2Wn/54y65u86tujrtyhredyhgery45e7dfrhgsetgeyhr.png" group-title="Adultos",Porn Classic
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-
 
 
 
@@ -829,3 +825,45 @@ https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TV Hispanic" tvg-name="USA | TV Hispanic" tvg-logo="https://yt3.googleusercontent.com/bHSIL9B_UGJoqzQV5aRgQBXTIqOaxhFc1CjjfLVundh5Jt8BC_VZU1yjukEemoZonaNz-tbDBQ=s900-c-k-c0x00ffffff-no-rj" group-title="Internacional",TV Hispanic
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Jimmy Neutron (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/mV8DMChmDLrLTH2OcLWZ4yeWOyp.jpg" group-title="24/7",Jimmy Neutron
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/16954
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los padrinos mágicos (e)(720)" tvg-logo="https://i.postimg.cc/Hxm615VF/247-los-padrinos-magico.png" group-title="24/7",Los padrinos mágicos
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169564
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats Crecidos (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/41MKnLkGIcHLfy0PrZK6XEXu4Dx.jpg" group-title="24/7",Rugrats Crecidos
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169533
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Teen Titans (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/kECEmLPLiGKRetN21qTcZ6TGVN4.jpg" group-title="24/7",Teen Titans
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169576
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Un show mas (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/6MI0ASNsRlIaiO9viXBhaU8u9N1.jpg" group-title="24/7",Un show mas
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169572
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juveniles - Drake y Josh (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/4yz5PvVNRW9IqfRywo9zZ9FCSA5.jpg" group-title="24/7",Drake y Josh
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/173429
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juveniles - iCarly (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/i0OQOTyfVQDUltdBrhEaU3Ava7E.jpg" group-title="24/7",iCarly
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/173434
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juveniles - Kenan y Kel (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/90Ep5fOXeUXeaYWp3pq7zmPK742.jpg" group-title="24/7",Kenan y Kel
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/173435
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Manual de supervivencia escolar de Ned (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/npDLsYbOKET90mECCJlWqhyAkTt.jpg" group-title="24/7",Manual de supervivencia escolar de Ned
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/175553
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 1 al 9 (e)(720)(Trial Audio)" tvg-logo="https://image.tmdb.org/t/p/original/35AfqMTE4SfmwzsUe7yi5COtFPe.jpg" group-title="24/7",Los Simpson Temp. 1 al 9
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178834
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 10 al 19 (e)(720)(Trial Audio)" tvg-logo="https://image.tmdb.org/t/p/original/wnRxhctl0aoomdDT882DljozGq6.jpg" group-title="24/7",Los Simpson Temp. 10 al 19
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178836
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 20 al 29 (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg" group-title="24/7",Los Simpson Temp. 20 al 29
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178839
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 30 al 37 (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/soMLjF2VQRl3XkZIB5OoXdOqeLd.jpg" group-title="24/7",Los Simpson Temp. 30 al 37
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178841
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick y Morty (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/ieA8tZrVGXU0kHu1Qko7xQokXaD.jpg" group-title="24/7",Rick y Morty
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178792
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - (Des)encanto (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/vz4NbG9QYymFq4sKCoPbOmKuRIA.jpg" group-title="24/7",(Des)encanto
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177733
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Futurama Tem. 1 al 5 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/fyYBSS4cZYQGLl8BARALtKWINBH.jpg" group-title="24/7",Futurama Tem. 1 al 5
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177739
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Futurama Tem. 6 al 13 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/bmsKWnZBEYD5GBTgivONPBdcxJO.jpg" group-title="24/7",Futurama Tem. 6 al 13
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177740
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Malcolm (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/qxEwQj3zjwHD0V2Hv8NKdOWBdC4.jpg" group-title="24/7",Malcolm
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166096
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - La familia P. Luche (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/8jRAkvPREERnRMyNyi7c0nkGn4I.jpg" group-title="24/7",La familia P. Luche
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166093
+
+
+
