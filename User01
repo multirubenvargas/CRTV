@@ -204,7 +204,7 @@ http://185.56.109.251/FoxSport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
 http://45.238.30.42:5050/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h8FXJL/bhcvgtser52q41587iutumkloupoitikfturdudhxdtsaer56t4eygjcruswyewuujdurdedrddu.png" group-title="Deportes",ESPN Premium
-http://179.43.96.253:8000/play/a235/index.m3u8
+http://170.82.113.51:8899/play/a0pq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Deportes",D Sports
 http://179.43.96.253:8000/play/a24w/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Deportes",TyC Sports
@@ -222,7 +222,7 @@ http://45.238.30.42:5050/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNmnyNs/134564etdyhdryheahjfftyi6y97otl6vbmkgvjdutujrtiktryirt678568i6uirtuffiki.png" group-title="Deportes",ESPN 6
 http://45.238.30.42:5050/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jybN7v/13wrsetyrturu6tu87u85re7ur58u7rujfgtjcfgbcvnvgjygo96t8ir8t5iktrit6ete4y657u6.png" group-title="Deportes",ESPN 7
-http://179.43.96.253:8000/play/a1ur/index.m3u8
+http://170.82.113.51:8899/play/a0li/index.m3u8
 #EXTINF:-1 group-title="Deportes",Claro Sports
 http://45.167.1.139:8000/play/a00d
 #EXTINF:-1 group-title="Deportes",Claro Sports 2
@@ -240,6 +240,10 @@ http://45.238.30.42:5050/play/a07s/index.m3u8
 http://45.238.30.42:5050/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0GMsKp/416685-8c.png" group-title="Deportes",LAS
 http://45.167.1.139:8000/play/a02n
+#EXTINF:-1 group-title="Deportes",TNT Sports
+http://170.82.113.51:8899/play/a0os/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports Premium
+http://170.82.113.51:8899/play/a0pp/index.m3u8
 
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 177 | RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
