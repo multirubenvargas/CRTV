@@ -74,11 +74,11 @@ http://45.238.30.42:5050/play/a06i/index.m3u8
 http://38.224.22.252:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vsj67Wf/1200px-AXN-logo-2015-svg.png" group-title="Entretenimiento",AXN
 http://45.238.30.42:5050/play/a04v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vsj67Wf/1200px-Ag" group-title="Entretenimiento",TNT Series
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8D9zJ0f/31009457980-baaa6ac9db-o.png" group-title="Entretenimiento",TNT Series
 http://38.224.22.252:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TelemundoCentralAmerica.us" tvg-logo="https://i.ibb.co/3rLq5Cw/large-Telemundo-Intl2018-png-cabcb63374fc3ce2e8e59fd38fd6d72d.png" group-title="Entretenimiento",Telemundo Internacional
 http://38.44.109.41:8003/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="Entretenimiento",Azteca Internacional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QvSWGt0H/tr6j8mkenj6u87rt7d57r575drm7k6587mk87r568mk89686t8mkrdfr5m723.png" group-title="Entretenimiento",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
@@ -94,14 +94,15 @@ http://45.238.30.42:5050/play/a07r/index.m3u8
 http://38.224.22.252:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralNorth.us" tvg-name="ComedyCentralNorth.us" tvg-logo="https://i.ibb.co/Bw36nfC/large-279164273-Sinttulo-2-png-76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Entretenimiento",Comedy Central
 http://45.167.2.101:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cn9hL87/Unicable2018-2.png" Group-title="Entretenimiento",Unicable
+http://200.229.147.142:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7BQS86D/fct4eu678o0dkk54x2w345e6kjie45keji46e47ji7juyk8tyue6debhb65n9.png" group-title="Entretenimiento",Univision
+http://45.238.30.42:5050/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="Entretenimiento",Pasiones
 http://38.44.109.41:8003/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.ibb.co/dgrHx1G/hjk-ltyf9i684658y709yuiogholcujfdgheruj45s8i6s6i956ik.png" group-title="Entretenimiento",Telemundo
 http://45.238.30.42:5050/play/a06h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dgrHx1G/hjk-ltyf9i68465ol56ik.png" group-title="Entretenimiento",Univision
-http://45.238.30.42:5050/play/a07e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dgrHx1G/hjk-ltyf9i684658y709yuioghol56ik.png" group-title="Entretenimiento",Unicable
-http://200.229.147.142:8000/play/a05e/index.m3u8
+
 
 
 
