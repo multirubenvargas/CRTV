@@ -135,7 +135,7 @@ http://45.238.30.42:5050/play/a07x/index.m3u8
 http://45.167.2.101:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="Infantil",Disney Jr
 http://45.70.201.81:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="BitMe.mx" tvg-name="BitMe.mx" tvg-logo="https://i.ibb.co/XFdtqMf/ddt8etp-2446086d-08d4-46e5-91f0-9c5c6908fba4.png" group-title="Infantil",Bit Me
+#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://i.ibb.co/XFdtqMf/ddt8etp-2446086d-08d4-46e5-91f0-9c5c6908fba4.png" group-title="Infantil",Bit Me
 http://185.56.109.253/BitMe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
 http://200.229.147.142:8000/play/a00i/index.m3u8
@@ -159,7 +159,7 @@ http://45.167.1.139:8000/play/a05w
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
 http://45.70.201.81:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
-http://45.238.30.42:5050/play/a04p/index.m3u8
+http://38.19.41.46:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
 http://38.224.22.252:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7g4bpd/783786342ytg32gfsjhsgiuruywt4t.png" group-title="Cine",AMC
@@ -167,7 +167,7 @@ http://45.238.30.42:5050/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzcmpwY/092318737683ghfrhbgfui9er768443.png" group-title="Cine",Studio Universal
 http://45.167.1.139:8000/play/a05f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmZCZS6/9387437yhgjrgruituitgretgurett4t4.png" group-title="Cine",TCM
-http://45.238.30.42:5050/play/a05z/index.m3u8
+http://38.19.41.46:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="FilmArtsPanregional.us" tvg-logo="https://i.ibb.co/6bdjyXF/8948794376gbhfjnguiy87y78y87y78ty.png" group-title="Cine",Film & Arts
 http://38.224.22.252:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzDhzDJ/vbxcfdry5r7659i59oyujryher5uj6tru8u5r86u6trykjigytjkiyfgt6i8t6ikt03.png" group-title="Cine",MC
