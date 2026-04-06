@@ -60,7 +60,7 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qjybjg/ghrdte7u6otup634w56yred53w56yrsw4r53q26ye46yw356t43w6e7.png" group-title="México",TVCuatro 4.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="StarChannelMexico.mx" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="StarChannelMexico.mx" tvg-shift="-1" tvg-logo="https://i.ibb.co/0KXTFh7/large-Star-Channel-Logo2021-Fondo-Oscuro-png-3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Entretenimiento",Star Channel
 http://45.70.201.81:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SonyChannelAndes.us" tvg-logo="https://i.ibb.co/GtRhXKj/logo-canal-sony.png" group-title="Entretenimiento",Sony
 http://38.224.22.252:8000/play/a07c/index.m3u8
