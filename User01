@@ -184,6 +184,10 @@ http://38.224.22.252:8000/play/a05i/index.m3u8
 http://38.224.22.252:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phjSdht/nhyut8i97o0r6tu7r45u47uwsert5s3e5rtw4e57yr5u7r65.png" group-title="Cine",HBO Xtreme
 http://38.224.22.252:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHR2wJXn/dyr45h6768j9r6e4h64sjn75ej66yrcenr7ydc646mje4dc6ced6c5212u5h6j.png" group-title="Cine",HBO POP
+http://179.60.191.102:8000/play/a0g4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFRDWfdP/5ghumnjxsegnjkiuoky78igut6cejws5h4w5364i89deiu4h5sw3xwx53hy0.png" group-title="Cine",HBO Signature
+http://179.60.191.102:8000/play/a0es/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvH1bZF/large-1960630694-Investigation-Discovery-png-4f0b536ae710eedf9e17c15fe529aad1.png" group-title="Mundo y Cultura",Discovery ID
