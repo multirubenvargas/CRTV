@@ -104,13 +104,6 @@ http://200.229.147.142:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7BQS86D/fct4eu678o0dkk54x2w345e6kjie45keji46e47ji7juyk8tyue6debhb65n9.png" group-title="Entretenimiento",Univision
 http://45.238.30.42:5050/play/a07e/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NOV-Unimas (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="Entretenimiento",Unimas
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/8388
-
-#EXTINF:-1 tvg-id="Canal.Universo.sv" tvg-name="NOV-Universo (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-I5coVQh61s8/XzNOnK_MruI/AAAAAAAAAtg/FXnVyaZkKrso3K6ppfYzk9omGs-ttSgXQCLcBGAsYHQ/w200-h200/53%2BUniverso%2Btv.png" group-title="Entretenimiento",Universo
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/8391
-
-
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="Entretenimiento",Pasiones
 http://38.44.109.41:8003/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.ibb.co/dgrHx1G/hjk-ltyf9i684658y709yuiogholcujfdgheruj45s8i6s6i956ik.png" group-title="Entretenimiento",Telemundo
@@ -155,7 +148,7 @@ http://185.56.109.253/Golden/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
 http://185.56.109.253/Edge/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
-http://45.167.1.139:8000/play/a05w
+http://45.5.117.99:8000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
 http://45.70.201.81:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
