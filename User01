@@ -4,11 +4,11 @@
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="México",Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
-http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
+http://200.115.120.1:8000/play/ca012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84Y2PC0Q/4n689frtcy7c46he46e4b6h4enee47ne467d46e46e.png" group-title="México",Imagen TV  
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87616
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="México",Canal 5
-http://185.56.109.253/Canal5/playlist.m3u8
+http://200.115.120.1:8000/play/ca0105/index.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MultimediosPlus.mx" tvg-logo="https://i.ibb.co/JWHW8VD2/ty54789870yopyludebdft4ey745u8rtujre575ufgtjftuerdye24rtyruditbnxdgsete47.png" group-title="México",Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca7MexicoCity.mx" tvg-logo="https://i.ibb.co/VJ038Fr/418.png" group-title="México",Azteca 7
@@ -90,7 +90,7 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87581
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="ElGourmetSouth.ar" tvg-logo="https://i.ibb.co/Czp02Vx/68ztlZE.png" group-title="Entretenimiento",El Gourmet
 http://45.238.30.42:5050/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia.mx" tvg-logo="https://i.ibb.co/pQpPkCH/Distrito-Comedia-LOGO2018.png" group-title="Entretenimiento",Distrito Comedia
-http://185.56.109.253/DistritoComedia/playlist.m3u8
+http://200.115.120.1:8000/play/ca082/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-name="HolaTVLatinAmerica.us" tvg-logo="https://i.ibb.co/CH5vkS0/hola-tv-350x183.png" group-title="Entretenimiento",¡Hola! TV
 http://200.229.147.142:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="TlnovelasMexico.mx" tvg-logo="https://i.ibb.co/PFRbvcL/tlnovelas-mediano.png" group-title="Entretenimiento",Tlnovelas
@@ -129,7 +129,7 @@ http://45.167.2.101:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFNdhfZ/Disney-Junior-logo.png" group-title="Infantil",Disney Jr
 http://45.70.201.81:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://i.ibb.co/XFdtqMf/ddt8etp-2446086d-08d4-46e5-91f0-9c5c6908fba4.png" group-title="Infantil",Bit Me
-http://185.56.109.253/BitMe/playlist.m3u8
+http://200.115.120.1:8000/play/ca012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
 http://200.229.147.142:8000/play/a00i/index.m3u8
 
@@ -144,9 +144,9 @@ http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
 http://38.44.109.41:8003/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
-http://185.56.109.253/Golden/playlist.m3u8
+http://200.115.120.1:8000/play/ca024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
-http://185.56.109.253/Edge/playlist.m3u8
+http://200.115.120.1:8000/play/ca037/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
 http://45.5.117.99:8000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
@@ -229,11 +229,11 @@ http://45.238.30.42:5050/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
 http://45.238.30.42:5050/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3MdQrzJ/hfdy54769780yuyurdydhygrdhyfdte25gfhfgkjivghvgte5uf6rd.jpg" group-title="Deportes",Fox Sports
-http://185.56.109.251/FoxSport/playlist.m3u8
+http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqKvC0qY/hfhgfdcytr68t9yjibhydretc6fe5y567ft6er7uf567ufgyrd15678697gjfhydg.jpg" group-title="Deportes",Fox Sports 2
-http://185.56.109.251/FoxSport2/playlist.m3u8
+http://200.115.120.1:8000/play/ca126/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvpNHmXp/ytrdytikgyt8789r7re5w3eyur5u786r7ur7uftye53657e7346oikpoijouhe17.jpg" group-title="Deportes",Fox Sports 3
-http://185.56.109.251/FoxSport3/playlist.m3u8
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9591
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4yxMHn/nbchdcfrye5467578u0poyujgkgcyesr2q4trdfhuydfrcyuhrur5tu7ryudrgcvbcxgsr53w56e4yryhdryhd.png" group-title="Deportes",Fox Sports Premium
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9593
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdMBBZzD/htfgujytuityuiftue463675r87r9yohvhxdgfxfwate4urir87r5urturyr5yur5u8u6.png" group-title="Deportes",Fox Sports Argentina
@@ -273,7 +273,7 @@ http://38.224.22.252:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RjYKbZJ/gbftyuhr57u68rt8iirutuir698767609oguvgyrd5d5d4d2bu7gtyt76fr6fr679.png" group-title="Deportes",Azteca Deportes Network
 http://38.224.22.252:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN
-http://185.56.109.251/Tudn/playlist.m3u8
+http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Deportes",TUDN USA
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9606
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-name="MX | Sky Sports La Liga" tvg-logo="https://pbs.twimg.com/media/GA01qNoWoAAl6US?format=png&name=240x240" group-title="Deportes",Sky Sports La Liga
@@ -290,6 +290,12 @@ http://170.82.113.51:8899/play/a0pp/index.m3u8
 http://200.229.147.142:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YRrGCz8/928263454fgfgbvbvqqpeiorur6425gfhr.png" group-title="Deportes",PX Sports
 http://200.229.147.142:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://i.ibb.co/VBGWJdN/gy47w59ikidtd5r6u747u8jytui5edutruys345w7us47ys4uui.png" group-title="Deportes",EuroSport 1
+http://200.115.120.1:8000/play/ca118/index.m3u8
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://i.ibb.co/26fFVFR/ghfuhtryid658eiyduery6443w6y7uhtru6t5u76ik56i4u7trjsr.png" group-title="Deportes",EuroSport 2
+http://200.115.120.1:8000/play/ca119/index.m3u8
+#EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://i.ibb.co/bHJsPW3/hndfya46y48570odkir53seu86r5tretujs3463265u8r56d.png" group-title="Deportes",WWE Network
+http://200.115.120.1:8000/play/ca121/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MX | ADN 40" tvg-name="MX | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adn40_2022.png/245px-Adn40_2022.png" group-title="Noticias",ADN 40
