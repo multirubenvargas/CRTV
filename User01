@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="México",Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
-http://200.115.120.1:8000/play/ca012/index.m3u8
+http://200.115.120.1:8000/play/ca014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84Y2PC0Q/4n689frtcy7c46he46e4b6h4enee47ne467d46e46e.png" group-title="México",Imagen TV  
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87616
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="México",Canal 5
