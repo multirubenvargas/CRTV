@@ -33,7 +33,7 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca UNO" tvg-name="Azteca UNO" tvg-logo="https://i.ibb.co/YtYTnd6/8736t5gesdsuse98ui287yt75e4swaftaswgut3675t32.png" group-title="México",Azteca Uno -2H
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87575
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas -2 Horas
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas -2 Horas
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/87583
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwXV0FV/ftre65e757vbjo9p0u8w42w52342yryse5y4uhw4erytsets3w5.png" group-title="México",8 NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -68,7 +68,7 @@ http://38.19.41.46:8000/play/a07r/index.m3u8
 http://38.224.22.252:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="EAndes.us" tvg-name="EAndes.us" tvg-logo="https://i.ibb.co/gFtzgJd/eonline.png" group-title="Entretenimiento",E!
 http://38.224.22.252:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="UniversalTVPanregional.us" tvg-logo="https://i.ibb.co/3yzGYMf/1200px-Universal-TV-logo-svg.png" group-title="Entretenimiento",Universal
+#EXTINF:-1 tvg-id="Universal Channel America Latina" tvg-name="Universal Channel America Latina" tvg-logo="https://i.ibb.co/3yzGYMf/1200px-Universal-TV-logo-svg.png" group-title="Entretenimiento",Universal
 http://45.238.30.42:5050/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="SyfyPanregional.us" tvg-logo="https://i.ibb.co/Lny32kC/hbcfyed45w23658ity0okitmtjmkidfrjftjgdfryherysedyhrrrrrdyayhtrujtrut6jtjt6jt.png" group-title="Entretenimiento",USA
 http://200.229.147.142:8000/play/a097/index.m3u8
@@ -104,7 +104,7 @@ http://200.229.147.142:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7BQS86D/fct4eu678o0dkk54x2w345e6kjie45keji46e47ji7juyk8tyue6debhb65n9.png" group-title="Entretenimiento",Univision
 http://45.238.30.42:5050/play/a07e/index.m3u8
 
-#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="Entretenimiento",Pasiones
+#EXTINF:-1 tvg-id="PASNLA" tvg-name="PASNLA" tvg-logo="https://i.ibb.co/r2DV4MS/vbhdfy43e45265978yjuftyhwset54eyhrdfujftgjkmot79853q25reryhgrdyhrtu5ur5ue45uyhe.png" group-title="Entretenimiento",Pasiones
 http://38.44.109.41:8003/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.ibb.co/dgrHx1G/hjk-ltyf9i684658y709yuiogholcujfdgheruj45s8i6s6i956ik.png" group-title="Entretenimiento",Telemundo
 http://45.238.30.42:5050/play/a06h/index.m3u8
@@ -170,7 +170,7 @@ http://38.224.22.252:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="Cine",DHE
 http://38.224.22.252:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxrxSRPn/j67k8970opj4564njsx5thws343jn4e6ejh6r6yemny75jydrt65cdj45c1sqwu45j.png" group-title="Cine",EURO Chanel
+#EXTINF:-1 tvg-id="Euro Channel" tvg-name="Euro Channel" tvg-logo="https://i.ibb.co/vxrxSRPn/j67k8970opj4564njsx5thws343jn4e6ejh6r6yemny75jydrt65cdj45c1sqwu45j.png" group-title="Cine",EURO Chanel
 http://38.44.109.41:8003/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zW8H9Rnw/6h5je467j675h67dj46thgfbhytjnfcryr5tyjncryccrycnyfyrjnytyrjyncr6575.png" group-title="Cine",Cine Premium
 http://38.224.22.252:8000/play/a08d/index.m3u8
