@@ -146,7 +146,7 @@ http://38.44.109.41:8003/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
 http://45.5.117.99:8000/play/a0jv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
-http://200.115.120.1:8000/play/ca037/index.m3u8
+http://45.167.2.138:8000/play/a0sb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
 http://45.5.117.99:8000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
@@ -229,11 +229,11 @@ http://45.238.30.42:5050/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2
 http://45.238.30.42:5050/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3MdQrzJ/hfdy54769780yuyurdydhygrdhyfdte25gfhfgkjivghvgte5uf6rd.jpg" group-title="Deportes",Fox Sports
-http://200.115.120.1:8000/play/ca041/index.m3u8
+http://45.167.2.138:8000/play/a0ql/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqKvC0qY/hfhgfdcytr68t9yjibhydretc6fe5y567ft6er7uf567ufgyrd15678697gjfhydg.jpg" group-title="Deportes",Fox Sports 2
-http://200.115.120.1:8000/play/ca126/index.m3u8
+http://45.167.2.138:8000/play/a0qm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvpNHmXp/ytrdytikgyt8789r7re5w3eyur5u786r7ur7uftye53657e7346oikpoijouhe17.jpg" group-title="Deportes",Fox Sports 3
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9591
+http://45.167.2.138:8000/play/a0qn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4yxMHn/nbchdcfrye5467578u0poyujgkgcyesr2q4trdfhuydfrcyuhrur5tu7ryudrgcvbcxgsr53w56e4yryhdryhd.png" group-title="Deportes",Fox Sports Premium
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9593
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdMBBZzD/htfgujytuityuiftue463675r87r9yohvhxdgfxfwate4urir87r5urturyr5yur5u8u6.png" group-title="Deportes",Fox Sports Argentina
