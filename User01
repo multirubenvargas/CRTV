@@ -132,6 +132,11 @@ http://45.70.201.81:8000/play/a00g/index.m3u8
 http://200.115.120.1:8000/play/ca012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Msh26bx/hhyr64689rijdude567346346547yershfgjhfgjkhykitikdctkijr5ujufryhfjhrtj.png" group-title="Infantil",Adult Swim
 http://200.229.147.142:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Animotion
+http://38.19.41.46:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantil",FMH Kids
+http://38.19.41.46:8000/play/a038/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K4Kqt7q/vbcxhgrftw326y7689709opuyutfryuhedyrhdtgas5tyutikrftujrftujr5u.png" group-title="Infantil",Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
@@ -149,9 +154,9 @@ http://45.5.117.99:8000/play/a0jv/index.m3u8
 http://200.115.120.1:8000/play/ca037/index.m3u8
 #EXTINF:-1 tvg-shift="-1" tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
 http://45.5.117.99:8000/play/a0hu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
+#EXTINF:-1 tvg-shift="-2" tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
 http://45.70.201.81:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
+#EXTINF:-1 tvg-id="Cinemax Este" tvg-name="Cinemax Este" tvg-shift="-1" tvg-logo="https://i.ibb.co/pWRK6NP/r908r423y8723hfrjnkbgok4uy9gryuth.png" group-title="Cine",Cinemax
 http://38.19.41.46:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPXJc99/897487454thjkifdsuhgfuy8hdfhgf8378.png" group-title="Cine",Space
 http://38.224.22.252:8000/play/a02x/index.m3u8
@@ -170,10 +175,21 @@ http://38.224.22.252:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE.us" tvg-logo="https://i.ibb.co/SstmYf2/cjhfdsfdss9625r1fv3ewrtvsdtuvsdf9xds5rec3fe9d3r.png" group-title="Cine",DHE
 http://38.224.22.252:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine",Sony Movies
+http://38.19.41.46:8000/play/a07t/index.m3u8
+
 #EXTINF:-1 tvg-id="Euro Channel" tvg-name="Euro Channel" tvg-logo="https://i.ibb.co/vxrxSRPn/j67k8970opj4564njsx5thws343jn4e6ejh6r6yemny75jydrt65cdj45c1sqwu45j.png" group-title="Cine",EURO Chanel
 http://38.44.109.41:8003/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zW8H9Rnw/6h5je467j675h67dj46thgfbhytjnfcryr5tyjncryccrycnyfyrjnytyrjyncr6575.png" group-title="Cine",Cine Premium
 http://38.224.22.252:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine",FMH Family
+http://38.19.41.46:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine",FMH Movies
+http://38.19.41.46:8000/play/a03b/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine",Re Wind
+http://38.19.41.46:8000/play/a03e/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R023xXK/bvnvhfdytry7iuytoopfudfawretreyyutrrr6t875r487r5it6791234267807.png" group-title="Cine",HBO
 http://38.224.22.252:8000/play/a05g/index.m3u8
@@ -221,6 +237,8 @@ http://45.70.201.81:8000/play/a00b/index.m3u8
 http://38.224.22.252:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMZzWM4/Discovery-Turbo-logo-svg.png" group-title="Mundo y Cultura",Discovery Turbo
 http://45.70.201.81:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Mundo y Cultura",ATLAS
+http://38.19.41.46:8000/play/a039/index.m3u8
 
 
 
@@ -386,6 +404,18 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://i.ibb.co/1fHxfsP0/wqaktfyutuyrtyurd64e67869gjvmvkwireduif5634678t7tew336ftyt29.png" group-title="Latinoamérica",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr17hd2/u34ty7sdfgvwignguh234ryt3gr3842y5.png" group-title="Latinoamérica",Caracol
+http://38.19.41.46:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ysLRBTh/rtreg7863456ehgrhgrogj4w3htytgesdbgfuiweht783.png" group-title="Latinoamérica",Canal Capital
+http://38.19.41.46:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="CanalInstitucional.co" tvg-logo="https://i.ibb.co/16RsSsC/48uty34tyg076jgtht4tygergherhge5.png" group-title="Latinoamérica",Canal Institucional
+http://38.19.41.46:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="SenalColombia.co" tvg-logo="https://i.ibb.co/gMH5Hf2/t6234u5tr34y7tfwegverhg43w57tyr235r234r.png" group-title="Latinoamérica",Señal Colombia
+http://38.19.41.46:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7wCSNw/y435y7ygt4ewygte48ty324trwehgyvfsdhghdfughyey7w.png" group-title="Latinoamérica",Suram
+http://38.19.41.46:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico.co" tvg-logo="https://i.ibb.co/x730HW5/6t36t7grg4y87gerw7ygfds78gyh78e4gdrfhge.png" group-title="Latinoamérica",Telepacífico
+http://38.19.41.46:8000/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VpDHhrV6/ytre7979y0ohonjbhjvgytse4w24vyvtcue4oi5rd64ekdie455k67fr675r7kir86j868j.png" group-title="Latinoamérica",RCN+
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
