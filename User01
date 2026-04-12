@@ -143,7 +143,7 @@ http://38.41.8.1:8000/play/a03o
 
 #EXTINF:-1 tvg-shift="-2" tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
 http://38.44.109.41:8003/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-shift="-2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-shift="-1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
 http://45.5.117.99:8000/play/a0jv/index.m3u8
 #EXTINF:-1 tvg-shift="-1" tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
 http://200.115.120.1:8000/play/ca037/index.m3u8
