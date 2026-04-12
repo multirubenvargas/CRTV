@@ -141,13 +141,13 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="Infantil",1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
+#EXTINF:-1 tvg-shift="-1" tvg-logo="https://i.ibb.co/6gD2Lrk/6043998c.png" group-title="Cine",De Pelicula
 http://38.44.109.41:8003/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-shift="-2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Cine",Golden
 http://45.5.117.99:8000/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-shift="-2" tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
+#EXTINF:-1 tvg-shift="-1" tvg-logo="https://i.ibb.co/84X0bNF/bcfhgry567uru757yreyhrtuhyey7467547er63w46treuhytkigjkhuot7.png" group-title="Cine",Golden Edge
 http://200.115.120.1:8000/play/ca037/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
+#EXTINF:-1 tvg-shift="-1" tvg-logo="https://i.ibb.co/gjGLGr5/tnt-2016-logo-by-darkvoidpictures-ddie1xl-pre.png" group-title="Cine",TNT
 http://45.5.117.99:8000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WcbWFD/09302892yhrhvbdfijgu897hfewjifkoisi90u98.png" group-title="Cine",Cinecanal
 http://45.70.201.81:8000/play/a00n/index.m3u8
