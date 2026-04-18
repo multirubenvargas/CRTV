@@ -312,6 +312,8 @@ http://200.229.147.142:8000/play/a02j/index.m3u8
 http://200.115.120.1:8000/play/ca118/index.m3u8
 #EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://i.ibb.co/26fFVFR/ghfuhtryid658eiyduery6443w6y7uhtru6t5u76ik56i4u7trjsr.png" group-title="Deportes",EuroSport 2
 http://200.115.120.1:8000/play/ca119/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jL4DDzh/903843bhfdiokvopre.png" group-title="Deportes",ESPN 2 USA
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/162676
 #EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://i.ibb.co/bHJsPW3/hndfya46y48570odkir53seu86r5tretujs3463265u8r56d.png" group-title="Deportes",WWE Network
 http://200.115.120.1:8000/play/ca121/index.m3u8
 
