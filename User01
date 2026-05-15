@@ -94,7 +94,7 @@ http://38.19.41.46:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-name="HolaTVLatinAmerica.us" tvg-logo="https://i.ibb.co/CH5vkS0/hola-tv-350x183.png" group-title="Entretenimiento",¡Hola! TV
 http://200.229.147.142:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="TlnovelasMexico.mx" tvg-logo="https://i.ibb.co/PFRbvcL/tlnovelas-mediano.png" group-title="Entretenimiento",Tlnovelas
-http://45.238.30.42:5050/play/a07r/index.m3u8
+http://38.44.109.41:8003/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-name="LifetimePanregional.us" tvg-logo="https://i.ibb.co/QfFNXNM/lifetimechannellogo.png" group-title="Entretenimiento",Lifetime
 http://38.224.22.252:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralNorth.us" tvg-name="ComedyCentralNorth.us" tvg-logo="https://i.ibb.co/Bw36nfC/large-279164273-Sinttulo-2-png-76ad4cb9eab671cd50633ebfeacc11c9.png" group-title="Entretenimiento",Comedy Central
