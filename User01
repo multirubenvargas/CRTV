@@ -14,6 +14,10 @@ https://tinyurl.com/daznsportstv
 http://201.151.118.136:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cKhbrjdg/bcfgtenr6j86760o6olt6ucder7wz46hw3453hzw4h6bzwhbw4w56346ytjufjuftj.png" group-title="Mundial 2026",WIN Sports
 http://181.78.4.250:8097/play/a0av/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKhbrjdg/bcfgtenr6j86760o6olt6ucder7wz46hw3453hzw4h6bzwhbw4w56346ytjufjuftj.png" group-title="Mundial 2026",WIN Sports
+http://190.60.46.226:8888/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKhbrjdg/bcfgtenr6j86760o6olt6ucder7wz46hw3453hzw4h6bzwhbw4w56346ytjufjuftj.png" group-title="Mundial 2026",WIN Sports+
+http://190.60.46.226:8888/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr17hd2/u34ty7sdfgvwignguh234ryt3gr3842y5.png" group-title="Mundial 2026",Caracol
 http://38.19.41.46:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Mundial 2026",América Televisión
