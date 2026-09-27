@@ -212,6 +212,9 @@ http://45.5.117.99:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine",Sony Movies
 http://38.19.41.46:8000/play/a07t/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine",A3CINE
+http://45.5.117.99:8000/play/a077/index.m3u8
+
 #EXTINF:-1 tvg-id="Euro Channel" tvg-name="Euro Channel" tvg-logo="https://i.ibb.co/vxrxSRPn/j67k8970opj4564njsx5thws343jn4e6ejh6r6yemny75jydrt65cdj45c1sqwu45j.png" group-title="Cine",EURO Chanel
 http://38.44.109.41:8003/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zW8H9Rnw/6h5je467j675h67dj46thgfbhytjnfcryr5tyjncryccrycnyfyrjnytyrjyncr6575.png" group-title="Cine",Cine Premium
