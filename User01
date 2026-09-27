@@ -1,38 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i.ibb.co/60jfXbL/Canal52016.png" group-title="Mundial 2026",Canal 5
-http://200.115.120.1:8000/play/ca0105/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Mundial 2026",DSports
-http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LNwnZ8q/5hk6jn7n3wyt7dkj8io07r6kijcrk6jtyukvrm6c3q12i75krf7cju7km6j7umr.png" group-title="Mundial 2026",DSports 2
-https://tinyurl.com/dsportsgo2
-#EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Mundial 2026",TyC Sports Internacional
-https://tinyurl.com/tycsportsar
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27FQVWLH/hcfydryjm-ipm6rntsberabwevgwynrdjktswnz5ebhtw3bv4r5w3b45bqh29335.png" group-title="Mundial 2026",DAZN
-https://tinyurl.com/daznsportstv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XVPHGKD/hnxy456769786olpdujtgucgfjhjcfhyse4637u6tu68u5678u57ike56i6e45iydkjmh.png" group-title="Mundial 2026",TUDN
-http://201.151.118.136:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKhbrjdg/bcfgtenr6j86760o6olt6ucder7wz46hw3453hzw4h6bzwhbw4w56346ytjufjuftj.png" group-title="Mundial 2026",WIN Sports
-http://181.78.4.250:8097/play/a0av/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKhbrjdg/bcfgtenr6j86760o6olt6ucder7wz46hw3453hzw4h6bzwhbw4w56346ytjufjuftj.png" group-title="Mundial 2026",WIN Sports
-http://190.60.46.226:8888/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKhbrjdg/bcfgtenr6j86760o6olt6ucder7wz46hw3453hzw4h6bzwhbw4w56346ytjufjuftj.png" group-title="Mundial 2026",WIN Sports+
-http://190.60.46.226:8888/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr17hd2/u34ty7sdfgvwignguh234ryt3gr3842y5.png" group-title="Mundial 2026",Caracol
-http://38.19.41.46:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Mundial 2026",América Televisión
-https://tinyurl.com/tvamerica
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4j57qjY/hbfxdhnvcbnxdty74568u6759ot7y09otyplotpotyoiaswweawertwry.png" group-title="Mundial 2026",Chile Vision
-https://tinyurl.com/tvchilevision
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gL6mFvYq/er656j768k78jue5xsgfhjgfjkfcjitr5ui5yexsw4aw4tsdyhhyru5u7ru7r5.png" group-title="Mundial 2026",Canal 5 Uruguay
-https://tinyurl.com/canal5uy
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGQZxjwn/5769tyuoypicftrucr5y7uy6e46yxe4y6xe45y6xe46.png" group-title="Mundial 2026",SBT Brasil
-https://tinyurl.com/sbtbra
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwVvkL7r/4h6658790y70gfgtrdhfhnjfjbjcfrdtsaswtq47yer5u75yr57ur5ujtr5ujtr5u8r5u51.png" group-title="Mundial 2026",Sportv Brasil
-https://tinyurl.com/sportvbra
-
-
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-shift="-2" tvg-logo="https://i.ibb.co/yVxywch/bfhgyer436124547659ypojbkhklfdstgyewsyteuyu6ujtru.png" group-title="México",Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.ibb.co/QjNt6JJ/gfdhgyryh5ruyr5tjhgkjgytitw3q451235658699otobvnxcdfgsew.png" group-title="México",Las Estrellas México
@@ -293,13 +261,9 @@ http://45.167.2.138:8000/play/a0qn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qc7ydgC/93735efdvbcjfioedswowo48ruy.png" group-title="Deportes",ESPN 3
 http://45.5.117.99:8000/play/a062/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spB13wLw/te46t576979tyfgdtrtytrujityityi986t9rifdwtqgfbcvnvbghr786597gutyus.png" group-title="Deportes",DSports
 http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LNwnZ8q/5hk6jn7n3wyt7dkj8io07r6kijcrk6jtyukvrm6c3q12i75krf7cju7km6j7umr.png" group-title="Deportes",DSports 2
-https://tinyurl.com/dsportsgo2
-#EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Deportes",TyC Sports Internacional
-https://tinyurl.com/tycsportsar
+
 
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://i.ibb.co/pnhVGr2/vcvbxcbgdxtw35637856907iruj53y75u5rujrtureye456347y4e5ruy.png" group-title="Deportes",TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
@@ -561,6 +525,8 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1mWdqTB/89475rwedfscbxvhsbedbfoqiu3j21483y78ryeifb32y4edr4654765.png" group-title="Latinoamérica",Retro Play
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4j57qjY/hbfxdhnvcbnxdty74568u6759ot7y09otyplotpotyoiaswweawertwry.png" group-title="Latinoamérica",Chile Vision
+https://tinyurl.com/tvchilevision
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJK6DPV/94358u97yigregfgregtuet5hu5rhgt.png" group-title="Latinoamérica",Santa María
 http://unlimited1-us.dps.live/smtv/smtv.smil/smtv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX30vg5/0348gutrfhgfdbgergregegeghetgeuhwyswds.png" group-title="Latinoamérica",Holvoet
