@@ -585,7 +585,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVLatino.us" tvg-name="MTVLatino.us" tvg-logo="https://i.ibb.co/QXL93mf/587965476y7tgureughrugrgthruetgert.png" group-title="Musica",MTV
-http://45.167.2.101:8000/play/a0qt/index.m3u8
+http://190.108.93.180:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KN7qmQS/6576shbqtvsps6tawi7csawrdcswe8sa3w65wasdrsasudc7srrsdsescf.png" group-title="Musica",Exa TV
 http://200.229.147.142:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjbVd9z/8589675iytrujrthetr5634yjkiu9o08iuof.png" group-title="Musica",Bandamax
